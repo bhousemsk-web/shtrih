@@ -28,5 +28,5 @@ window.SHTRIH_CONFIG={
   privacyUrl:'privacy.html',
 
   /* Почта для связи: подставляется в privacy.html при сборке (tools/build.py) */
-  contactEmail:'you@example.com'
+  contactEmail:'wildtrademail@gmail.com'
 };

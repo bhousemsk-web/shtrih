@@ -301,3 +301,4 @@
 1227 Die Stufen 1–2 sind für etwa 5–6 Jahre, die Stufen 3–4 für 6–9 und „Profi“ ab 9. Keine Eile: jede Lektion kann man so oft wiederholen, wie man möchte. Gestrichelte Linien in den Lektionen sind Hilfslinien: sie werden leicht gezeichnet und später wegradiert.
 1228 Überweisung von einer russischen Karte
 1229 Die App sammelt keinerlei Daten: alles bleibt nur auf diesem Gerät.
+1230 Für Erwachsene: Um die Einstellungen zu öffnen (Sprache, Stimme, Sprechtempo, alle Lektionen), halten Sie das Kätzchen oben auf dem Bildschirm 2 Sekunden lang gedrückt.

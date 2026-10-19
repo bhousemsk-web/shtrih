@@ -23,7 +23,7 @@
 • Всё вокруг котиков: котик в коробке, котик-рыбак, котик-художник у мольберта.
 • Тропинка уроков и альбом наклеек: за каждый рисунок — наклейка.
 • Озвучка на 10 языках: русский, английский, испанский, португальский, французский, немецкий, китайский, японский, хинди и арабский.
-• Раздел для взрослых за «родительским замком»: язык, голос, скорость речи, открыть все уроки.
+• Раздел для взрослых за «родительским замком»: язык, голос, скорость речи, открыть все уроки. Чтобы его открыть, нажмите на котика вверху экрана и подержите 2 секунды.
 • Работает без интернета.
 
 Приложение полностью бесплатное, без рекламы и без встроенных покупок. Мы не собираем никаких данных: прогресс хранится только на устройстве.
@@ -51,7 +51,7 @@ Sketch the Cat teaches children to draw on real paper. Put a sheet of paper and 
 • Everything is about cats: a kitty in a box, a fisher kitty, an artist cat at the easel.
 • A lesson trail and a sticker album: every finished drawing earns a sticker.
 • Voice in 10 languages: English, Spanish, Portuguese, French, German, Chinese, Japanese, Hindi, Arabic and Russian.
-• A grown-ups section behind a parental gate: language, voice, speech speed, unlock all lessons.
+• A grown-ups section behind a parental gate: language, voice, speech speed, unlock all lessons. To open it, press and hold the kitty at the top of the screen for 2 seconds.
 • Works offline.
 
 The app is completely free, with no ads and no in-app purchases. We collect no data: progress is stored only on the device.

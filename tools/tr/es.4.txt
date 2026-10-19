@@ -301,3 +301,4 @@
 1227 Los niveles 1–2 son para unos 5–6 años, los niveles 3–4 para 6–9 y «Pro» a partir de 9. Sin prisas: cualquier lección se puede repetir todas las veces que quieras. Las líneas discontinuas de las lecciones son líneas de ayuda: se trazan suave y luego se borran.
 1228 Transferencia desde una tarjeta rusa
 1229 La app no recopila ningún dato: todo se guarda solo en este dispositivo.
+1230 Para los adultos: para abrir los ajustes (idioma, voz, velocidad de la voz, todas las lecciones), mantén pulsado el gatito de arriba durante 2 segundos.
