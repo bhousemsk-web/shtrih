@@ -301,3 +301,4 @@
 1227 Os níveis 1–2 são para uns 5–6 anos, os níveis 3–4 para 6–9 e o “Profissional” a partir dos 9. Sem pressa: qualquer lição pode ser repetida quantas vezes quiser. As linhas tracejadas nas lições são linhas de apoio: são desenhadas de leve e depois apagadas.
 1228 Transferência de um cartão russo
 1229 O app não coleta nenhum dado: tudo fica salvo só neste aparelho.
+1230 Para os adultos: para abrir as configurações (idioma, voz, velocidade da fala, todas as aulas), toque e segure o gatinho no topo da tela por 2 segundos.

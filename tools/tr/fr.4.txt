@@ -301,3 +301,4 @@
 1227 Les niveaux 1–2 sont pour 5–6 ans environ, les niveaux 3–4 pour 6–9 ans et « Pro » à partir de 9 ans. Rien ne presse : chaque leçon peut être refaite autant de fois qu'on veut. Les pointillés dans les leçons sont des lignes d'aide : on les trace légèrement et on les gomme ensuite.
 1228 Virement depuis une carte russe
 1229 L'application ne collecte aucune donnée : tout reste sur cet appareil.
+1230 Pour les adultes : pour ouvrir les réglages (langue, voix, vitesse de la voix, toutes les leçons), appuyez 2 secondes sur le chaton en haut de l’écran.
