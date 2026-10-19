@@ -1,0 +1,45 @@
+# Выкладывает сайт (dist/web) и Telegram Mini App (dist/telegram → tg/) на GitHub Pages
+# при каждом изменении ветки main.
+name: Сайт на GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install fonttools brotli
+      - run: bash tools/get_fonts.sh || echo "шрифты не скачались — будут системные"
+      - run: python3 tools/build_i18n.py
+      - run: python3 tools/build.py web telegram
+      - name: Собрать сайт
+        run: |
+          mkdir -p site
+          cp -r dist/web/. site/
+          cp -r dist/telegram site/tg
+          touch site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

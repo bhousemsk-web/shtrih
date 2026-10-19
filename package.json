@@ -10,5 +10,14 @@
     "assets": "npx @capacitor/assets generate --iconBackgroundColor '#D9E9F4' --splashBackgroundColor '#D9E9F4'",
     "android": "npx cap open android",
     "rustore": "python3 tools/build.py rustore"
+  },
+  "dependencies": {
+    "@capacitor-community/text-to-speech": "^8.0.2",
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5"
   }
 }
