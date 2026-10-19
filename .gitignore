@@ -2,3 +2,6 @@ node_modules/
 dist/
 *.keystore
 *.jks
+release/
+/icons/
+www/manifest.json

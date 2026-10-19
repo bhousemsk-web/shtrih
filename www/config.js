@@ -13,11 +13,10 @@ window.SHTRIH_CONFIG={
 
   /* Реквизиты для поддержки. Замените примеры на свои. Пустые строки не показываются. */
   donate:{
-    cardLink:'https://pay.cloudtips.ru/p/00000000',      /* ссылка на перевод с карты: CloudTips (Т-Банк), ЮMoney, Boosty… */
+    cardLink:'https://yoomoney.ru/to/4100119661361771',      /* ссылка на перевод с карты: CloudTips (Т-Банк), ЮMoney, Boosty… */
     cardLabel:'Перевод с российской карты',
     crypto:[
-      {name:'USDT (TRC-20)',address:'TXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'},
-      {name:'TON',address:'UQXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'}
+      {name:'Bybit UID',address:'431155003'}
     ]
   },
 
