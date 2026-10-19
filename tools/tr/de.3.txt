@@ -1,0 +1,227 @@
+0700 Der Schatten vom Stamm fällt nach rechts, weg von der Sonne.
+0701 Am Ende der Schatten der Krone: ein Oval auf dem Boden.
+0702 Schraffiere die Schatten.
+0703 Eigenschatten an der Krone: der Rand unten rechts.
+0704 Sonne rechts.
+0705 Der Pilzhut: eine Kuppel und darunter ein Bogen.
+0706 Stiel: zwei Striche nach unten.
+0707 Punkte auf dem Hut.
+0708 Die Sonne ist rechts, also ist der Schatten links. Zeichne ihn und schraffiere ihn.
+0709 Gras.
+0710 Sonnenschirm: eine Kuppel, ein welliger Rand und ein Stab.
+0711 Der Schatten vom Schirm fällt nach rechts. Zeichne ein großes Oval auf den Boden.
+0712 Das Kätzchen versteckt sich im Schatten.
+0713 Schraffiere den Schatten. Da ist es für das Kätzchen schön kühl!
+0714 Aufwärmen! Zickzack-Gras: unten hoch, weiter oben niedrig.
+0715 Horizont. Lass Platz, wo der große Baum hinkommt.
+0716 Der nahe Baum: groß und unten.
+0717 Der ferne Baum: klein, direkt am Horizont.
+0718 Ein Kätzchen auf der Wiese.
+0719 Die Sonne ist rechts, also liegt der Schatten vom Kätzchen links. Zeichne ihn und schraffiere ihn.
+0720 Gras: nah hoch, fern klein.
+0721 Teich: ein großes liegendes Oval.
+0722 Schilf am Ufer: Striche mit Ovalen oben.
+0723 Kleine Ringe auf dem Wasser: hier ist ein Fisch gesprungen.
+0724 Bäume in der Ferne, am Horizont.
+0725 Das Kätzchen am Ufer.
+0726 Sonne links, der Schatten vom Kätzchen rechts.
+0727 Ein Häuschen und Tannen in der Ferne.
+0728 Schneemann: drei Kugeln.
+0729 Kätzchen.
+0730 Sonne links: Schatten nach rechts.
+0731 Horizont. Lass Platz für den großen Baum.
+0732 Ein großer Baum in der Nähe.
+0733 Ein kleiner Baum in der Ferne.
+0734 Blätter fallen: wie kleine Boote.
+0735 Das Kätzchen und eine Pfütze.
+0736 Sonne links: der Schatten vom Kätzchen nach rechts.
+0737 Aufwärmen! Mach einen Punkt in der Mitte und zieh von allen Ecken vom Blatt gerade Linien zu ihm, wie Strahlen.
+0738 Zeichne den Horizont und mach einen Punkt in der Mitte. Das ist der Fluchtpunkt: alles, was weit weg ist, läuft zu ihm hin.
+0739 Die Ränder der Straße: zwei gerade Linien vom unteren Blattrand bis zum Punkt.
+0740 Die Markierung in der Mitte. Nah sind die Streifen lang, weiter weg immer kürzer.
+0741 Hilfslinien für die Pfosten. Zeichne sie ganz leicht, auch zum Fluchtpunkt.
+0742 Pfosten zwischen den Hilfslinien. Je weiter weg, desto niedriger!
+0743 Ein Kätzchen sitzt an der Straße und schaut in die Ferne.
+0744 Horizont und Fluchtpunkt.
+0745 Hilfslinien für die Schwellen: ganz leicht, zum Punkt.
+0746 Schwellen: kurze Querstriche. Je weiter weg, desto kürzer und enger.
+0747 Schienen: zwei Linien zum Fluchtpunkt.
+0748 Das Kätzchen sitzt an den Gleisen.
+0749 Horizont und ein Fluchtpunkt rechts.
+0750 Hilfslinien: oben und unten am Zaun, zum Punkt.
+0751 Pfosten: je weiter weg, desto niedriger und enger.
+0752 Querlatten, auch zum Fluchtpunkt.
+0753 Das Kätzchen sitzt auf dem Zaun.
+0754 Gras am Zaun.
+0755 Die Ufer vom Fluss: zwei Linien zum Fluchtpunkt. Wo das Kätzchen sitzt, zeichnen wir die Linie nicht.
+0756 Wellen: vorne groß, in der Ferne klein und dicht.
+0757 Bäume am Ufer: je weiter weg, desto kleiner.
+0758 Das Kätzchen am rechten Ufer.
+0759 Aufwärmen! Zeichne ein kleines Quadrat und oben rechts einen Punkt. Zieh von den Ecken vom Quadrat leichte Linien zum Punkt.
+0760 Die Vorderseite der Kiste: ein Quadrat.
+0761 Zieh von drei Ecken ganz leicht Hilfslinien zum Fluchtpunkt.
+0762 Miss auf den Hilfslinien die Tiefe der Kiste ab: drei kurze Kanten.
+0763 Die hinteren Kanten: verbinde die Enden. Jetzt ist die Kiste räumlich!
+0764 Die Seite der Kiste ist im Schatten. Schraffiere sie.
+0765 Ein Kätzchen daneben: es hat eine neue Kiste gefunden!
+0766 Horizont und ein Fluchtpunkt in der Mitte.
+0767 Die Vorderseiten von zwei Kisten: Quadrate links und rechts.
+0768 Hilfslinien von den Ecken zum Fluchtpunkt.
+0769 Die linke Kiste: Oberseite und rechte Seite.
+0770 Die rechte Kiste: Oberseite und linke Seite. Die Seiten zeigen zum Fluchtpunkt.
+0771 Die Seiten im Schatten: schraffiere sie.
+0772 Ein Kätzchen zwischen den Kisten.
+0773 Die Vorderwand ist ein Quadrat, das Dach ein Dreieck.
+0774 Hilfslinien zum Fluchtpunkt von den rechten Ecken und der Dachspitze.
+0775 Die Seitenwand entlang der Hilfslinien.
+0776 Das Dach von der Seite: der First läuft in die Ferne.
+0777 Vorne eine Tür, an der Seite ein Fenster.
+0778 Die Seitenwand im Schatten.
+0779 Die Vorderseite der Truhe: ein Rechteck.
+0780 Hilfslinien zum Fluchtpunkt.
+0781 Oberseite und Seite der Truhe.
+0782 Deckel: eine Linie vorne und eine an der Seite, auch zum Punkt.
+0783 Beschläge und ein kleines Schloss.
+0784 Die Seite im Schatten. Ein Kätzchen auf der Truhe.
+0785 Aufwärmen! Mach rechts einen Punkt und zeichne Pfosten, die zu ihm hinlaufen: jeder niedriger als der davor.
+0786 Hilfslinien für die Bäume links: unten und oben. Ganz leicht.
+0787 Die Ränder vom Weg, auch zum Punkt.
+0788 Bäume links zwischen den Hilfslinien. Je weiter weg, desto kleiner.
+0789 Die gleichen Bäume rechts, wie im Spiegel.
+0790 Das Kätzchen spaziert durch die Allee.
+0791 Hilfslinien für die Laternen: unten und oben.
+0792 Die Ränder der Straße.
+0793 Laternen: je weiter weg, desto niedriger und enger.
+0794 Ein Kätzchen an der Straße.
+0795 Hilfslinien: unten an den Tannen, links und rechts.
+0796 Weg.
+0797 Tannen: vorne groß, in der Ferne klein.
+0798 Ein Kätzchen geht den Pfad entlang.
+0799 Die Ränder der Brücke: Linien zum Fluchtpunkt.
+0800 Geländer: die oberen Linien laufen auch zum Punkt.
+0801 Die Geländerpfosten: je weiter weg, desto niedriger und enger.
+0802 Bretter auf der Brücke: Querlinien, in der Ferne immer enger.
+0803 Ein Kätzchen geht über die Brücke.
+0804 Aufwärmen! Ein Horizont mit zwei Punkten an den Enden. Zeichne einen Strich und zieh von seinen Enden Linien zu beiden Punkten.
+0805 Der Horizont ist tief, mit zwei Fluchtpunkten an den Blatträndern. Lass in der Mitte Platz für das Haus.
+0806 Die nahe Ecke vom Haus: eine hohe senkrechte Linie.
+0807 Zieh von den Enden der Linie leichte Hilfslinien zu beiden Punkten.
+0808 Wo die Wände enden: zwei senkrechte Linien links und rechts.
+0809 Zieh die Wände entlang der Hilfslinien nach: oben und unten.
+0810 Eine Tür und ein Fenster an der rechten Wand. Ihre Kanten zeigen auch zum Fluchtpunkt.
+0811 Die Sonne ist rechts. Die linke Wand ist im Schatten, schraffiere sie.
+0812 Ein Kätzchen sitzt auf der Dachecke!
+0813 Der Horizont ist hoch, mit zwei Fluchtpunkten an den Rändern.
+0814 Die nahe Ecke der Kiste.
+0815 Hilfslinien von den Enden der Ecke zu beiden Punkten.
+0816 Die Ränder der Kiste: zwei senkrechte Linien.
+0817 Zieh die Seiten und die Oberseite nach. Wir schauen von oben, also sehen wir den Deckel.
+0818 Bretter an den Seiten: die Linien laufen auch zu den Fluchtpunkten.
+0819 Die linke Seite im Schatten.
+0820 Ein Kätzchen auf der Kiste.
+0821 Der Horizont ist tief, mit zwei Punkten an den Rändern: wir schauen von unten auf den Turm.
+0822 Die nahe Ecke vom Turm: eine hohe Linie.
+0823 Hilfslinien zu beiden Fluchtpunkten.
+0824 Die Kanten der Wände und die Wandlinien.
+0825 Ein spitzes Dach und eine Flagge.
+0826 Fenster: ihre Kanten zeigen auch zu den Fluchtpunkten.
+0827 Die linke Wand im Schatten.
+0828 Ein Kätzchen am Turm.
+0829 Der Horizont ist hoch, mit zwei Fluchtpunkten.
+0830 Die nahe Ecke der Hundehütte.
+0831 Hilfslinien zu beiden Punkten.
+0832 Die Kanten der Wände und die Oberseite.
+0833 Ein Türchen mit runder Oberkante an der rechten Wand.
+0834 Drinnen ist es dunkel, und die linke Wand ist im Schatten.
+0835 Aufwärmen! Zeichne ein Oval und einen Kreis und schraffiere bei beiden die dunkle Seite. Licht von oben links.
+0836 Licht von oben links. Der Kopf ist rund, also ist er unten rechts dunkler. Schraffiere den Rand.
+0837 Der Körper ist auch rund: wir schraffieren die dunkle Seite rechts.
+0838 Und ein Schatten auf dem Boden rechts. Zeichne ihn und schraffiere ihn dichter.
+0839 Birne: unten ein großer Kreis, oben ein kleinerer. Zeichne die Linien innen nicht.
+0840 Glanzlicht.
+0841 Eigenschatten: die dunkle Seite rechts.
+0842 Der Schatten auf dem Tisch.
+0843 Körper: ein langes liegendes Oval. Vorne ist der Kopf, dort zeichnen wir die Linie nicht.
+0844 Kopf, Ohren und Pfote.
+0845 Licht von oben rechts: die dunkle Seite ist unten links.
+0846 Der Schatten auf dem Boden links.
+0847 Wassermelone: ein großer Kreis und ein Stiel.
+0848 Streifen: Bögen von oben nach unten.
+0849 Eigenschatten: die Seite unten rechts.
+0850 Aufwärmen! Zeichne drei Tannen: eine große unten, eine mittlere weiter oben und eine kleine direkt an der Linie.
+0851 Hintergrund: Berge. Sie sind am Horizont und sehen klein aus.
+0852 Schnee auf dem Gipfel: ein kleiner Zickzack.
+0853 Mittelgrund: ein Häuschen und ein Baum, kleiner.
+0854 Vordergrund: das Kätzchen ist ganz nah. Es ist so groß, dass es gar nicht ganz aufs Blatt passt!
+0855 Das Gesicht vom großen Kätzchen.
+0856 Großes Gras vorne und Vögel am Himmel.
+0857 Horizont. Wo das Häuschen und der Baum hinkommen, zeichnen wir die Linie nicht.
+0858 Hintergrund: Häuserumrisse am Horizont. Wo das nahe Haus hinkommt, zeichnen wir die Linie nicht.
+0859 Mittelgrund: ein Häuschen und ein Baum.
+0860 Vordergrund: ein großes Kätzchen, es passt gar nicht ganz drauf.
+0861 Vögel am Himmel.
+0862 Hintergrund: eine kleine Insel mit einer Palme.
+0863 Mittelgrund: ein Segelboot auf den Wellen.
+0864 Vordergrund: das Ufer. Wo das Kätzchen ist, zeichnen wir die Linie nicht.
+0865 Ein großes Kätzchen vorne.
+0866 Eine Muschel im Sand: eine kleine Spirale.
+0867 Hintergrund: Hügel am Horizont.
+0868 Mittelgrund: kleinere Tannen.
+0869 Vordergrund: eine große Tanne links, sie passt gar nicht ganz drauf.
+0870 Das Kätzchen ist ganz nah.
+0871 Gras vorne.
+0872 Aufwärmen! Die Sonne steht tief rechts. Zeichne Striche und ihre langen Schatten nach links.
+0873 Horizont. Lass in der Mitte Platz für die Baumkrone.
+0874 Abend: die Sonne geht rechts unter, direkt am Horizont.
+0875 Baum.
+0876 Am Abend steht die Sonne tief, und die Schatten sind lang, lang, lang. Der Schatten vom Baum streckt sich nach links.
+0877 Schraffiere den Schatten vom Baum.
+0878 Und den langen Schatten vom Kätzchen.
+0879 Mittag: die Sonne steht ganz oben.
+0880 Wenn die Sonne hoch steht, sind die Schatten kurz und direkt unter den Dingen.
+0881 Eine Laterne in der Mitte: ein Mast und ein Lampenschirm.
+0882 Lichtstrahlen: ganz leicht, von der Laterne nach unten.
+0883 Ein Kätzchen links, ein Ball rechts.
+0884 Die Schatten laufen von der Laterne weg: der vom Kätzchen nach links, der vom Ball nach rechts.
+0885 Mond und Sterne.
+0886 Tisch.
+0887 Eine Kerze in der Mitte und eine kleine Flamme.
+0888 Eine Tasse links, ein Ball rechts.
+0889 Das Licht geht von der Flamme in alle Richtungen: zeichne leicht die Strahlen.
+0890 Die Schatten laufen von der Kerze weg: der von der Tasse nach links, der vom Ball nach rechts.
+0891 Das Licht ist links am Ball und rechts an der Tasse: die dunklen Seiten zeigen von der Kerze weg.
+0892 Aufwärmen! Denk an Licht und Schatten: zeichne einen Ball mit Glanzlicht, Eigenschatten und Schatten auf dem Boden.
+0893 Die Straße läuft zum Punkt.
+0894 Bäume rechts. Je weiter weg, desto kleiner.
+0895 Ein Häuschen weit weg an der Straße: ganz winzig.
+0896 Sonne oben links.
+0897 Ein Kätzchen vorne: Körper und Kopf.
+0898 Gesicht, Schnurrhaare und Schwanz.
+0899 Eigenschatten: die dunkle Seite ist rechts an Kopf und Körper.
+0900 Und ein Schatten auf dem Boden rechts. Du bist ein echter Künstler!
+0901 Die Straße läuft in die Ferne.
+0902 Häuschen mit Fenstern in der Ferne.
+0903 Ein Schneemann rechts.
+0904 Ein Kätzchen links.
+0905 Der Mond oben rechts: Eigenschatten links und Schatten auf dem Schnee.
+0906 Horizont: Meer und Himmel.
+0907 Sonne und ein fernes Schiff.
+0908 Wellen und Ufer.
+0909 Ein Strandschirm.
+0910 Ein Ball und ein Kätzchen.
+0911 Sonne links: Eigenschatten rechts und Schatten auf dem Sand.
+0912 Der Weg läuft in die Ferne.
+0913 Bäume links: je weiter weg, desto kleiner.
+0914 Eine Bank rechts.
+0915 Blätter fallen.
+0916 Sonne links: Eigenschatten und Schatten auf dem Boden.
+0917 Aufwärmen! Zeichne ganz leicht drei Hilfsovale und fahr dann mit einer sicheren Linie außen herum, als wären sie eine Form.
+0918 Künstler bauen eine Figur zuerst aus einfachen Formen auf. Ganz leicht: ein Kreis für die Brust, ein Kreis für die Hüfte, ein Kreis für den Kopf und die Rückenlinie.
+0919 Jetzt sicher: der Kopf und die Rückenlinie, entlang der Hilfslinien.
+0920 Unten der Bauch.
+0921 Die Vorderpfoten weit nach vorne gestreckt.
+0922 Die Hinterpfoten stehen auf dem Boden.
+0923 Der Schwanz nach oben.
+0924 Ohren und Gesicht: das Auge vor Wohlgefühl zugekniffen.
+0925 Fell: kurze Striche am Körper entlang, vom Kopf zum Schwanz.
+0926 Licht von oben: Bauch und Pfoten sind im Schatten. Schraffiere am Bauch kreuzweise.

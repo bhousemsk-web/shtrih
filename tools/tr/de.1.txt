@@ -1,0 +1,330 @@
+0000 Kätzchen
+0001 Linien und Formen
+0002 Stufe eins, Kätzchen. Wir lernen, Linien und Formen zu zeichnen.
+0003 Junger Künstler
+0004 Größe, Haltung, Stimmung, Geschichte
+0005 Stufe zwei, junger Künstler. Wir zeichnen Großes und Kleines, in Bewegung und mit Gefühlen.
+0006 Künstler
+0007 Horizont, Raum, Licht und Schatten
+0008 Stufe drei, Künstler. Horizont, Raum, Licht und Schatten.
+0009 Meister
+0010 Perspektive und Bilder
+0011 Stufe vier, Meister. Perspektive, Fluchtpunkte und echte Bilder.
+0012 Profi
+0013 Licht und Schatten, Porträts, Strukturen, Landschaften
+0014 Stufe fünf, Profi. Schwierige, realistische Zeichnungen: Licht und Schatten, Porträts, Strukturen, Perspektive, Stillleben und Landschaften.
+0015 Gerade Linien
+0016 Kreise
+0017 Dreiecke
+0018 Wellen
+0019 Zickzack
+0020 Spirale
+0021 Ovale
+0022 Schraffur
+0023 Groß und klein
+0024 Von der Seite
+0025 Stimmung
+0026 Bewegung
+0027 Boden und Himmel
+0028 Eine Geschichte aus Formen
+0029 Details
+0030 Symmetrie
+0031 Horizont
+0032 Nah und fern
+0033 Wer ist vorne
+0034 Licht und Schatten
+0035 Raum: Würfel
+0036 Raum: Zylinder
+0037 Schlagschatten
+0038 Bild
+0039 Fluchtpunkt
+0040 Kiste in Perspektive
+0041 Perspektive: Bäume
+0042 Zwei Fluchtpunkte
+0043 Eigenschatten
+0044 Drei Ebenen
+0045 Lange Schatten
+0046 Abschlussbild
+0047 Aufbau
+0048 Licht und Schatten
+0049 Porträt
+0050 Strukturen
+0051 Perspektive
+0052 Stillleben
+0053 Landschaft
+0054 Großes Bild
+0055 Kätzchen in der Kiste
+0056 Kätzchen hinter dem Zaun
+0057 Roboterkätzchen
+0058 Raketenkätzchen
+0059 Rundes Kätzchen
+0060 Kätzchen und Seifenblasen
+0061 Freund Maus
+0062 Raupe
+0063 Großohriges Gesicht
+0064 Kleiner Fuchs
+0065 Partykätzchen
+0066 Berge
+0067 Gestreiftes Kätzchen
+0068 Kätzchen im Boot
+0069 Fisch im Meer
+0070 Kätzchen in der Badewanne
+0071 Flauschiges Kätzchen
+0072 Igel
+0073 Kätzchen und Tannenbaum
+0074 Königskätzchen
+0075 Schläfriges Kätzchen
+0076 Schnecke
+0077 Kätzchen mit Lutscher
+0078 Lämmchen
+0079 Das ganze Kätzchen
+0080 Häschen
+0081 Vögelchen
+0082 Pinguin
+0083 Buntes Kätzchen
+0084 Gestreifter Fisch
+0085 Haus mit Dach
+0086 Tigerbaby
+0087 Mama und Kätzchen
+0088 Kätzchen und Maus
+0089 Große und kleine Fische
+0090 Mama und ihre Kätzchen
+0091 Kätzchen geht spazieren
+0092 Hündchen
+0093 Kätzchen sitzt seitlich
+0094 Laufende Maus
+0095 Drei Stimmungen
+0096 Böse und müde
+0097 Zwinkerndes Kätzchen
+0098 Erschrocken und verliebt
+0099 Rennendes Kätzchen
+0100 Springendes Kätzchen
+0101 Hüpfender Ball
+0102 Kätzchenspuren
+0103 Kätzchen draußen
+0104 Kätzchen unter dem Schirm
+0105 Nacht
+0106 Regenbogen
+0107 Ein Haus für das Kätzchen
+0108 Kätzchen im Auto
+0109 Schiffchen
+0110 Eisenbahn
+0111 Anglerkätzchen
+0112 Kätzchen mit Luftballon
+0113 Kätzchen mit Schal
+0114 Kochkätzchen
+0115 Spiegelkätzchen
+0116 Schmetterling
+0117 Eule
+0118 Marienkäfer
+0119 Kätzchen schaut den Sonnenuntergang
+0120 Meer und Schiffchen
+0121 Weg durchs Feld
+0122 Wüste
+0123 Kätzchen auf dem Feld
+0124 Tannen im Wald
+0125 Dorfhäuser
+0126 Heißluftballons
+0127 Zwei Freunde
+0128 Kätzchen hinter dem Busch
+0129 Drei Bälle
+0130 Kätzchen hinter der Tasse
+0131 Ein Ball für das Kätzchen
+0132 Apfel
+0133 Schneemann
+0134 Wollknäuel
+0135 Kätzchen und Würfel
+0136 Turm aus Würfeln
+0137 Ein Geschenk für das Kätzchen
+0138 Kätzchen in der Tasse
+0139 Torte
+0140 Fischglas
+0141 Blume im Topf
+0142 Kätzchen in der Sonne
+0143 Baum und Schatten
+0144 Pilz
+0145 Kätzchen im Schatten des Schirms
+0146 Wiese
+0147 Teich
+0148 Hof im Winter
+0149 Park im Herbst
+0150 Straße in die Ferne
+0151 Eisenbahnstrecke
+0152 Zaun in die Ferne
+0153 Fluss in die Ferne
+0154 Eine Kiste für das Kätzchen
+0155 Zwei Kisten
+0156 Haus mit einem Punkt
+0157 Schatztruhe
+0158 Kätzchen in der Allee
+0159 Laternen
+0160 Tannen am Weg
+0161 Brücke in die Ferne
+0162 Haus mit Kätzchen
+0163 Kiste mit zwei Punkten
+0164 Turm
+0165 Hundehütte
+0166 Rundes Kätzchen mit Volumen
+0167 Birne
+0168 Liegendes Kätzchen
+0169 Wassermelone
+0170 Kätzchen und Berge
+0171 Stadt: drei Ebenen
+0172 Meer: drei Ebenen
+0173 Wald: drei Ebenen
+0174 Abendspaziergang
+0175 Mittag: kurze Schatten
+0176 Laterne in der Nacht
+0177 Kerze
+0178 Der Weg nach Hause
+0179 Winterabend
+0180 Sommerstrand
+0181 Herbstallee
+0182 Kätzchen streckt sich
+0183 Sitzende Katze
+0184 Eingerollte schlafende Katze
+0185 Kugel: Licht und Schatten
+0186 Würfel und Zylinder
+0187 Ei
+0188 Katzenporträt
+0189 Kätzchen mit großen Augen
+0190 Katze im Profil
+0191 Flauschige Katze
+0192 Kätzchen am Holzzaun
+0193 Kätzchen auf der Ziegelmauer
+0194 Straße in der Stadt
+0195 Das Zimmer des Kätzchens
+0196 Kätzchen am Fenster
+0197 Flur
+0198 Krug und Apfel
+0199 Tee und Kekse
+0200 Vase mit Tulpen
+0201 Spiegelung im See
+0202 Waldweg
+0203 Häuschen im Winter
+0204 Kätzchen und Pfütze
+0205 Stadt bei Nacht
+0206 Malerkatze
+0207 Ballonfahrt
+0208 Kätzchen mit Laterne
+0209 Aufwärmen! Zeichne fünf Striche von oben nach unten, wie Regen.
+0210 Zeichne eine Kiste. Zuerst den Deckel: eine gerade Linie von links nach rechts.
+0211 Jetzt die Seiten und den Boden: nach unten, nach rechts und nach oben.
+0212 Ein Kätzchen schaut aus der Kiste! Eine Linie nach oben, ein Ohr, der Kopf, das zweite Ohr und nach unten.
+0213 Augen: zwei Striche von oben nach unten. Und ein spitzes Näschen.
+0214 Schnurrhaare! Lange gerade Linien zur Seite.
+0215 Zaun: gleichmäßige Striche von oben nach unten.
+0216 Querlatten: zwei lange Linien von links nach rechts.
+0217 Ein Kätzchen schaut über den Zaun: eine Linie nach oben, ein Ohr, der Kopf, ein Ohr und nach unten.
+0218 Strichaugen und eine spitze Nase.
+0219 Schnurrhaare zur Seite.
+0220 Gras am Zaun: kurze schräge Striche.
+0221 Der Kopf vom Roboter: ein Rechteck.
+0222 Ohren und eine Antenne: gerade Linien.
+0223 Die Augen sind Quadrate, der Mund ist eine Linie mit Zähnen.
+0224 Hals und Körper: ein großes Rechteck.
+0225 Eine Schalttafel mit Knöpfen auf dem Körper.
+0226 Arme und Beine: gerade Linien.
+0227 Der Körper der Rakete: ein hohes Rechteck.
+0228 Die Spitze der Rakete: zwei schräge Linien nach oben bis zu einer Spitze.
+0229 Flügel: schräge Linien an den Seiten.
+0230 Ein eckiges Fenster mit einem Kätzchen darin: eine Linie nach oben, Ohren und nach unten.
+0231 Feuer unten: ein spitzer Zickzack.
+0232 Kleine Kreuzsterne rundherum.
+0233 Aufwärmen! Zeichne drei Kreise. Fang oben an, geh links herum und komm zum Anfang zurück.
+0234 Zeichne einen großen Kreis. Das ist ein rundes Kätzchen.
+0235 Ohren: kleine Ecken oben. Hoch und runter.
+0236 Augen: zwei kleine Kreise.
+0237 Nase: ein winziger Kreis. Und Schnurrhaare zur Seite.
+0238 Daneben ein Wollknäuel: ein Kreis mit Bögen darin.
+0239 Der Kopf vom Kätzchen: ein großer Kreis und Ohren.
+0240 Kreisaugen und eine Kreisnase.
+0241 Das Kätzchen macht Seifenblasen! Ein großer Kreis.
+0242 Noch mehr Blasen: eine mittlere und kleine.
+0243 In jeder Blase glänzt ein kleiner Kreis.
+0244 Schnurrhaare für das Kätzchen.
+0245 Der Kopf der Maus: ein Kreis.
+0246 Ohren: zwei große Kreise oben. Wo sie hinter dem Kopf sind, zeichnen wir die Linie nicht.
+0247 Kleinere Kreise in den Ohren.
+0248 Augen und eine große runde Nase.
+0249 Schnurrhaare und ein Lächeln.
+0250 Der Kopf der Raupe: ein Kreis rechts.
+0251 Körper: Kreise, einer nach dem anderen. Jeder versteckt sich hinter seinem Nachbarn.
+0252 Kreisaugen und ein Lächeln.
+0253 Fühler mit kleinen Kugeln.
+0254 Beinchen: kurze Striche unter jedem Kreis.
+0255 Der Zweig, auf dem die Raupe krabbelt.
+0256 Aufwärmen! Zeichne drei Dreiecke: von der Spitze nach unten links, dann nach rechts und zurück zur Spitze.
+0257 Zeichne einen großen Kreis. Das ist der Kopf vom Kätzchen.
+0258 Ohren: Dreiecksecken oben auf dem Kopf.
+0259 Kleinere Dreiecke in den Ohren.
+0260 Die Augen sind kleine Kreise, und die Nase ist ein kleines Dreieck.
+0261 Der Mund sind zwei kleine Bögen unter der Nase. Und Schnurrhaare!
+0262 Das Gesicht vom Fuchs: ein großes Dreieck mit der Nase nach unten.
+0263 Ohren: Ecken oben.
+0264 Kleinere Ecken in den Ohren.
+0265 Augen und eine Nase an der Spitze.
+0266 Weiße Wangen: zwei Linien, die eine Ecke bilden.
+0267 Gesicht: ein Kreis und Ohren. Lass oben Platz für den Partyhut.
+0268 Partyhut: ein Dreieck auf dem Kopf und ein Bommel.
+0269 Augen und Nase.
+0270 Mund und Schnurrhaare.
+0271 Dreieckige Fähnchen an einer Schnur.
+0272 Der vordere Berg: ein großes Dreieck.
+0273 Der hintere Berg: wir zeichnen nur, was hinter dem ersten zu sehen ist.
+0274 Schnee auf den Gipfeln: ein Zickzack.
+0275 Die Sonne und Vögelchen.
+0276 Unten der Boden und ein Kätzchen.
+0277 Aufwärmen! Zeichne drei Wellen, wie das Meer: hoch und runter, hoch und runter.
+0278 Zeichne das Gesicht wie vorher: einen Kreis und zwei Ohren.
+0279 Dieses Kätzchen ist gestreift! Drei wellige Streifen auf der Stirn, von oben nach unten.
+0280 Wellige Streifen auch auf den Wangen.
+0281 Mund und Schnurrhaare. Fertig!
+0282 Das Boot: oben breit, unten schmal.
+0283 Ein Kätzchen im Boot: Kopf und Ohren.
+0284 Das Gesicht vom Kätzchen.
+0285 Wellen unter dem Boot.
+0286 Kleinere Wellen in der Ferne.
+0287 Ein großer Fisch: ein Oval und eine Schwanzflosse.
+0288 Schuppen: wellige Streifen.
+0289 Algen: wellige Linien von unten nach oben.
+0290 Blasen steigen nach oben.
+0291 Wellen an der Meeresoberfläche.
+0292 Der Rand der Badewanne: eine lange Linie.
+0293 Der Boden der Badewanne: ein Bogen und kleine Füße.
+0294 Das Kätzchen sitzt im Wasser: wir sehen den Kopf mit den Ohren.
+0295 Gesicht und Schnurrhaare.
+0296 Das Wasser in der Wanne: eine wellige Linie.
+0297 Seifenblasen.
+0298 Aufwärmen! Zeichne Zickzacks: hoch und runter mit spitzen Ecken, wie kleine Zähne.
+0299 Dieses Kätzchen ist flauschig! Zeichne den Kopf als Zickzack im Kreis: Zahn, Zahn, Zahn.
+0300 Eckohren.
+0301 Ein Zickzack oben: ein flauschiges Haarbüschel.
+0302 Der stachlige Rücken vom Igel: ein Zickzack im Bogen, vom Boden hoch und wieder runter.
+0303 Gesicht: eine spitze Nase nach vorne.
+0304 Bauch: eine Linie am Boden entlang.
+0305 Ein Auge und eine runde Nase.
+0306 Pfoten und ein Apfel auf den Stacheln.
+0307 Tannenbaum: drei Reihen Zähnchen, von oben nach unten und wieder hoch.
+0308 Stamm: zwei Striche nach unten.
+0309 Ein Stern an der Spitze.
+0310 Kugeln an den Zweigen.
+0311 Ein Kätzchen daneben.
+0312 Boden.
+0313 Krone: ein Zickzack mit spitzen Zacken.
+0314 Der Kopf unter der Krone. Wo die Krone ist, zeichnen wir die Linie nicht.
+0315 Die Ohren schauen unter der Krone hervor.
+0316 Edelsteine auf der Krone.
+0317 Mund und Schnurrhaare. Seine Majestät, das Kätzchen!
+0318 Aufwärmen! Zeichne zwei Spiralen, wie ein Schneckenhaus: von der Mitte im Kreis, immer breiter.
+0319 Das Kätzchen schläft! Zeichne einen großen Kreis. Das ist der Rücken.
+0320 Ein kleinerer Kreis an der Seite. Das ist der Kopf.
+0321 Eckohren am Kopf.
+0322 Das Kätzchen hat die Augen zu: zwei kleine Bögen.
+0323 Der Schwanz ist zur Spirale eingerollt: im Kreis, immer kleiner.
+0324 Das Kätzchen schnarcht. Zeichne Schlaf-Zickzacks: z-z-z!
+0325 Das Schneckenhaus: eine Spirale aus der Mitte, immer breiter.
+0326 Der Körper der Schnecke: eine lange Linie am Boden und der Kopf nach oben.
+0327 Fühler mit kleinen Kugeln an den Enden.
+0328 Ein Auge und ein Lächeln.
+0329 Gras rundherum.

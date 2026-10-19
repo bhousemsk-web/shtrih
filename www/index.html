@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Котик Штрих</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Бесплатные уроки рисования для детей с котиком Штрихом: от палочек и кружочков до перспективы и светотени. Без рекламы.">
+<meta name="theme-color" content="#D9E9F4">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Штрих">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="stylesheet" href="fonts/fonts.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Neucha&family=Nunito:wght@600;800&display=swap">
+<script>
+/* Telegram Mini App: SDK подключаем только внутри Telegram */
+if(/tgWebApp/.test(location.hash+location.search)){document.write('<script src="https://telegram.org/js/telegram-web-app.js"><\/script>');}
+</script>
+<style>
+/* Layout: one-screen phone app. Home = winding trail of lessons split by level banners; lesson = notebook sheet (клетка + поля) with big controls under the thumb. */
+:root{
+  --sky:#D9E9F4;--paper:#FFFFFF;--grid:#CFE0EC;--margin:#F0A3A3;--ink:#2F3A4A;--ink-soft:#A8B5C4;
+  --fur:#F2862A;--fur-deep:#C25F14;--go:#24946F;--go-deep:#17704F;--beret:#3E6FD0;--pink:#F59AAE;--love:#E2557B;--love-deep:#B83A5D;
+  --shade:rgba(47,58,74,.45);
+  --display:"Neucha","Comic Sans MS","Segoe Print","Chalkboard SE",cursive,system-ui;
+  --body:"Nunito",system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans","PingFang SC","Hiragino Sans","Noto Sans Devanagari","Noto Sans Arabic",sans-serif;
+  color-scheme:light;
+}
+html,body{height:100%;margin:0}
+body{background:var(--sky);color:var(--ink);font-family:var(--body);font-size:14px;font-weight:600;overflow:hidden;-webkit-tap-highlight-color:transparent;user-select:none;-webkit-user-select:none;touch-action:manipulation}
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);box-sizing:border-box;height:100%}
+button{font:inherit;color:inherit;border:0;background:none;cursor:pointer;padding:0}
+button:focus-visible{outline:4px solid var(--beret);outline-offset:3px}
+[hidden]{display:none!important}
+#app{height:100%;max-width:620px;margin:0 auto;display:flex;flex-direction:column;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:12px;box-sizing:border-box}
+.screen{flex:1;min-height:0;display:flex;flex-direction:column;gap:12px}
+.round{width:58px;height:58px;flex:none;border-radius:50%;background:var(--paper);display:grid;place-items:center;box-shadow:0 3px 0 var(--grid);position:relative}
+.round svg{width:30px;height:30px}
+.round:active{transform:translateY(2px);box-shadow:0 1px 0 var(--grid)}
+[dir=rtl] .flipx{transform:scaleX(-1)}
+
+/* HOME */
+.top{display:flex;align-items:center;gap:10px}
+.shtrih{width:84px;height:84px;flex:none;position:relative;border-radius:50%}
+.shtrih svg{width:100%;height:100%;display:block}
+.hold{position:absolute;inset:-5px;border-radius:50%;border:5px solid var(--beret);opacity:0;clip-path:inset(0 100% 0 0);pointer-events:none}
+.shtrih.holding .hold{opacity:1;animation:holdfill 1.8s linear forwards}
+@keyframes holdfill{to{clip-path:inset(0 0 0 0)}}
+.bubble{flex:1;min-width:0;margin:0;background:var(--paper);border-radius:20px;padding:10px 14px;font-family:var(--display);font-size:21px;line-height:1.15;position:relative;text-wrap:balance}
+.bubble::before{content:"";position:absolute;inset-inline-start:-9px;top:50%;margin-top:-9px;border:9px solid transparent;border-inline-end-color:var(--paper);border-inline-start:0}
+#albumCount{position:absolute;bottom:-6px;inset-inline-end:-8px;background:var(--fur);color:#fff;font-size:12px;font-weight:800;border-radius:10px;padding:2px 6px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.trail{flex:1;min-height:0;overflow-y:auto;display:flex;flex-direction:column;align-items:center;padding-block:4px 20px;scrollbar-width:none}
+.trail::-webkit-scrollbar{display:none}
+.lvl{width:100%;max-width:380px;flex:none;box-sizing:border-box;margin-block:8px 16px;background:var(--beret);color:#fff;border-radius:22px;padding:12px 16px;display:flex;align-items:center;gap:14px;text-align:start;box-shadow:0 4px 0 #2C55A6}
+.lvl .ln{flex:none;width:46px;height:46px;border-radius:50%;background:#fff;color:var(--beret);display:grid;place-items:center;font-family:var(--display);font-size:28px}
+.lvl .lt{display:flex;flex-direction:column;min-width:0}
+.lvl .lt b{font-family:var(--display);font-weight:400;font-size:25px;line-height:1.05}
+.lvl .lt span{font-size:14px;opacity:.9}
+.lvl.locked{background:var(--ink-soft);box-shadow:0 4px 0 #8794A4}
+.lvl.locked .ln{color:var(--ink-soft)}
+.node{display:flex;flex-direction:column;align-items:center;gap:4px;transform:translateX(calc(var(--o) * min(84px,21vw)))}
+.disc{width:108px;height:108px;border-radius:50%;background:var(--paper);border:5px solid var(--ink-soft);display:grid;place-items:center;position:relative;box-sizing:border-box}
+.disc svg.th{width:76%;height:76%}
+.badge{position:absolute;inset-inline-end:-6px;top:-4px;min-width:34px;height:34px;border-radius:17px;display:grid;place-items:center;font-weight:800;font-size:15px;background:var(--ink-soft);color:#fff;padding:0 5px;box-sizing:border-box;font-variant-numeric:tabular-nums}
+.badge svg{width:20px;height:20px}
+.nlabel{font-family:var(--display);font-size:20px;text-align:center;max-width:160px;line-height:1.05}
+.nsub{font-size:13px;color:#5B6678;margin-top:-2px}
+.node.is-done .disc{border-color:var(--go);background:var(--tint)}
+.node.is-done .badge{background:var(--go)}
+.node.is-now .disc{border-color:var(--fur);animation:pulse 1.6s ease-in-out infinite}
+.node.is-now .badge{background:var(--fur)}
+.node.is-locked .disc{background:#EEF3F7}
+.node.is-locked .disc svg.th{opacity:.3}
+.node.is-locked .nlabel,.node.is-locked .nsub{color:var(--ink-soft)}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(242,134,42,.45)}50%{box-shadow:0 0 0 14px rgba(242,134,42,0)}}
+.hop{display:flex;flex-direction:column;gap:6px;padding-block:6px;transform:translateX(calc(var(--o) * min(84px,21vw)))}
+.hop i{width:8px;height:8px;border-radius:50%;background:var(--ink-soft);opacity:.6}
+.support{flex:none;align-self:center;display:flex;align-items:center;justify-content:center;gap:6px;height:36px;padding:0 14px;border-radius:18px;background:none;color:var(--ink-soft);font-weight:700;font-size:13px}
+.support svg{width:15px;height:15px;opacity:.75}
+.support:active{color:var(--ink)}
+.support.soft{color:var(--ink-soft)}
+
+/* LESSON */
+.lbar{display:flex;align-items:center;gap:10px}
+.dots{flex:1;display:flex;justify-content:center;align-items:center;gap:6px;flex-wrap:wrap;min-width:0}
+.dots i{width:11px;height:11px;border-radius:50%;background:var(--paper)}
+.dots i.past{background:var(--go)}
+.dots i.now{width:19px;height:19px;background:var(--fur)}
+.cap{display:flex;align-items:center;gap:10px;min-height:52px}
+.chip{flex:none;font-family:var(--display);font-size:18px;background:var(--beret);color:#fff;border-radius:14px;padding:4px 12px}
+#caption{margin:0;font-size:17px;line-height:1.3;min-width:0}
+.sheet{flex:1;min-height:0;border-radius:18px;position:relative;overflow:hidden;background-color:var(--paper);
+  background-image:linear-gradient(90deg,transparent calc(100% - 30px),var(--margin) calc(100% - 30px),var(--margin) calc(100% - 28px),transparent calc(100% - 28px)),linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:100% 100%,22px 22px,22px 22px;box-shadow:0 4px 0 var(--grid)}
+#cv{position:absolute;inset:8px;width:calc(100% - 16px);height:calc(100% - 16px)}
+#cv path{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:5}
+#cv path.s{stroke-width:2.2}
+#cv path.f{stroke-width:3}
+#cv path.g{stroke-width:2.2;stroke-dasharray:5 7}
+#cv .old path{stroke:var(--ink-soft)}
+#cv .cur path{stroke:var(--fur);stroke-width:6}
+#cv .cur path.s{stroke-width:2.6}
+#cv .cur path.f{stroke-width:3.6}
+#cv .cur path.g{stroke-width:2.6}
+#cv .fin path{stroke:var(--ink)}
+#cv .fin path.g{stroke:var(--ink-soft)}
+#startDot{fill:var(--go);transform-box:fill-box;transform-origin:center}
+#startDot.on{animation:dot .4s ease-out}
+@keyframes dot{from{transform:scale(2.4);opacity:.3}to{transform:scale(1);opacity:1}}
+#pencil{transition:opacity .3s}
+.lfoot{display:flex;gap:12px;align-items:center}
+.round.big{width:76px;height:76px}
+.round.big svg{width:36px;height:36px}
+.go{flex:1;height:76px;border-radius:38px;background:var(--go);color:#fff;display:flex;align-items:center;justify-content:center;gap:10px;font-family:var(--display);font-size:30px;box-shadow:0 5px 0 var(--go-deep)}
+.go svg{width:44px;height:44px}
+.go:active{transform:translateY(3px);box-shadow:0 2px 0 var(--go-deep)}
+.go.finish{background:var(--fur);box-shadow:0 5px 0 var(--fur-deep)}
+
+/* ALBUM */
+.atitle{flex:1;margin:0;font-family:var(--display);font-size:28px;font-weight:400}
+.grid{flex:1;min-height:0;overflow-y:auto;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-content:start;padding-bottom:16px}
+.grid h2{grid-column:1/-1;margin:10px 0 0;font-family:var(--display);font-weight:400;font-size:24px;color:var(--beret)}
+.grid h2 small{font-family:var(--body);font-size:14px;color:#5B6678}
+.stk{background:var(--paper);border-radius:20px;padding:12px;display:flex;flex-direction:column;align-items:center;gap:6px}
+.stk .face{width:100%;max-width:140px;aspect-ratio:1;border-radius:50%;display:grid;place-items:center;background:#EEF3F7}
+.stk .face svg{width:72%;height:72%}
+.stk.got .face{background:var(--tint);transform:rotate(var(--r))}
+.stk .nm{font-family:var(--display);font-size:19px;text-align:center}
+.stk .q{font-family:var(--display);font-size:56px;color:var(--ink-soft)}
+
+/* OVERLAYS */
+.overlay{position:fixed;inset:0;background:var(--shade);display:flex;align-items:center;justify-content:center;padding:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) max(16px,env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));z-index:20;box-sizing:border-box}
+.card{background:var(--paper);border-radius:26px;padding:22px;width:100%;max-width:440px;box-sizing:border-box;display:flex;flex-direction:column;align-items:center;gap:14px;max-height:100%;overflow-y:auto;user-select:text;-webkit-user-select:text}
+.bigstk{width:200px;max-width:70%;aspect-ratio:1;border-radius:50%;background:var(--tint);display:grid;place-items:center;animation:pop .7s cubic-bezier(.3,1.6,.5,1) both}
+.bigstk svg{width:72%;height:72%}
+@keyframes pop{from{transform:scale(.2) rotate(-40deg)}to{transform:scale(1) rotate(-6deg)}}
+.card h2{margin:0;font-family:var(--display);font-weight:400;font-size:30px;text-align:center;text-wrap:balance}
+.card .go{width:100%;flex:none}
+.pcard{align-items:stretch;gap:12px}
+.pcard h2,.pcard h3{text-align:start}
+.pcard h3{margin:6px 0 0;font-size:16px;font-weight:800}
+.row{display:flex;align-items:center;justify-content:space-between;gap:12px;font-size:16px}
+.tog{min-width:96px;height:44px;border-radius:22px;background:#EEF3F7;font-weight:800}
+.tog[aria-pressed="true"]{background:var(--go);color:#fff}
+.note{margin:0;font-size:14px;line-height:1.45;color:#5B6678;font-weight:600}
+.warnbtn{height:46px;border-radius:23px;background:#EEF3F7;font-weight:800}
+.warnbtn.arm{background:#D9443F;color:#fff}
+.close{height:52px;border-radius:26px;background:var(--ink);color:#fff;font-weight:800;font-size:17px}
+.langs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.langs button{height:44px;border-radius:14px;background:#EEF3F7;font-weight:800;font-size:16px}
+.langs button[aria-pressed="true"]{background:var(--beret);color:#fff}
+.voices{display:flex;flex-direction:column;gap:6px;max-height:180px;overflow-y:auto}
+.voices label{display:flex;align-items:center;gap:8px;background:#EEF3F7;border-radius:12px;padding:8px 10px;font-size:14px}
+.voices label input{width:20px;height:20px;accent-color:var(--beret)}
+.voices label span{flex:1;min-width:0;overflow-wrap:anywhere}
+.voices .play{width:36px;height:36px;border-radius:50%;background:var(--paper);display:grid;place-items:center;flex:none}
+.pkcard{max-width:520px;gap:12px}
+.pkhead{display:flex;align-items:center;gap:12px;width:100%}
+.pkhead h2{flex:1;text-align:start;font-size:28px}
+.pklist{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:12px;width:100%}
+.pk{display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px;border-radius:20px;background:#F1F6FA}
+.pk:active{transform:translateY(2px)}
+.pkface{width:100%;max-width:150px;aspect-ratio:1;border-radius:50%;background:var(--paper);border:4px solid var(--fur);display:grid;place-items:center;position:relative;box-sizing:border-box}
+.pkface svg{width:74%;height:74%}
+.pk.got .pkface{background:var(--tint);border-color:var(--go)}
+.pk .badge{background:var(--go)}
+.pkname{font-family:var(--display);font-size:19px;text-align:center;line-height:1.1}
+/* love note & donate */
+.lovecard{gap:12px}
+.lovecard .heart{width:84px;height:84px}
+.lovecard p{margin:0;font-size:16px;line-height:1.5;text-align:center;text-wrap:pretty}
+.lovecard .sign{font-family:var(--display);font-size:20px;color:var(--love)}
+.lovecard .support{order:2;height:32px;text-decoration:underline;text-underline-offset:3px}
+#loveClose{width:100%;background:var(--go);box-shadow:0 4px 0 var(--go-deep)}
+.gate{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;width:100%}
+.gate button{height:54px;border-radius:16px;background:#EEF3F7;font-size:22px;font-weight:800;font-variant-numeric:tabular-nums}
+.gateq{font-size:26px;font-weight:800;font-variant-numeric:tabular-nums}
+.gatemsg{min-height:20px;color:#D9443F;font-size:14px;margin:0}
+.don{width:100%;display:flex;flex-direction:column;gap:10px}
+.don a.cardlink{display:flex;align-items:center;justify-content:center;gap:10px;height:54px;border-radius:27px;background:var(--love);color:#fff;font-weight:800;font-size:16px;text-decoration:none;box-shadow:0 4px 0 var(--love-deep)}
+.addr{background:#F1F6FA;border-radius:16px;padding:10px 12px;display:flex;flex-direction:column;gap:6px}
+.addr b{font-size:14px}
+.addr code{font-size:13px;overflow-wrap:anywhere;user-select:all;-webkit-user-select:all;direction:ltr;text-align:left}
+.addr button{align-self:flex-start;height:36px;padding:0 14px;border-radius:18px;background:var(--beret);color:#fff;font-weight:800;font-size:14px}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div id="app">
+  <section id="home" class="screen">
+    <header class="top">
+      <button id="shtrih" class="shtrih" data-aria="Котик Штрих. Для взрослых: удерживайте 2 секунды">
+        <svg viewBox="0 0 100 100" aria-hidden="true">
+          <path d="M22 44 L18 12 L44 28 Z" fill="var(--fur)"/><path d="M78 44 L82 12 L56 28 Z" fill="var(--fur)"/>
+          <path d="M25 36 L23 19 L37 28 Z" fill="var(--pink)"/><path d="M75 36 L77 19 L63 28 Z" fill="var(--pink)"/>
+          <circle cx="50" cy="56" r="36" fill="var(--fur)"/>
+          <path d="M24 30 Q34 8 62 14 Q78 18 72 28 Q50 20 24 30 Z" fill="var(--beret)"/><circle cx="58" cy="11" r="3.5" fill="var(--beret)"/>
+          <ellipse cx="37" cy="52" rx="5" ry="7" fill="var(--ink)"/><ellipse cx="63" cy="52" rx="5" ry="7" fill="var(--ink)"/>
+          <circle cx="39" cy="49" r="2" fill="#fff"/><circle cx="65" cy="49" r="2" fill="#fff"/>
+          <path d="M45 64 L55 64 L50 70 Z" fill="var(--pink)"/>
+          <path d="M50 70 Q45 77 39 74 M50 70 Q55 77 61 74" stroke="var(--ink)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+          <path d="M30 66 L8 62 M30 71 L9 74 M70 66 L92 62 M70 71 L91 74" stroke="var(--ink)" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <span class="hold"></span>
+      </button>
+      <p id="bubble" class="bubble"></p>
+      <button id="albumBtn" class="round" data-aria="Альбом наклеек">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--ink)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h12a4 4 0 0 1 4 4v12H8a4 4 0 0 1-4-4z"/><path d="M12 9.5l1.2 2.4 2.6.4-1.9 1.8.5 2.6-2.4-1.3-2.4 1.3.5-2.6-1.9-1.8 2.6-.4z" fill="var(--fur)" stroke="var(--fur)" stroke-width="1"/></svg>
+        <span id="albumCount"></span>
+      </button>
+    </header>
+    <div id="trail" class="trail"></div>
+    <button id="supportBtn" class="support">
+      <svg viewBox="0 0 24 24" fill="var(--love)" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.2C.9 8.4 3 4.5 6.7 4.5c2.1 0 3.6 1.2 4.3 2.4.7-1.2 2.2-2.4 4.3-2.4 3.7 0 5.8 3.9 4.3 7.3C19.5 16.4 12 21 12 21z"/></svg>
+      <span id="supportLabel"></span>
+    </button>
+  </section>
+
+  <section id="lesson" class="screen" hidden>
+    <header class="lbar">
+      <button id="homeBtn" class="round" data-aria="Домой">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--ink)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7"/><path d="M6 10v10h12V10"/></svg>
+      </button>
+      <div id="dots" class="dots"></div>
+      <button id="sayBtn" class="round" data-aria="Сказать ещё раз">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--ink)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h4l5-4v14l-5-4H4z" fill="var(--ink)"/><path d="M16.5 8.5a5 5 0 0 1 0 7"/><path d="M19 6a8.5 8.5 0 0 1 0 12"/></svg>
+      </button>
+    </header>
+    <div class="cap"><span id="chip" class="chip"></span><p id="caption"></p></div>
+    <div class="sheet">
+      <svg id="cv" viewBox="0 0 300 300" aria-hidden="true">
+        <g class="fin" id="gFin"></g><g class="old" id="gOld"></g><g class="cur" id="gCur"></g>
+        <circle id="startDot" r="8" cx="-50" cy="-50"/>
+        <g id="pencil" opacity="0"><g transform="rotate(35)">
+          <rect x="-7" y="-78" width="14" height="10" rx="3" fill="var(--pink)"/>
+          <rect x="-7" y="-68" width="14" height="50" fill="#FFC93C"/>
+          <rect x="-7" y="-68" width="4" height="50" fill="#F2A81E"/>
+          <path d="M-7 -18 L7 -18 L0 0 Z" fill="#F3D2A2"/>
+          <path d="M-2.4 -6 L2.4 -6 L0 0 Z" fill="var(--ink)"/>
+          <circle cx="0" cy="-38" r="14" fill="var(--fur)" stroke="var(--fur-deep)" stroke-width="2"/>
+          <circle cx="-7" cy="-48" r="3.2" fill="var(--pink)"/><circle cx="0" cy="-51" r="3.2" fill="var(--pink)"/><circle cx="7" cy="-48" r="3.2" fill="var(--pink)"/>
+          <ellipse cx="0" cy="-36" rx="5.5" ry="4.5" fill="var(--pink)"/>
+        </g></g>
+      </svg>
+    </div>
+    <footer class="lfoot">
+      <button id="replayBtn" class="round big" data-aria="Показать ещё раз">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--ink)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12a8 8 0 1 0 2.4-5.7"/><path d="M4 4v5h5"/></svg>
+      </button>
+      <button id="nextBtn" class="go"></button>
+    </footer>
+  </section>
+
+  <section id="album" class="screen" hidden>
+    <header class="lbar">
+      <button id="albumBack" class="round" data-aria="Назад">
+        <svg class="flipx" viewBox="0 0 24 24" fill="none" stroke="var(--ink)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>
+      </button>
+      <h1 class="atitle" data-t="Альбом наклеек"></h1>
+    </header>
+    <div id="grid" class="grid"></div>
+  </section>
+</div>
+
+<div id="pickerOv" class="overlay" hidden>
+  <div class="card pkcard">
+    <div class="pkhead"><h2 id="pkTitle"></h2><button id="pkClose" class="round" data-aria="Закрыть"><svg viewBox="0 0 24 24" fill="none" stroke="var(--ink)" stroke-width="2.6" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div id="pkList" class="pklist"></div>
+  </div>
+</div>
+
+<div id="stickerOv" class="overlay" hidden>
+  <div class="card">
+    <div id="bigStk" class="bigstk"></div>
+    <h2 id="stkTitle"></h2>
+    <button id="stkOk" class="go" data-t="В альбом!"></button>
+  </div>
+</div>
+
+<div id="loveOv" class="overlay" hidden>
+  <div class="card lovecard">
+    <svg class="heart" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.2C.9 8.4 3 4.5 6.7 4.5c2.1 0 3.6 1.2 4.3 2.4.7-1.2 2.2-2.4 4.3-2.4 3.7 0 5.8 3.9 4.3 7.3C19.5 16.4 12 21 12 21z" fill="var(--love)"/></svg>
+    <h2 data-t="Это приложение бесплатное"></h2>
+    <p data-t="Котик Штрих полностью бесплатный и без рекламы. Я сделал его с любовью для своей дочки, чтобы она училась рисовать. Пусть он порадует и ваших детей!"></p>
+    <p data-t="Приложение не собирает никаких данных: всё хранится только на этом устройстве."></p>
+    <p id="loveDonate" data-t="Если захотите поддержать проект, буду очень благодарен. Это необязательно: всё и так останется бесплатным."></p>
+    <p class="sign" id="loveSign"></p>
+    <button id="loveSupport" class="support"><span data-t="Поддержать разработчика"></span></button>
+    <button id="loveClose" class="close" data-t="Начать рисовать"></button>
+  </div>
+</div>
+
+<div id="gateOv" class="overlay" hidden>
+  <div class="card">
+    <h2 data-t="Только для взрослых"></h2>
+    <p class="note" data-t="Решите пример, чтобы продолжить:"></p>
+    <div id="gateQ" class="gateq"></div>
+    <div id="gateBtns" class="gate"></div>
+    <p id="gateMsg" class="gatemsg"></p>
+    <button id="gateClose" class="close" data-t="Закрыть"></button>
+  </div>
+</div>
+
+<div id="donateOv" class="overlay" hidden>
+  <div class="card pcard">
+    <h2 data-t="Поддержать разработчика"></h2>
+    <p class="note" data-t="Спасибо, что хотите помочь! Любая сумма важна. Приложение всё равно останется бесплатным и без рекламы."></p>
+    <div id="donList" class="don"></div>
+    <button id="donClose" class="close" data-t="Закрыть"></button>
+  </div>
+</div>
+
+<div id="parentOv" class="overlay" hidden>
+  <div class="card pcard">
+    <h2 data-t="Для взрослых"></h2>
+    <h3 data-t="Язык"></h3>
+    <div id="pLangs" class="langs"></div>
+    <div class="row"><span data-t="Голос Штриха"></span><button id="pVoice" class="tog"></button></div>
+    <div class="row"><span data-t="Говорить медленнее"></span><button id="pSlow" class="tog"></button></div>
+    <h3 data-t="Какой голос нравится больше?"></h3>
+    <div id="pVoices" class="voices"></div>
+    <p id="pVoiceInfo" class="note"></p>
+    <div class="row"><span data-t="Открыть все уроки"></span><button id="pAll" class="tog"></button></div>
+    <p class="note" data-t="Уровни 1–2 рассчитаны примерно на 5–6 лет, уровни 3–4 на 6–9 лет, «Профи» на 9 лет и старше. Не торопите: любой урок можно повторять сколько угодно раз. Пунктир в уроках — линии-помощники: их рисуют легко и потом стирают."></p>
+    <button id="pAbout" class="warnbtn" data-t="О приложении"></button>
+    <button id="pReset" class="warnbtn"></button>
+    <button id="pClose" class="close" data-t="Закрыть"></button>
+  </div>
+</div>
+
+<script src="config.js"></script>
+<script src="js/geometry.js"></script>
+<script src="js/lessons-1-4.js"></script>
+<script src="js/lessons-more.js"></script>
+<script src="js/geometry-pro.js"></script>
+<script src="js/lessons-pro-a.js"></script>
+<script src="js/lessons-pro-b.js"></script>
+<script src="js/course.js"></script>
+<script src="js/speech-text.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

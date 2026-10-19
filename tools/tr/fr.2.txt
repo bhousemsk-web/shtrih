@@ -1,0 +1,370 @@
+0330 La sucette : une spirale depuis le milieu.
+0331 Fais un cercle autour de la sucette et ajoute le bâton.
+0332 Chaton : la tête et les oreilles.
+0333 La frimousse et les moustaches. Le chaton se lèche les babines !
+0334 La laine de l'agneau : plein de petites spirales en cercle.
+0335 Encore des spirales pour que l'agneau soit tout doux.
+0336 La tête : un ovale à droite.
+0337 Les oreilles, les yeux et le nez.
+0338 Les pattes et l'herbe.
+0339 Échauffement ! Dessine des ovales, ce sont des cercles aplatis : un couché, un debout et un petit.
+0340 Dessine un grand ovale debout. C'est le corps du chaton.
+0341 Un cercle en haut. C'est la tête.
+0342 Deux petits ovales en bas. Ce sont les pattes.
+0343 Une longue queue : dessine un arc vers le haut et enroule le bout.
+0344 La frimousse : les yeux, le nez et les moustaches.
+0345 Le corps du lapin : un ovale debout.
+0346 La tête : un cercle en haut.
+0347 De longues oreilles : des ovales fins vers le haut.
+0348 Les pattes sont des ovales en bas, la queue un petit cercle sur le côté.
+0349 La frimousse : les yeux, le nez, les dents et les moustaches.
+0350 Le corps de l'oiseau : un ovale couché, un peu penché.
+0351 La tête : un cercle en haut à droite.
+0352 L'aile : un ovale sur le corps.
+0353 Un bec en triangle et un œil.
+0354 La queue : des coins pointus derrière.
+0355 Les pattes s'accrochent à une branche.
+0356 Le corps du pingouin : un grand ovale debout.
+0357 Le ventre blanc : un ovale plus petit dedans.
+0358 Les ailerons : des ovales fins sur les côtés.
+0359 Les yeux et le bec.
+0360 Les pieds : des ovales en bas. Et de la neige.
+0361 Échauffement ! Dessine deux carrés et remplis-les de petits traits : bien serrés et bien droits.
+0362 Dessine la frimousse : un cercle et deux oreilles.
+0363 Hachure les oreilles : des traits courts de gauche à droite, bien serrés.
+0364 Des rayures sur le front : des traits courts de haut en bas.
+0365 La bouche et les moustaches. Maintenant colorie le chaton avec des crayons de couleur !
+0366 Un gros poisson : un ovale couché.
+0367 La queue et la nageoire.
+0368 Un œil et une bouche.
+0369 Hachure trois larges rayures avec des traits de haut en bas.
+0370 Des bulles.
+0371 Les murs : un carré.
+0372 Le toit : un triangle.
+0373 Hachure le toit avec des traits penchés.
+0374 Une porte et une fenêtre avec une croix.
+0375 Hachure la porte de haut en bas.
+0376 La frimousse : un cercle et des oreilles.
+0377 Hachure les oreilles.
+0378 Des rayures sur le front : trois rayures étroites, hachure-les bien serré.
+0379 Des rayures sur les joues.
+0380 La bouche et les moustaches. Grrr !
+0381 Échauffement ! Dessine des cercles : un grand, un moyen et un tout petit.
+0382 Dessine maman chat : un grand cercle et des oreilles.
+0383 La frimousse de maman : les yeux, le nez, la bouche.
+0384 À côté d'elle, un chaton. Il est petit, alors le cercle est petit aussi.
+0385 La frimousse du chaton. Tout comme maman, mais en plus petit.
+0386 Des moustaches pour maman et pour le chaton.
+0387 Grand chaton : le corps et la tête.
+0388 Les oreilles, la frimousse, les moustaches et la queue.
+0389 Petite souris : un corps ovale et une petite tête.
+0390 L'oreille, l'œil et la queue de la souris.
+0391 Un gros poisson.
+0392 Un poisson plus petit.
+0393 Et des tout petits poissons.
+0394 Des bulles : des grandes et des petites.
+0395 Maman chat est grande : le corps et la tête.
+0396 Les oreilles, la frimousse, les moustaches et la queue de maman.
+0397 Le premier chaton est petit : tout pareil, mais en plus petit.
+0398 Le deuxième chaton est encore plus petit.
+0399 Le sol et un cœur au-dessus d'eux.
+0400 Échauffement ! Dessine des ovales couchés : deux plus petits et un long.
+0401 Le chaton passe devant nous, on le voit de profil. Le corps : un long ovale couché.
+0402 La tête : un cercle devant, un peu plus haut que le corps.
+0403 Des oreilles en coin en haut.
+0404 Quatre pattes : des ovales fins vers le bas. Deux derrière et deux devant.
+0405 La queue en l'air.
+0406 De profil, on ne voit qu'un œil. Le nez, la bouche et les moustaches devant.
+0407 Le chaton marche sur le sol : dessine une ligne sous les pattes.
+0408 Le petit chien aussi, on le dessine de profil. Le corps : un long ovale.
+0409 La tête est un cercle, et devant un museau ovale.
+0410 Une oreille qui pend.
+0411 Le nez, l'œil et la bouche.
+0412 Quatre pattes et une petite queue.
+0413 Le chaton est assis de profil. Le corps : un ovale debout.
+0414 La tête en haut, un peu en avant.
+0415 Les oreilles et la frimousse de profil : l'œil, le nez, les moustaches.
+0416 La patte de devant : un ovale fin vers le bas.
+0417 La queue entoure les pattes.
+0418 Le corps de la souris de profil : un ovale couché.
+0419 La tête : un ovale allongé avec un nez pointu.
+0420 Une oreille ronde.
+0421 L'œil, le nez et les moustaches.
+0422 Les pattes et une longue queue.
+0423 Échauffement ! Dessine des arcs : un sourire joyeux, un arc triste et un petit cercle.
+0424 Dessine trois têtes de chaton : trois cercles avec des oreilles.
+0425 Le premier chaton est joyeux : des yeux en arc et une bouche qui sourit.
+0426 Le deuxième chaton est triste : des yeux en point, des sourcils inquiets et une bouche vers le bas.
+0427 Le troisième chaton est étonné : de grands yeux ronds et une bouche comme la lettre O.
+0428 Des moustaches pour tout le monde. Quel chaton préfères-tu ?
+0429 Deux têtes avec des oreilles.
+0430 Chaton fâché : les sourcils descendent vers le nez, les yeux et la bouche vers le bas.
+0431 Chaton endormi : les yeux fermés, une petite bouche.
+0432 Des zigzags de sommeil au-dessus de la tête.
+0433 Des moustaches pour les deux.
+0434 Un œil est ouvert et l'autre fait un clin d'œil : un arc.
+0435 Le nez et un grand sourire avec la langue.
+0436 Les moustaches et un cœur à côté.
+0437 Chaton effrayé : les poils hérissés, la tête en zigzag. Et des oreilles.
+0438 De grands yeux avec des pupilles minuscules. La bouche tremble.
+0439 Chaton amoureux : un cercle et des oreilles.
+0440 Des yeux en cœur et un sourire.
+0441 Des joues roses : hachure des petits cercles. Et des cœurs au-dessus de la tête.
+0442 Échauffement ! Dessine des petits traits penchés, comme si un grand vent soufflait.
+0443 Le chaton court ! Le corps : un ovale un peu penché vers le haut, comme s'il s'élançait en avant.
+0444 La tête devant.
+0445 Les pattes de devant tendues vers l'avant et vers le bas.
+0446 Les pattes de derrière poussent vers l'arrière.
+0447 La queue tendue en arrière, comme une fusée.
+0448 Des traits de vitesse derrière le chaton : des petits traits courts. Fiou !
+0449 La ligne du saut : dessine très légèrement un grand arc.
+0450 Le chaton tout en haut. Le corps : un ovale étiré.
+0451 La tête, les oreilles et la frimousse.
+0452 Les pattes de devant vers l'avant, celles de derrière vers l'arrière.
+0453 La queue.
+0454 Le sol : d'où le chaton a sauté et où il va atterrir.
+0455 Le chemin de la balle : dessine légèrement les rebonds, chacun plus bas que le précédent.
+0456 En l'air, la balle est ronde.
+0457 Et quand elle touche le sol, elle s'aplatit en ovale.
+0458 Des petits traits du choc près du sol.
+0459 Le chaton regarde la balle.
+0460 Le chaton a marché dans la neige. Dessine légèrement le chemin qu'il a pris.
+0461 Des traces de pattes : un coussinet et quatre doigts. Gauche, droite.
+0462 Plus loin, les traces sont plus petites, parce qu'elles s'éloignent.
+0463 Et voici le chaton.
+0464 Des flocons de neige.
+0465 Échauffement ! Dessine des petits nuages : en bas une ligne droite, en haut des bosses.
+0466 Le sol en bas : une longue ligne sur toute la feuille.
+0467 En haut, le ciel. Dans le coin, un soleil avec des rayons.
+0468 Les nuages flottent dans le ciel.
+0469 Un chaton assis par terre : le corps et la tête.
+0470 Les oreilles, la frimousse et la queue.
+0471 De l'herbe en zigzag le long du sol.
+0472 Des nuages de pluie : en bas une ligne droite, en haut des bosses.
+0473 La pluie : des petits traits courts et penchés.
+0474 Le parapluie : un dôme en arc et un bord ondulé.
+0475 Le manche du parapluie.
+0476 Le chaton sous le parapluie.
+0477 Le sol et une flaque.
+0478 Des collines : une ligne ondulée. Là où est assis le chaton, on ne dessine pas le trait.
+0479 La lune : un croissant fait de deux arcs.
+0480 Des étoiles.
+0481 Le chaton est assis de dos et regarde la lune.
+0482 L'arc-en-ciel : un grand arc.
+0483 Encore trois arcs dedans, l'un sous l'autre.
+0484 Des petits nuages aux bouts de l'arc-en-ciel.
+0485 Le chaton sous l'arc-en-ciel.
+0486 Le sol et le soleil.
+0487 Échauffement ! Dessine deux petites maisons : un carré avec un toit en triangle dessus.
+0488 Les murs de la maison : un grand carré.
+0489 Le toit : un triangle en haut.
+0490 La porte : un grand rectangle et une poignée ronde.
+0491 La fenêtre : un carré.
+0492 Un chaton à la fenêtre ! On ne voit que la tête : un cercle jusqu'au rebord et des oreilles.
+0493 La frimousse du chaton à la fenêtre.
+0494 Une cheminée sur le toit et de la fumée.
+0495 La carrosserie de la voiture : un long rectangle. Là où sont les roues, on ne dessine pas le trait.
+0496 L'habitacle en haut : un trapèze.
+0497 Les vitres : un petit trait au milieu.
+0498 Les roues : des cercles avec des petits cercles dedans.
+0499 Le chaton conduit ! On ne voit que sa tête à la vitre.
+0500 Le phare et la route.
+0501 La coque du bateau : large en haut, étroite en bas.
+0502 Le mât : un grand bâton.
+0503 Une voile en triangle et un drapeau.
+0504 Le chaton sur le pont.
+0505 Des hublots et des vagues.
+0506 La cabine de la locomotive : un grand rectangle avec une fenêtre.
+0507 Le chaton conducteur à la fenêtre.
+0508 La chaudière : un rectangle couché et une cheminée.
+0509 La fumée : des petits nuages ronds.
+0510 Un wagon et l'attelage.
+0511 Les roues et les rails.
+0512 Échauffement ! Dessine des poissons : un ovale et une queue en triangle.
+0513 Le chaton a attrapé un poisson ! D'abord la tête.
+0514 Les oreilles et la frimousse.
+0515 Le poisson dans ses pattes : un ovale et une queue.
+0516 L'œil et les écailles du poisson.
+0517 Le corps du chaton : un ovale derrière le poisson. Là où est le poisson, on ne dessine pas le trait.
+0518 La queue et les moustaches du chaton.
+0519 Chaton : le corps et la tête.
+0520 Les oreilles, la frimousse et les moustaches.
+0521 Le ballon : un ovale debout et un petit nœud.
+0522 Un reflet sur le ballon et une ficelle jusqu'à la patte du chaton.
+0523 Chaton : le corps et la tête. Laisse de la place pour l'écharpe.
+0524 Une écharpe autour du cou : deux arcs.
+0525 Le bout de l'écharpe pend, avec des franges en bas.
+0526 Des rayures sur l'écharpe.
+0527 Chaton : le corps et la tête. Laisse de la place en haut pour la toque de cuisinier.
+0528 La toque : un nuage tout gonflé et un bandeau.
+0529 Les oreilles dépassent sous la toque.
+0530 Une grande cuillère dans la patte.
+0531 Échauffement ! Le papillon : trace très légèrement une ligne d'aide, puis une aile à gauche et la même à droite.
+0532 Trace très légèrement une ligne d'aide au milieu de la feuille. Tu pourras la gommer après.
+0533 La moitié gauche de la tête et l'oreille gauche.
+0534 Maintenant la moitié droite, comme dans un miroir.
+0535 L'œil gauche et les moustaches à gauche.
+0536 L'œil droit et les moustaches à droite. Exactement comme à gauche !
+0537 Le nez et la bouche juste sur la ligne du milieu.
+0538 Une ligne d'aide au milieu, très légèrement.
+0539 Le corps : un ovale fin sur la ligne.
+0540 L'aile du haut à gauche, puis la même à droite.
+0541 Les ailes du bas : pareilles à gauche et à droite.
+0542 Des motifs : un petit cercle à gauche et le même à droite.
+0543 Les antennes.
+0544 Une ligne d'aide au milieu.
+0545 La moitié gauche du hibou avec une oreille en plume, puis la moitié droite.
+0546 De grands yeux : des cercles avec des cercles plus petits dedans.
+0547 Un bec en triangle au milieu.
+0548 Les ailes sur les côtés : des arcs.
+0549 Des plumes sur la poitrine : des petits V, pareils à gauche et à droite.
+0550 Les pattes sur une branche.
+0551 Le dos : une moitié à gauche, puis la même à droite.
+0552 Une petite tête en haut.
+0553 Des points : à gauche et les mêmes à droite.
+0554 Les pattes : trois à gauche et trois à droite.
+0555 Échauffement ! Dessine de longues lignes droites de gauche à droite. Prends ton temps.
+0556 Trace la ligne d'horizon sur toute la feuille. C'est là où le ciel rencontre la terre.
+0557 Le soleil se couche derrière l'horizon : on n'en voit que la moitié au-dessus de la ligne.
+0558 Des rayons vers le haut et sur les côtés.
+0559 Le chaton est assis de dos et regarde le coucher du soleil. La tête et les oreilles.
+0560 Le dos : un grand ovale sous la tête.
+0561 La queue est posée à côté, le bout enroulé.
+0562 Des oiseaux dans le ciel : des petits V.
+0563 L'horizon : là où la mer rencontre le ciel.
+0564 Le soleil est haut dans le ciel.
+0565 Un bateau lointain sur l'horizon : tout petit.
+0566 Les vagues : plus grandes près de nous, plus petites vers l'horizon.
+0567 Le rivage en bas. Là où est le chaton, on ne dessine pas le trait.
+0568 Le chaton sur le rivage regarde le bateau.
+0569 L'horizon.
+0570 Le chemin : large en bas, il rétrécit vers l'horizon.
+0571 Une petite maison au loin sur l'horizon : toute petite.
+0572 Le soleil.
+0573 L'herbe dans le champ : haute près de nous, petite au loin.
+0574 Un chaton sur le chemin.
+0575 Un énorme soleil au-dessus de l'horizon.
+0576 Les dunes : des vagues de sable toutes douces.
+0577 Un cactus avec des bras.
+0578 Un petit cactus au loin.
+0579 Le chaton regarde le soleil.
+0580 Échauffement ! Dessine trois petits cercles : un grand en bas, un moyen plus haut et un petit presque tout en haut.
+0581 Trace l'horizon plus haut.
+0582 Le chaton qui est près de nous est grand, il est assis en bas de la feuille.
+0583 Sa frimousse et ses moustaches.
+0584 Un chaton plus loin : plus petit et plus haut.
+0585 Et celui-là est très loin : tout petit, juste à l'horizon.
+0586 L'herbe aussi : haute près de nous, basse au loin.
+0587 Le sapin proche : grand, en bas.
+0588 Un sapin plus loin : plus petit et plus haut.
+0589 Les sapins lointains : tout petits, juste à l'horizon.
+0590 Le chaton près du grand sapin.
+0591 La maison proche : grande, en bas de la feuille.
+0592 Une maison plus loin : plus petite et plus haute.
+0593 Une toute petite maison très loin, à l'horizon.
+0594 Des fenêtres sur les maisons.
+0595 Le chaton près de la maison proche.
+0596 L'horizon en bas.
+0597 Le ballon proche : grand.
+0598 Dans le ciel, c'est le contraire : plus un ballon est loin, plus il est petit et proche de l'horizon.
+0599 Un ballon très lointain près de l'horizon.
+0600 Des quartiers sur les ballons.
+0601 Le chaton par terre lève les yeux.
+0602 Échauffement ! Dessine un cercle et un deuxième derrière lui. Le deuxième se cache, alors on dessine seulement la partie qu'on voit.
+0603 D'abord le chaton de devant : un cercle et des oreilles.
+0604 Le deuxième chaton est assis derrière. Sa tête se cache derrière le premier : on dessine seulement ce qu'on voit.
+0605 Les oreilles du deuxième chaton. Là où l'oreille se cache derrière son ami, on ne dessine pas le trait.
+0606 La frimousse du deuxième chaton. Celui qui est devant, on le voit en entier !
+0607 Un buisson devant : trois bosses toutes rondes.
+0608 Le bas du buisson est plat : une ligne sur le sol.
+0609 Un chaton regarde de derrière le buisson. On dessine seulement ce qu'on voit.
+0610 Des feuilles sur le buisson : des petits arcs.
+0611 La balle de devant : un cercle entier.
+0612 La deuxième balle est derrière : on dessine seulement la partie qu'on voit.
+0613 La troisième balle est la plus loin : elle se cache derrière les deux autres.
+0614 Des rayures sur les balles, aussi seulement là où on les voit.
+0615 Une petite étoile sur la balle de devant.
+0616 Une tasse devant : un ovale en haut, les côtés et le fond.
+0617 L'anse de la tasse et un cœur dessus.
+0618 Les pattes du chaton sur le bord de la tasse.
+0619 Le chaton derrière la tasse : on dessine seulement ce qu'on voit.
+0620 Échauffement ! Dessine trois petits cercles et hachure chacun d'un seul côté : en bas à droite.
+0621 D'abord le soleil dans le coin. La lumière vient de lui.
+0622 Dessine un grand cercle. C'est la balle.
+0623 Le reflet : un petit cercle du côté du soleil. On ne le colorie pas.
+0624 De l'autre côté, là où le soleil n'éclaire pas, la balle est dans l'ombre. Hachure le bord en bas à droite.
+0625 La balle fait une ombre sur le sol : un ovale aplati à côté.
+0626 Hachure l'ombre plus fort.
+0627 Le soleil en haut à gauche.
+0628 La pomme : deux côtés ronds et un creux en haut.
+0629 La queue et la feuille.
+0630 Un reflet du côté du soleil.
+0631 L'ombre propre : hachure le côté en bas à droite.
+0632 L'ombre sur la table, à droite de la pomme.
+0633 La boule du bas : un grand cercle. Son haut se cache derrière la boule du milieu.
+0634 La boule du milieu.
+0635 La tête. Il y aura un seau dessus.
+0636 Les yeux, un nez en carotte et des boutons.
+0637 Des bras en branches et un seau sur la tête.
+0638 La lumière vient de la gauche. Hachure le côté sombre de chaque boule.
+0639 L'ombre sur la neige à droite.
+0640 Le soleil à gauche.
+0641 La pelote : un grand cercle.
+0642 Les fils sur la pelote : des ovales penchés dedans.
+0643 Un fil s'échappe de la pelote.
+0644 L'ombre propre : hachure le bord en bas à droite.
+0645 L'ombre sur le sol.
+0646 Échauffement ! Dessine trois carrés : un grand, un moyen et un petit.
+0647 Dessine un carré. C'est la face avant du cube.
+0648 Depuis trois coins, trace des lignes courtes penchées vers le haut et vers la droite. Toutes pareilles !
+0649 Relie-les : le dessus et le côté droit. Tu as fait un cube en volume !
+0650 Le soleil éclaire de la gauche, alors le côté droit est dans l'ombre. Hachure-le.
+0651 Le cube fait une ombre à droite. Dessine-la et hachure-la.
+0652 Un chaton assis à côté regarde le cube.
+0653 Le grand cube : un carré devant.
+0654 Le dessus et le côté du grand cube. Laisse de la place pour le petit cube.
+0655 Le petit cube dessus : un carré.
+0656 Son dessus et son côté.
+0657 La lumière vient de la gauche : hachure les côtés droits.
+0658 Le chaton assis sur le petit cube.
+0659 Le cube-cadeau : un carré devant.
+0660 Le dessus et le côté.
+0661 Le ruban : des bandes devant, dessus et sur le côté.
+0662 Un nœud en haut : deux boucles et un nœud.
+0663 Hachure le côté sombre.
+0664 Un chaton à côté attend son cadeau.
+0665 Le mur de devant : un carré.
+0666 Le dessus et le côté de la maisonnette.
+0667 Une entrée ronde.
+0668 Le chaton dans la maisonnette : on ne voit que sa frimousse.
+0669 Dedans, il fait sombre : hachure autour du chaton.
+0670 Le côté dans l'ombre, et l'ombre sur le sol.
+0671 Échauffement ! Dessine un petit pot : un ovale couché, deux petits traits vers le bas et un arc en bas.
+0672 Le chaton est assis dans une tasse ! D'abord la tête. Le bas de la tête est caché dans la tasse.
+0673 Le bord de la tasse : un ovale couché. Là où est le chaton, on ne dessine pas le trait.
+0674 Les côtés et le fond de la tasse : deux petits traits vers le bas et un arc en bas.
+0675 Une anse sur le côté.
+0676 La lumière vient de la gauche, alors le bord droit de la tasse est dans l'ombre. Hachure-le de haut en bas.
+0677 Le dessus du gâteau : un ovale couché.
+0678 Les côtés et le bas : deux petits traits vers le bas et un arc.
+0679 La crème coule : une ligne ondulée sur le côté.
+0680 Des bougies avec des petites flammes.
+0681 Une assiette sous le gâteau.
+0682 La lumière vient de la gauche : hachure le côté droit du gâteau.
+0683 Le col du bocal : un ovale couché.
+0684 Les côtés et le fond.
+0685 L'eau : une ligne ondulée.
+0686 Un poisson dans l'eau.
+0687 La lumière vient de la gauche : hachure le bord droit du bocal.
+0688 Le chaton regarde le poisson.
+0689 Le pot : un ovale en haut, les côtés se resserrent vers le bas, le fond en arc.
+0690 Une tige et des feuilles.
+0691 La fleur : un cœur et des pétales ronds.
+0692 La lumière vient de la gauche : hachure le côté droit du pot.
+0693 L'ombre sur la table, et un chaton à côté sent la fleur.
+0694 Échauffement ! Le soleil à gauche. Dessine des petits poteaux et, pour chacun, une ombre sur le sol, du côté opposé au soleil.
+0695 Le soleil dans le coin gauche.
+0696 Le sol : une ligne en bas de la feuille.
+0697 Le soleil éclaire de la gauche, alors l'ombre tombe à droite. Dessine-la sur le sol.
+0698 Hachure l'ombre.
+0699 L'arbre : le tronc et le feuillage.

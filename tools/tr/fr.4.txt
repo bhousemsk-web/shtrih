@@ -1,0 +1,303 @@
+0927 Le sol et l'ombre : la plus sombre juste sous le chaton.
+0928 La construction : très légèrement, un cercle pour la tête, un ovale pour la poitrine et un ovale pour les hanches.
+0929 Le contour du chat : de l'oreille, on descend par la joue, la poitrine, les pattes, la queue, le dos et la deuxième oreille. Dessine en douceur.
+0930 La ligne de la joue sépare la tête du dos. Les poils dans les oreilles avec des traits fins.
+0931 Des yeux en amande sur une même ligne, avec des pupilles étroites.
+0932 Le nez, la bouche et le menton.
+0933 Les moustaches : de longs arcs fins.
+0934 Les pattes et la hanche : des traits fins à l'intérieur du contour.
+0935 Les poils sur la poitrine : des traits courts de haut en bas.
+0936 Les poils sur le corps : des traits qui suivent la forme, du cou vers le bas et vers l'arrière.
+0937 La lumière vient de la gauche : le dos et la hanche sont dans l'ombre, et sous le menton aussi.
+0938 L'ombre sur le sol à droite.
+0939 La construction : très légèrement, un grand cercle pour le corps et un cercle pour la tête.
+0940 La tête d'un trait sûr.
+0941 Le dos le long du cercle d'aide. Là où sont la tête et la queue, on ne dessine pas le trait.
+0942 Les oreilles et les yeux fermés avec des cils.
+0943 Le nez et les moustaches.
+0944 La queue touffue entoure le chaton : deux lignes et un bout.
+0945 Les poils tournent en rond, comme la spirale d'une pelote.
+0946 La lumière vient d'en haut à gauche : le dos est dans l'ombre en bas à droite, avec la lumière reflétée au bord.
+0947 Un coussin sous le chaton et des z-z-z de sommeil.
+0948 Échauffement ! L'échelle des valeurs : cinq petits carrés, du blanc au plus sombre. Le premier est vide, puis chacun est hachuré plus fort.
+0949 La lumière vient d'en haut à gauche. Dessine une lampe et le bord de la table. Là où sera la boule, on ne dessine pas le trait.
+0950 La boule : un cercle bien rond. D'abord légèrement, puis d'un trait sûr.
+0951 Le reflet : le point le plus clair, le plus proche de la lampe. Entoure-le légèrement et ne le hachure pas.
+0952 La demi-teinte : des hachures légères du milieu vers le côté de l'ombre.
+0953 L'ombre propre : on hachure en croisé, plus sombre. Tout au bord, laisse une bande plus claire : c'est la lumière reflétée, qui rebondit sur la table.
+0954 La partie la plus sombre de l'ombre : encore une couche de traits.
+0955 L'ombre portée sur la table : plus sombre juste à côté de la boule, plus claire plus loin.
+0956 Ombre un peu la table autour, pour que la boule paraisse encore plus ronde.
+0957 La lumière vient de la gauche. Le cube : le carré de devant, le dessus et le côté.
+0958 Le cylindre : un ovale en haut, les côtés et l'arc du bas.
+0959 Le cube a trois tons : le dessus est le plus clair, on le laisse. Devant, des hachures légères.
+0960 Le côté du cube est dans l'ombre : des hachures croisées.
+0961 Le cylindre est rond, alors son ombre change en douceur : des traits légers de haut en bas depuis le milieu.
+0962 Plus serré près du bord droit. Et tout au bord, laisse une étroite lumière reflétée.
+0963 Les ombres portées à droite.
+0964 La lumière vient d'en haut à gauche. Le bord de la table. Là où sera l'œuf, on ne dessine pas le trait.
+0965 L'œuf : plus étroit en haut, plus large en bas. Dessine en douceur, sans coins.
+0966 Le reflet en haut à gauche : entoure-le légèrement.
+0967 La demi-teinte et l'ombre propre, comme sur la boule, avec la lumière reflétée au bord.
+0968 L'ombre portée à droite, plus sombre près de l'œuf.
+0969 Échauffement ! Un œil de chat : une amande, un cercle dedans, et dedans une pupille étroite comme une fente. Dessine deux yeux.
+0970 Les lignes d'aide : très légèrement, un ovale pour la tête, une ligne au milieu et une ligne pour les yeux.
+0971 Le contour de la tête : de l'oreille, on descend par la joue jusqu'au menton, puis on remonte à la deuxième oreille.
+0972 Les oreilles : de grands triangles, avec les poils dedans en traits fins.
+0973 Les yeux sur la ligne des yeux : des amandes et des cercles pour l'iris.
+0974 Les pupilles en fente, des traits fins sur l'iris et des reflets. Laisse les reflets blancs !
+0975 Le nez : l'arête depuis les yeux et un triangle.
+0976 Les coussinets des joues, le menton et des petits points pour les moustaches.
+0977 De longues moustaches en arcs.
+0978 Les poils poussent depuis le nez dans tous les sens. Des traits courts qui suivent la forme de la tête.
+0979 Des joues et une poitrine touffues en zigzag, des rayures sur le front.
+0980 La lumière vient de la gauche : le côté droit de la tête est dans l'ombre, hachure en deux couches. Sous le menton aussi, il y a de l'ombre.
+0981 Les aides : très légèrement, un cercle pour la tête et une ligne au milieu.
+0982 Une tête toute douce : un petit zigzag irrégulier tout autour.
+0983 Les oreilles avec du duvet dedans.
+0984 D'immenses yeux : de grands cercles.
+0985 Les pupilles et deux reflets dans chaque œil. Hachure la pupille bien serré, laisse les reflets blancs.
+0986 Un tout petit nez et une petite bouche.
+0987 Les poils : des traits courts du nez vers les bords.
+0988 Des joues roses : hachure des petits ovales.
+0989 Un nœud sous le menton.
+0990 Les moustaches.
+0991 Les aides : très légèrement, un cercle pour la tête et la ligne du cou.
+0992 Le profil : l'arrière de la tête, l'oreille, le front, le nez, le museau, le menton et la poitrine. Dessine lentement.
+0993 L'œil de profil : une amande et une pupille.
+0994 Les poils dans l'oreille et la ligne de la joue.
+0995 Le nez et la bouche : des traits fins.
+0996 Les moustaches s'étirent vers l'avant.
+0997 Les poils partent du nez vers l'arrière. Les traits suivent la forme de la tête.
+0998 Un cou tout doux : un zigzag le long de la gorge.
+0999 La lumière vient de devant : l'arrière de la tête et le cou sont dans l'ombre. Hachure en deux couches.
+1000 Échauffement ! Trois textures : la fourrure en traits courts, le bois en lignes ondulées, la brique en motif de briques.
+1001 La construction : un cercle pour la tête, un ovale pour la poitrine et un ovale pour les hanches, légèrement.
+1002 Le contour du chat à poils longs : dessine une ligne irrégulière, comme si les poils sortaient en touffes.
+1003 Les yeux, les pupilles et le nez.
+1004 La bouche et de longues moustaches.
+1005 De longs poils sur la poitrine : des traits vers le bas.
+1006 Des poils sur tout le corps : des traits qui suivent la forme, du cou vers le bas et vers l'arrière.
+1007 Sur la tête, les poils sont plus courts : du nez vers l'extérieur.
+1008 L'ombre : le dos et la hanche, en deux couches.
+1009 Les planches de la clôture avec des pointes. Là où est le chaton, on ne dessine pas le trait.
+1010 Deux traverses en travers.
+1011 Les veines du bois sur les planches : des lignes fines et ondulées de haut en bas.
+1012 Des veines sur les traverses et des nœuds.
+1013 Des petits clous sur les traverses.
+1014 L'ombre sous les traverses, sur les planches.
+1015 Un chaton est assis devant la clôture.
+1016 Les poils et l'ombre sur le chaton.
+1017 Le haut du mur : une large dalle.
+1018 Le mur : des briques. Chaque rangée est décalée d'une demi-brique.
+1019 Certaines briques sont plus sombres : hachure-les.
+1020 L'ombre sous la dalle.
+1021 Un chaton est assis sur le mur.
+1022 Les poils et l'ombre sur le chaton, l'ombre sur la dalle.
+1023 Le ciel : le soleil et des nuages.
+1024 Échauffement ! Le point de fuite est à droite. Dessine une rangée de fenêtres qui vont vers lui : chacune plus étroite et plus basse.
+1025 L'horizon ne se voit qu'au bout de la rue. Et le point de fuite au milieu.
+1026 Les lignes d'aide : les toits et le bas des maisons à gauche et à droite, vers le point.
+1027 La rangée de maisons de gauche : le haut, le bas et le coin lointain.
+1028 La rangée de maisons de droite, comme dans un miroir.
+1029 Les fenêtres à gauche : plus c'est loin, plus elles sont étroites. Leurs bords regardent vers le point de fuite.
+1030 Les fenêtres à droite.
+1031 Les cadres des fenêtres : des croix. Le trait vertical reste vertical, et le trait horizontal va aussi vers le point de fuite.
+1032 La chaussée et les trottoirs.
+1033 Les pavés : des petits arcs, de plus en plus petits au loin.
+1034 Au loin, au bout de la rue, des petites maisons. Un chaton sur le trottoir.
+1035 La lumière vient de la gauche : les maisons de droite sont dans l'ombre, hachure en deux couches. Laisse les fenêtres.
+1036 Le mur du fond : un rectangle au milieu. Laisse de la place en bas pour le chaton.
+1037 Les coins de la pièce : des coins du mur jusqu'aux bords de la feuille.
+1038 Une fenêtre sur le mur du fond, avec la lune derrière.
+1039 Un tableau sur le mur de gauche et une porte sur le mur de droite : leurs bords regardent aussi vers le point de fuite.
+1040 Les lames du parquet : des lignes du bas de la feuille vers le point de fuite.
+1041 Une lampe et un tapis.
+1042 Le chaton sur le tapis.
+1043 Une tache de lumière tombe de la fenêtre sur le sol. Ombre le reste du sol avec une couche.
+1044 L'ombre du chaton sur le tapis.
+1045 La fenêtre : un grand cadre et une croix.
+1046 Le rebord est en volume : le dessus et le bord de devant.
+1047 Des toits derrière la fenêtre. Là où est le chaton, on ne dessine pas le trait.
+1048 Un croissant de lune et des étoiles.
+1049 Le chaton est assis de dos et regarde par la fenêtre.
+1050 Une fleur en pot sur le rebord.
+1051 Des rideaux sur les côtés : des plis ondulés.
+1052 Le ciel de nuit : des hachures serrées. Laisse la lune, les étoiles et le chaton.
+1053 Le chaton à contre-jour : hachure-le en sombre. Et le devant du rebord est dans l'ombre.
+1054 Le mur du fond : un rectangle au milieu et le point de fuite au centre.
+1055 Les coins du couloir : des coins du mur jusqu'aux coins de la feuille.
+1056 Des portes sur le mur de gauche : leur haut et leur bas regardent vers le point de fuite.
+1057 Des portes sur le mur de droite.
+1058 Le carrelage : des lignes vers le point et des lignes en travers, de plus en plus serrées au loin.
+1059 Des lampes au plafond : plus c'est loin, plus elles sont petites.
+1060 Un chaton au bout du couloir.
+1061 La lumière vient de devant : le mur de droite est dans l'ombre.
+1062 Échauffement ! Un ovale couché en haut, un arc en bas et les côtés. C'est comme ça qu'on construit n'importe quelle cruche ou n'importe quel vase.
+1063 Le bord de la table et son devant.
+1064 Le col de la cruche : un ovale et deux lignes vers le bas.
+1065 Le ventre rond de la cruche.
+1066 Le bec et l'anse.
+1067 Une pomme à droite : la queue et la feuille.
+1068 Des plis de tissu à l'arrière-plan.
+1069 La lumière vient de la gauche. Sur la cruche : la demi-teinte et l'ombre propre avec la lumière reflétée au bord.
+1070 Le col et l'anse sont aussi dans l'ombre à droite.
+1071 Le clair-obscur sur la pomme, et les reflets.
+1072 Les ombres sur la table à droite, plus sombres près des objets. Et l'ombre sur le devant de la table.
+1073 Le bord de la table.
+1074 La tasse : un ovale en haut, les côtés se resserrent vers le bas, un arc en bas.
+1075 Du thé dedans et une anse.
+1076 La soucoupe : un large ovale sous la tasse.
+1077 La vapeur au-dessus du thé : des lignes ondulées vers le haut.
+1078 Des biscuits : ronds, le deuxième se cache derrière le premier. Des petits points de miettes.
+1079 La lumière vient de la gauche : l'ombre sur la tasse devient plus sombre en douceur vers la droite.
+1080 L'ombre de la tasse sur la soucoupe et l'ombre des biscuits.
+1081 Les ombres sur la table à droite.
+1082 Le bord de la table. Là où est le vase, on ne dessine pas le trait.
+1083 Le vase : un col ovale et un ventre rond.
+1084 Des tiges de tulipes qui sortent du col.
+1085 Les tulipes : des petites coupes de pétales.
+1086 De longues feuilles.
+1087 Un motif sur le vase : des rayures qui suivent la forme, elles se courbent avec le vase.
+1088 La lumière vient de la gauche : le clair-obscur sur le vase avec la lumière reflétée.
+1089 L'ombre dans les fleurs et sur les feuilles à droite.
+1090 L'ombre sur la table à droite.
+1091 Échauffement ! Dessine un sapin au-dessus d'une ligne et sous la ligne le même à l'envers, en traits fins. C'est un reflet.
+1092 La rive : la ligne de l'eau sur toute la feuille.
+1093 Des sapins sur la rive à gauche.
+1094 Une petite maison à droite.
+1095 Des montagnes au loin derrière les sapins et la maison. Là où elles se cachent, on ne dessine pas le trait.
+1096 La neige sur les sommets et l'ombre sur les montagnes : les pentes de droite sont plus sombres.
+1097 La lune.
+1098 Dans l'eau, tout se reflète à l'envers. Dessine le reflet des sapins et de la maison en traits fins.
+1099 Le reflet des montagnes, très léger.
+1100 Le chemin de lune : des petits tirets sur l'eau.
+1101 Les rides sur l'eau : des lignes ondulées par-dessus les reflets.
+1102 Le sentier part au loin : large en bas et étroit au loin.
+1103 L'arbre proche à gauche : un tronc épais avec de l'écorce.
+1104 Son feuillage : des bosses toutes rondes.
+1105 Un arbre plus petit à droite.
+1106 Les arbres au loin sont tout petits.
+1107 Les rayons du soleil passent à travers les feuilles : trace légèrement des rayons penchés.
+1108 Les ombres des arbres en travers du sentier.
+1109 Le chaton sur le sentier.
+1110 Les feuilles dans l'ombre : des hachures en bas du feuillage.
+1111 De l'herbe le long du sentier.
+1112 La maisonnette : le mur de devant est un rectangle.
+1113 Le mur de côté part au loin.
+1114 Le toit : un triangle devant et une pente sur le côté.
+1115 La neige sur le toit : un bonnet ondulé tout gonflé.
+1116 Des fenêtres allumées, une porte et une cheminée qui fume.
+1117 Des sapins enneigés.
+1118 Des congères, des traces et le chaton.
+1119 La lune éclaire de la gauche : le mur de côté est dans l'ombre, et il y a de l'ombre sous le toit.
+1120 La neige tombe : des flocons.
+1121 Le sol et une flaque : un grand ovale couché.
+1122 Le chaton est assis au bord de la flaque.
+1123 Le chaton se reflète à l'envers dans la flaque. Des traits fins.
+1124 Des gouttes tombent : des petits traits courts.
+1125 Des ronds de gouttes sur l'eau.
+1126 Des rides par-dessus le reflet.
+1127 Échauffement ! La nuit se dessine avec des hachures : hachure bien serré un carré et laisse un cercle blanc au milieu, c'est la lune.
+1128 Les toits : une ligne brisée sur toute la feuille.
+1129 Les murs des maisons : des lignes vers le bas.
+1130 Des cheminées sur les toits et une antenne.
+1131 La lune avec des cratères.
+1132 Un chaton est assis sur le faîte du toit.
+1133 Les fenêtres : des petits carrés. Certaines sont allumées, d'autres sombres, hachure celles-là.
+1134 Le ciel de nuit : des hachures serrées. Laisse du blanc autour de la lune et des étoiles.
+1135 Les murs des maisons sont sombres aussi : hachure une deuxième couche, laisse du clair autour des fenêtres allumées.
+1136 Le sol : la ligne où le mur rencontre le sol.
+1137 Le chevalet : deux pieds devant et un derrière.
+1138 Une toile sur le chevalet et une petite tablette.
+1139 Un tableau sur la toile : l'horizon, le soleil, une colline et une petite maison.
+1140 Le chat peintre regarde la toile. Le contour du chat, laisse de la place en haut pour le béret.
+1141 Le béret du peintre.
+1142 La frimousse : les yeux, le nez, la bouche et les moustaches.
+1143 Une patte avec un pinceau se tend vers la toile.
+1144 Une palette avec des couleurs sur un tabouret.
+1145 Les poils et la lumière : la fenêtre à gauche, les ombres à droite.
+1146 La montgolfière : un grand dôme qui se resserre en bas.
+1147 Des quartiers sur le ballon : des arcs de haut en bas.
+1148 Des cordes et une nacelle.
+1149 Le tressage de la nacelle.
+1150 Un chaton sort la tête de la nacelle.
+1151 Des nuages tout près.
+1152 La terre tout en bas : l'horizon, des champs, une rivière et de minuscules maisons.
+1153 La lumière vient de la gauche : la demi-teinte et l'ombre propre sur le ballon.
+1154 Des oiseaux près du ballon.
+1155 Une lanterne dans la patte : une petite boîte, un toit et une poignée.
+1156 Une petite flamme dans la lanterne.
+1157 Des jouets autour : une balle et une pelote.
+1158 L'obscurité : hachure bien serré tout autour de la lumière. Commence par le haut.
+1159 L'obscurité à gauche.
+1160 L'obscurité à droite. Tu vois comme la lanterne brille ?
+1161 Hourra ! Quel beau dessin ! Montre-le à maman ou à papa.
+1162 Bravo ! C'est très réussi. Appuie sur C'est fini et reçois un autocollant !
+1163 Miaou ! C'est le plus beau dessin du monde ! Appuie sur C'est fini.
+1164 Échauffement
+1165 Soutenir le développeur
+1166 À propos
+1167 Avec amour, {0}
+1168 Chaton Trait
+1169 Tu as fini tous les niveaux ! Tu es un vrai artiste. Dessine d'autres images avec n'importe quelle technique.
+1170 Coucou ! Je suis Trait. Touche le chaton et dessinons !
+1171 Aujourd'hui on apprend : « {0} ». Touche-le et choisis un dessin !
+1172 Dessins : {0}
+1173 Le niveau {0} s'ouvrira quand tu auras fini le niveau {1}.
+1174 Dessine d'abord n'importe quel dessin avec la technique « {0} » !
+1175 {0}. Choisis ce qu'on va dessiner.
+1176 Il reste à dessiner : {0}.
+1177 C'est fini !
+1178 Suivant
+1179 Prépare une feuille de papier et un crayon.
+1180 Encore « {0} » !
+1181 L'autocollant « {0} » est à toi !
+1182 Encore un autocollant ! C'est super réussi !
+1183 L'autocollant est à toi ! Il est déjà dans l'album.
+1184 Hourra ! Un nouveau niveau est ouvert : {0} !
+1185 Le niveau {0} est ouvert !
+1186 La leçon suivante est ouverte.
+1187 {0} sur {1}
+1188 Voici tes autocollants !
+1189 Tes autocollants seront ici. Dessine ton premier chaton !
+1190 Combien font {0} + {1} ?
+1191 Faux, réessaie
+1192 Copier
+1193 Copié !
+1194 La voix neuronale des fichiers de l'application est activée.
+1195 C'est la voix du téléphone qui est utilisée. Tu peux choisir la meilleure voix dans les réglages du téléphone : Android — « Synthèse vocale », iPhone — « Accessibilité » → « Contenu énoncé » → « Voix ».
+1196 Ce navigateur ne sait pas parler. Ouvre la page dans Chrome ou Safari.
+1197 Écouter
+1198 Les voix marquées Natural, Neural, Enhanced ou Google sonnent en général le plus naturellement.
+1199 Aucune voix n'a été trouvée pour cette langue. Installe les données vocales dans les réglages du téléphone : Android — « Synthèse vocale » → Google, iPhone — « Accessibilité » → « Contenu énoncé » → « Voix ».
+1200 Coucou ! Je suis Trait. Dessinons !
+1201 Oui
+1202 Non
+1203 Effacer la progression et les autocollants
+1204 Vraiment effacer ? Touche encore une fois
+1205 Progression effacée
+1206 Chaton Trait. Pour les adultes : appuie 2 secondes
+1207 Album d'autocollants
+1208 Accueil
+1209 Répéter
+1210 Montrer encore
+1211 Retour
+1212 Fermer
+1213 Vers l'album !
+1214 Cette application est gratuite
+1215 Chaton Trait est entièrement gratuit et sans publicité. Je l'ai fait avec amour pour ma fille, pour qu'elle apprenne à dessiner. J'espère qu'il fera aussi plaisir à vos enfants !
+1216 Si vous voulez soutenir le projet, je vous en serai très reconnaissant. C'est facultatif : tout restera gratuit de toute façon.
+1217 Commencer à dessiner
+1218 Réservé aux adultes
+1219 Résolvez ceci pour continuer :
+1220 Merci de vouloir aider ! Chaque montant compte. L'application restera gratuite et sans publicité de toute façon.
+1221 Pour les adultes
+1222 Langue
+1223 La voix de Trait
+1224 Parler plus lentement
+1225 Quelle voix préfères-tu ?
+1226 Ouvrir toutes les leçons
+1227 Les niveaux 1–2 sont pour 5–6 ans environ, les niveaux 3–4 pour 6–9 ans et « Pro » à partir de 9 ans. Rien ne presse : chaque leçon peut être refaite autant de fois qu'on veut. Les pointillés dans les leçons sont des lignes d'aide : on les trace légèrement et on les gomme ensuite.
+1228 Virement depuis une carte russe
+1229 L'application ne collecte aucune donnée : tout reste sur cet appareil.

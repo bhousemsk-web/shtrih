@@ -1,0 +1,227 @@
+0700 The trunk's shadow falls to the right, away from the sun.
+0701 At its end, the crown's shadow: an oval on the ground.
+0702 Hatch the shadows.
+0703 Form shadow on the crown: the bottom right edge.
+0704 Sun on the right.
+0705 Mushroom cap: a dome and an arc underneath.
+0706 Stem: two sticks down.
+0707 Spots on the cap.
+0708 The sun is on the right, so the shadow is on the left. Draw it and hatch it.
+0709 Grass.
+0710 Umbrella: a dome, a wavy edge and a pole.
+0711 The umbrella's shadow falls to the right. Draw a big oval on the ground.
+0712 Kitty is hiding in the shade.
+0713 Hatch the shadow. It's nice and cool there for kitty!
+0714 Warm-up! Zigzag grass: tall at the bottom, short higher up.
+0715 Horizon. Leave space where the big tree will be.
+0716 The near tree: big and standing low.
+0717 The faraway tree: small, right at the horizon.
+0718 Kitty on the meadow.
+0719 The sun is on the right, so kitty's shadow lies on the left. Draw it and hatch it.
+0720 Grass: tall nearby, small far away.
+0721 Pond: a big lying oval.
+0722 Reeds by the shore: sticks with ovals on top.
+0723 Little rings on the water: a fish splashed here.
+0724 Trees far away at the horizon.
+0725 Kitty on the shore.
+0726 Sun on the left, kitty's shadow on the right.
+0727 A little house and fir trees far away.
+0728 Snowman: three snowballs.
+0729 Kitty.
+0730 Sun on the left: shadows to the right.
+0731 Horizon. Leave space for the big tree.
+0732 A big tree nearby.
+0733 A small tree far away.
+0734 Leaves are falling: little boats.
+0735 Kitty and a puddle.
+0736 Sun on the left: kitty's shadow to the right.
+0737 Warm-up! Put a dot in the middle and draw straight lines to it from all the corners of the page, like rays.
+0738 Draw the horizon and put a dot in the middle of it. This is the vanishing point: everything far away goes there.
+0739 The edges of the road: two straight lines from the bottom of the page right to the dot.
+0740 Road markings in the middle. Near us the stripes are long, further away shorter and shorter.
+0741 Helper lines for the posts. Draw them very lightly, also to the vanishing point.
+0742 Posts between the helper lines. The further away, the shorter!
+0743 A kitty sits by the road and looks into the distance.
+0744 Horizon and vanishing point.
+0745 Helper lines for the sleepers: very lightly, to the dot.
+0746 Sleepers: little crosswise sticks. The further away, the shorter and closer together.
+0747 Rails: two lines to the vanishing point.
+0748 Kitty sits by the railway.
+0749 Horizon and a vanishing point on the right.
+0750 Helper lines: the top and bottom of the fence, to the dot.
+0751 Posts: the further away, the shorter and closer together.
+0752 Crossbars, also to the vanishing point.
+0753 Kitty sits on the fence.
+0754 Grass by the fence.
+0755 Riverbanks: two lines to the vanishing point. Where kitty sits, we don't draw the line.
+0756 Waves: big in front, small and close together far away.
+0757 Trees on the bank: the further away, the smaller.
+0758 Kitty on the right bank.
+0759 Warm-up! Draw a little square and a dot at the top right. From the corners of the square, lightly draw lines to the dot.
+0760 The front of the box: a square.
+0761 From three corners, very lightly draw helper lines to the vanishing point.
+0762 Along the helper lines measure the depth of the box: three short edges.
+0763 The back edges: join the ends. The box is now solid!
+0764 The side of the box is in shadow. Hatch it.
+0765 A kitty next to it: it has found a new box!
+0766 Horizon and a vanishing point in the middle.
+0767 The fronts of two boxes: squares on the left and right.
+0768 Helper lines from the corners to the vanishing point.
+0769 Left box: top and right side.
+0770 Right box: top and left side. The sides face the vanishing point.
+0771 Sides in shadow: hatch them.
+0772 A kitty between the boxes.
+0773 The front wall is a square, the roof is a triangle.
+0774 Helper lines to the vanishing point from the right corners and the top of the roof.
+0775 The side wall along the helper lines.
+0776 The roof from the side: the ridge goes into the distance.
+0777 A door in front, a window on the side.
+0778 The side wall in shadow.
+0779 The front of the chest: a rectangle.
+0780 Helper lines to the vanishing point.
+0781 The top and side of the chest.
+0782 Lid: a line on the front and on the side, also to the dot.
+0783 Bands and a little lock.
+0784 The side in shadow. A kitty on the chest.
+0785 Warm-up! Put a dot on the right and draw posts going towards it: each one shorter than the one before.
+0786 Helper lines for the trees on the left: along the bottoms and along the tops. Very lightly.
+0787 The edges of the path, also to the dot.
+0788 Trees on the left between the helper lines. The further away, the smaller.
+0789 The same trees on the right, like in a mirror.
+0790 Kitty takes a walk down the alley.
+0791 Helper lines for the lamps: along the bottom and along the top.
+0792 The edges of the road.
+0793 Lamps: the further away, the shorter and closer together.
+0794 A kitty by the road.
+0795 Helper lines: along the bottoms of the fir trees, on the left and right.
+0796 Path.
+0797 Fir trees: big in front, small far away.
+0798 A kitty walks along the path.
+0799 The edges of the bridge: lines to the vanishing point.
+0800 Railings: the top lines go to the dot too.
+0801 Railing posts: the further away, the shorter and closer together.
+0802 Planks on the bridge: crosswise lines, closer and closer far away.
+0803 A kitty walks across the bridge.
+0804 Warm-up! A horizon with two dots at the ends. Draw a stick and from its ends draw lines to both dots.
+0805 The horizon is low, with two vanishing points at the edges of the page. Leave space in the middle for the house.
+0806 The near corner of the house: one tall vertical line.
+0807 From the ends of the line, lightly draw helper lines to both dots.
+0808 Where the walls end: two vertical lines on the left and right.
+0809 Trace the walls along the helper lines: top and bottom.
+0810 A door and a window on the right wall. Their edges point to the vanishing point too.
+0811 The sun is on the right. The left wall is in shadow, hatch it.
+0812 A kitty sits on the corner of the roof!
+0813 The horizon is high, with two vanishing points at the edges.
+0814 The near corner of the crate.
+0815 Helper lines from the ends of the corner to both dots.
+0816 The edges of the crate: two vertical lines.
+0817 Trace the sides and the top. We are looking from above, so we can see the lid.
+0818 Planks on the sides: the lines go to the vanishing points too.
+0819 The left side in shadow.
+0820 A kitty on the crate.
+0821 The horizon is low with two dots at the edges: we are looking up at the tower.
+0822 The near corner of the tower: a tall line.
+0823 Helper lines to both vanishing points.
+0824 The edges of the walls and the wall lines.
+0825 A pointed roof and a flag.
+0826 Windows: their edges point to the vanishing points too.
+0827 The left wall in shadow.
+0828 A kitty by the tower.
+0829 The horizon is high, with two vanishing points.
+0830 The near corner of the doghouse.
+0831 Helper lines to both dots.
+0832 The edges of the walls and the top.
+0833 A little door with a rounded top on the right wall.
+0834 It's dark inside, and the left wall is in shadow.
+0835 Warm-up! Draw an oval and a circle, and hatch the dark side of each. Light from the top left.
+0836 Light from the top left. The head is round, so it is darker at the bottom right. Hatch the edge.
+0837 The body is round too: we hatch the dark side on the right.
+0838 And a shadow on the ground to the right. Draw it and hatch it more thickly.
+0839 Pear: a big circle at the bottom, a smaller one on top. Don't draw the lines inside.
+0840 Highlight.
+0841 Form shadow: the dark side on the right.
+0842 The shadow on the table.
+0843 Body: a long lying oval. The head is in front, so we don't draw the line there.
+0844 Head, ears and paw.
+0845 Light from the top right: the dark side is at the bottom left.
+0846 The shadow on the floor to the left.
+0847 Watermelon: a big circle and a stalk.
+0848 Stripes: vertical arcs.
+0849 Form shadow: the bottom right side.
+0850 Warm-up! Draw three fir trees: a big one at the bottom, a medium one higher up and a small one right at the line.
+0851 Background: mountains. They are on the horizon and look small.
+0852 Snow on the peak: a little zigzag.
+0853 Middle ground: a little house and a tree, smaller.
+0854 Foreground: kitty is very close. It's so big that it doesn't even fit!
+0855 The big kitty's face.
+0856 Big grass in front, and birds in the sky.
+0857 Horizon. Where the little house and the tree will be, we don't draw the line.
+0858 Background: house silhouettes on the horizon. Where the near house will be, we don't draw the line.
+0859 Middle ground: a little house and a tree.
+0860 Foreground: a big kitty, it doesn't even fit.
+0861 Birds in the sky.
+0862 Background: a little island with a palm tree.
+0863 Middle ground: a sailboat on the waves.
+0864 Foreground: the shore. Where kitty is, we don't draw the line.
+0865 A big kitty in front.
+0866 A seashell on the sand: a little spiral.
+0867 Background: hills on the horizon.
+0868 Middle ground: smaller fir trees.
+0869 Foreground: a big fir tree on the left, it doesn't even fit.
+0870 Kitty is very close.
+0871 Grass in front.
+0872 Warm-up! The sun is low on the right. Draw sticks and their long shadows to the left.
+0873 Horizon. Leave space in the middle for the tree's crown.
+0874 Evening: the sun is setting on the right, right at the horizon.
+0875 Tree.
+0876 In the evening the sun is low, and the shadows are long, long, long. The tree's shadow stretches to the left.
+0877 Hatch the tree's shadow.
+0878 And kitty's long shadow.
+0879 Noon: the sun is high overhead.
+0880 When the sun is high, shadows are short and right under things.
+0881 A street lamp in the middle: a post and a lampshade.
+0882 Rays of light: very lightly, from the lamp down.
+0883 A kitty on the left, a ball on the right.
+0884 Shadows run away from the lamp: kitty's to the left, the ball's to the right.
+0885 Moon and stars.
+0886 Table.
+0887 A candle in the middle and a little flame.
+0888 A cup on the left, a ball on the right.
+0889 Light goes from the flame in all directions: lightly draw the rays.
+0890 Shadows run away from the candle: the cup's to the left, the ball's to the right.
+0891 Light is on the left of the ball and on the right of the cup: the dark sides face away from the candle.
+0892 Warm-up! Remember light and shadow: draw a ball with a highlight, a form shadow and a shadow on the ground.
+0893 The road goes to the dot.
+0894 Trees on the right. The further away, the smaller.
+0895 A little house far away by the road: really tiny.
+0896 Sun at the top left.
+0897 A kitty in front: body and head.
+0898 Face, whiskers and tail.
+0899 Form shadow: the dark side is on the right of the head and body.
+0900 And a shadow on the ground to the right. You are a real artist!
+0901 The road goes into the distance.
+0902 Little houses with windows far away.
+0903 A snowman on the right.
+0904 A kitty on the left.
+0905 The moon at the top right: form shadows on the left and shadows on the snow.
+0906 Horizon: sea and sky.
+0907 Sun and a faraway ship.
+0908 Waves and shore.
+0909 A beach umbrella.
+0910 A ball and a kitty.
+0911 Sun on the left: form shadows on the right and shadows on the sand.
+0912 The path goes into the distance.
+0913 Trees on the left: the further away, the smaller.
+0914 A bench on the right.
+0915 Leaves are falling.
+0916 Sun on the left: form shadow and shadow on the ground.
+0917 Warm-up! Very lightly draw three helper ovals, then trace around them with one confident line, as if they were one shape.
+0918 Artists first build a figure from simple shapes. Very lightly: a circle for the chest, a circle for the hips, a circle for the head and the line of the back.
+0919 Now confidently: the head and the line of the back, following the helpers.
+0920 Tummy underneath.
+0921 Front paws stretched far forward.
+0922 Back paws standing on the ground.
+0923 Tail straight up.
+0924 Ears and face: the eye squeezed shut with pleasure.
+0925 Fur: short strokes along the body, from head to tail.
+0926 Light from above: the tummy and paws are in shadow. Cross-hatch near the tummy.

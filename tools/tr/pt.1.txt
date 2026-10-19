@@ -1,0 +1,330 @@
+0000 Gatinho
+0001 Linhas e formas
+0002 Nível um, gatinho. Aprendemos a desenhar linhas e formas.
+0003 Jovem artista
+0004 Tamanho, pose, humor, história
+0005 Nível dois, jovem artista. Desenhamos coisas grandes e pequenas, em movimento e com sentimentos.
+0006 Artista
+0007 Horizonte, volume, luz e sombra
+0008 Nível três, artista. Horizonte, volume, luz e sombra.
+0009 Mestre
+0010 Perspectiva e quadros
+0011 Nível quatro, mestre. Perspectiva, pontos de fuga e quadros de verdade.
+0012 Profissional
+0013 Claro-escuro, retratos, texturas, paisagens
+0014 Nível cinco, profissional. Desenhos realistas e complexos: claro-escuro, retratos, texturas, perspectiva, naturezas-mortas e paisagens.
+0015 Linhas retas
+0016 Círculos
+0017 Triângulos
+0018 Ondas
+0019 Zigue-zague
+0020 Espiral
+0021 Ovais
+0022 Hachura
+0023 Grande e pequeno
+0024 De lado
+0025 Humor
+0026 Movimento
+0027 Chão e céu
+0028 Uma história com formas
+0029 Detalhes
+0030 Simetria
+0031 Horizonte
+0032 Perto e longe
+0033 Quem está na frente
+0034 Luz e sombra
+0035 Volume: cubo
+0036 Volume: cilindro
+0037 Sombra projetada
+0038 Quadro
+0039 Ponto de fuga
+0040 Caixa em perspectiva
+0041 Perspectiva: árvores
+0042 Dois pontos de fuga
+0043 Sombra própria
+0044 Três planos
+0045 Sombras longas
+0046 Quadro final
+0047 Construção
+0048 Claro-escuro
+0049 Retrato
+0050 Texturas
+0051 Perspectiva
+0052 Natureza-morta
+0053 Paisagem
+0054 Grande quadro
+0055 Gatinho na caixa
+0056 Gatinho atrás da cerca
+0057 Gatinho robô
+0058 Gatinho no foguete
+0059 Gatinho redondo
+0060 Gatinho e bolhas
+0061 Amigo ratinho
+0062 Lagarta
+0063 Carinha orelhuda
+0064 Raposinha
+0065 Gatinho na festa
+0066 Montanhas
+0067 Gatinho listrado
+0068 Gatinho no barco
+0069 Peixe no mar
+0070 Gatinho na banheira
+0071 Gatinho fofinho
+0072 Ouriço
+0073 Gatinho e a árvore de Natal
+0074 Gatinho rei
+0075 Gatinho dorminhoco
+0076 Caracol
+0077 Gatinho com pirulito
+0078 Ovelhinha
+0079 Gatinho inteiro
+0080 Coelhinho
+0081 Passarinho
+0082 Pinguim
+0083 Gatinho colorido
+0084 Peixe listrado
+0085 Casa com telhado
+0086 Tigrinho
+0087 Mamãe e filhote
+0088 Gatinho e ratinho
+0089 Peixes grandes e pequenos
+0090 Mamãe e filhotes
+0091 Gatinho passeando
+0092 Cachorrinho
+0093 Gatinho sentado de lado
+0094 Ratinho correndo
+0095 Três humores
+0096 Bravo e sonolento
+0097 Gatinho piscando
+0098 Assustado e apaixonado
+0099 Gatinho correndo
+0100 Gatinho pulando
+0101 Bola quicando
+0102 Pegadas do gatinho
+0103 Gatinho ao ar livre
+0104 Gatinho debaixo do guarda-chuva
+0105 Noite
+0106 Arco-íris
+0107 Uma casa para o gatinho
+0108 Gatinho no carro
+0109 Barquinho
+0110 Trenzinho
+0111 Gatinho pescador
+0112 Gatinho com balão
+0113 Gatinho de cachecol
+0114 Gatinho cozinheiro
+0115 Gatinho no espelho
+0116 Borboleta
+0117 Coruja
+0118 Joaninha
+0119 Gatinho olhando o pôr do sol
+0120 Mar e barquinho
+0121 Caminho no campo
+0122 Deserto
+0123 Gatinhos no campo
+0124 Pinheiros na floresta
+0125 Casinhas da vila
+0126 Balões
+0127 Dois amigos
+0128 Gatinho atrás do arbusto
+0129 Três bolas
+0130 Gatinho atrás da caneca
+0131 Uma bola para o gatinho
+0132 Maçã
+0133 Boneco de neve
+0134 Novelo de lã
+0135 Gatinho e o cubo
+0136 Torre de cubos
+0137 Um presente para o gatinho
+0138 Gatinho na xícara
+0139 Bolo
+0140 Pote com peixe
+0141 Flor no vaso
+0142 Gatinho no sol
+0143 Árvore e sombra
+0144 Cogumelo
+0145 Gatinho na sombra do guarda-sol
+0146 Prado
+0147 Lago
+0148 Quintal no inverno
+0149 Parque no outono
+0150 Estrada ao longe
+0151 Ferrovia
+0152 Cerca ao longe
+0153 Rio ao longe
+0154 Uma caixa para o gatinho
+0155 Duas caixas
+0156 Casa com um ponto
+0157 Baú do tesouro
+0158 Gatinho na alameda
+0159 Postes de luz
+0160 Pinheiros ao longo do caminho
+0161 Ponte ao longe
+0162 Casa com gatinho
+0163 Caixote com dois pontos
+0164 Torre
+0165 Casinha de cachorro
+0166 Gatinho redondo com volume
+0167 Pera
+0168 Gatinho deitado
+0169 Melancia
+0170 Gatinho e montanhas
+0171 Cidade: três planos
+0172 Mar: três planos
+0173 Floresta: três planos
+0174 Passeio ao entardecer
+0175 Meio-dia: sombras curtas
+0176 Poste à noite
+0177 Vela
+0178 Caminho de casa
+0179 Noite de inverno
+0180 Praia no verão
+0181 Alameda no outono
+0182 Gatinho se espreguiçando
+0183 Gato sentado
+0184 Gato dormindo enrolado
+0185 Bola: claro-escuro
+0186 Cubo e cilindro
+0187 Ovo
+0188 Retrato de gato
+0189 Filhote de olhos grandes
+0190 Gato de perfil
+0191 Gato peludo
+0192 Gatinho na cerca de madeira
+0193 Gatinho no muro de tijolos
+0194 Rua da cidade
+0195 O quarto do gatinho
+0196 Gatinho na janela
+0197 Corredor
+0198 Jarra e maçã
+0199 Chá e biscoitos
+0200 Vaso com tulipas
+0201 Reflexo no lago
+0202 Trilha na floresta
+0203 Casinha no inverno
+0204 Gatinho e a poça
+0205 Cidade à noite
+0206 Gato artista
+0207 Voo de balão
+0208 Gatinho com lanterna
+0209 Aquecimento! Desenhe cinco tracinhos de cima para baixo, como chuva.
+0210 Desenhe uma caixa. Primeiro a tampa: uma linha reta da esquerda para a direita.
+0211 Agora os lados e o fundo: para baixo, para a direita e para cima.
+0212 Um gatinho espia da caixa! Uma linha para cima, uma orelha, o alto da cabeça, a outra orelha e para baixo.
+0213 Olhos: dois tracinhos de cima para baixo. E um narizinho pontudo.
+0214 Bigodes! Linhas retas compridas para os lados.
+0215 Cerca: tracinhos iguais de cima para baixo.
+0216 Travessas: duas linhas compridas da esquerda para a direita.
+0217 Um gatinho espia por cima da cerca: uma linha para cima, uma orelha, o alto da cabeça, uma orelha e para baixo.
+0218 Olhos de tracinho e um nariz pontudo.
+0219 Bigodes para os lados.
+0220 Grama perto da cerca: tracinhos curtos inclinados.
+0221 Cabeça do robô: um retângulo.
+0222 Orelhas e uma antena: linhas retas.
+0223 Os olhos são quadradinhos, a boca é uma linha com dentes.
+0224 Pescoço e corpo: um retângulo grande.
+0225 Um painel com botões no corpo.
+0226 Braços e pernas: linhas retas.
+0227 Corpo do foguete: um retângulo alto.
+0228 Ponta do foguete: duas linhas inclinadas até uma ponta afiada.
+0229 Asas: linhas inclinadas dos lados.
+0230 Uma janela quadrada com um gatinho dentro: uma linha para cima, orelhas e para baixo.
+0231 Fogo embaixo: um zigue-zague pontudo.
+0232 Estrelinhas em cruz em volta.
+0233 Aquecimento! Desenhe três círculos. Comece em cima, dê a volta pela esquerda e volte ao início.
+0234 Desenhe um círculo grande. É um gatinho redondo.
+0235 Orelhas: cantinhos em cima. Para cima e para baixo.
+0236 Olhos: dois circulinhos.
+0237 Nariz: um circulinho bem pequeno. E bigodes para os lados.
+0238 Ao lado, um novelo: um círculo com arcos dentro.
+0239 A cabeça do gatinho: um círculo grande e orelhas.
+0240 Olhos de círculo e nariz de círculo.
+0241 O gatinho faz bolhas! Um círculo grande.
+0242 Mais bolhas: uma média e umas pequenas.
+0243 Em cada bolha brilha um circulinho.
+0244 Bigodes para o gatinho.
+0245 Cabeça do ratinho: um círculo.
+0246 Orelhas: dois círculos grandes em cima. Onde ficam atrás da cabeça, não desenhamos a linha.
+0247 Círculos menores dentro das orelhas.
+0248 Olhos e um nariz grande e redondo.
+0249 Bigodes e um sorriso.
+0250 Cabeça da lagarta: um círculo à direita.
+0251 Corpo: círculos um atrás do outro. Cada um se esconde atrás do vizinho.
+0252 Olhos de círculo e um sorriso.
+0253 Antenas com bolinhas.
+0254 Patinhas: tracinhos curtos embaixo de cada círculo.
+0255 O galhinho por onde a lagarta anda.
+0256 Aquecimento! Desenhe três triângulos: de cima para baixo à esquerda, depois para a direita e de volta para cima.
+0257 Desenhe um círculo grande. É a cabeça do gatinho.
+0258 Orelhas: cantinhos de triângulo em cima da cabeça.
+0259 Triângulos menores dentro das orelhas.
+0260 Os olhos são circulinhos e o nariz é um triângulo pequeno.
+0261 A boca são dois arquinhos embaixo do nariz. E bigodes!
+0262 A carinha da raposa: um triângulo grande com o nariz para baixo.
+0263 Orelhas: cantinhos em cima.
+0264 Cantinhos menores dentro das orelhas.
+0265 Olhos e um nariz na ponta.
+0266 Bochechas brancas: duas linhas formando um cantinho.
+0267 Carinha: um círculo e orelhas. Deixe espaço em cima para o chapéu de festa.
+0268 Chapéu de festa: um triângulo em cima da cabeça e um pompom.
+0269 Olhos e nariz.
+0270 Boca e bigodes.
+0271 Bandeirinhas de triângulo num barbante.
+0272 A montanha da frente: um triângulo grande.
+0273 A montanha de trás: desenhamos só o que aparece atrás da primeira.
+0274 Neve nos picos: um zigue-zague.
+0275 O sol e passarinhos.
+0276 O chão embaixo e um gatinho.
+0277 Aquecimento! Desenhe três ondas, como o mar: sobe e desce, sobe e desce.
+0278 Desenhe a carinha como antes: um círculo e duas orelhas.
+0279 Este gatinho é listrado! Três listras onduladas na testa, de cima para baixo.
+0280 Listras onduladas nas bochechas também.
+0281 Boca e bigodes. Pronto!
+0282 O barco: largo em cima, estreito embaixo.
+0283 Um gatinho no barco: cabeça e orelhas.
+0284 A carinha do gatinho.
+0285 Ondas embaixo do barco.
+0286 Ondas menores ao longe.
+0287 Um peixe grande: um oval e um rabo.
+0288 Escamas: listras onduladas.
+0289 Algas: linhas onduladas de baixo para cima.
+0290 Bolhas subindo.
+0291 Ondas na superfície do mar.
+0292 A borda da banheira: uma linha comprida.
+0293 O fundo da banheira: um arco e pezinhos.
+0294 O gatinho está sentado na água: vemos a cabeça com orelhas.
+0295 Carinha e bigodes.
+0296 A água na banheira: uma linha ondulada.
+0297 Bolhas de sabão.
+0298 Aquecimento! Desenhe zigue-zagues: sobe e desce com cantos afiados, como dentinhos.
+0299 Este gatinho é fofinho! Desenhe a cabeça com um zigue-zague em volta: dente, dente, dente.
+0300 Orelhas de cantinho.
+0301 Um zigue-zague em cima: um topete fofinho.
+0302 As costas espinhosas do ouriço: um zigue-zague em arco, subindo do chão e descendo.
+0303 Carinha: um nariz pontudo para frente.
+0304 Barriguinha: uma linha pelo chão.
+0305 Um olho e um nariz redondo.
+0306 Patinhas e uma maçã nos espinhos.
+0307 Árvore de Natal: três camadas de dentinhos, de cima para baixo e de volta para cima.
+0308 Tronco: dois tracinhos para baixo.
+0309 Uma estrela no topo.
+0310 Bolinhas nos galhos.
+0311 Um gatinho ao lado.
+0312 Chão.
+0313 Coroa: um zigue-zague com pontas afiadas.
+0314 A cabeça embaixo da coroa. Onde está a coroa, não desenhamos a linha.
+0315 As orelhas aparecem embaixo da coroa.
+0316 Pedrinhas preciosas na coroa.
+0317 Boca e bigodes. Sua Majestade, o gatinho!
+0318 Aquecimento! Desenhe duas espirais, como a casca do caracol: do meio para fora, cada vez mais larga.
+0319 O gatinho está dormindo! Desenhe um círculo grande. São as costas.
+0320 Um círculo menor do lado. É a cabeça.
+0321 Orelhas de cantinho na cabeça.
+0322 O gatinho fechou os olhos: dois arquinhos.
+0323 O rabo está enrolado em espiral: dê a volta, cada vez menor.
+0324 O gatinho está roncando. Desenhe zigue-zagues de sono: z-z-z!
+0325 A casca do caracol: uma espiral do meio, cada vez mais larga.
+0326 O corpo do caracol: uma linha comprida pelo chão e a cabeça subindo.
+0327 Anteninhas com bolinhas nas pontas.
+0328 Um olho e um sorriso.
+0329 Grama em volta.

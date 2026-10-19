@@ -1,0 +1,370 @@
+0330 Piruleta: una espiral desde el centro.
+0331 Rodea la piruleta con un círculo y dibuja el palito.
+0332 Gatito: cabeza y orejas.
+0333 Cara y bigotes. ¡El gatito se relame!
+0334 La lana del corderito: muchas espiralitas en círculo.
+0335 Más espiralitas para que el corderito quede esponjoso.
+0336 Cara: un óvalo a la derecha.
+0337 Orejas, ojos y nariz.
+0338 Patas y hierba.
+0339 ¡Calentamiento! Dibuja óvalos, que son círculos aplastados: uno tumbado, uno de pie y uno pequeño.
+0340 Dibuja un óvalo grande de pie. Es el cuerpo del gatito.
+0341 Arriba un círculo. Es la cabeza.
+0342 Abajo dos óvalos pequeños. Son las patitas.
+0343 Una cola larga: dibuja un arco hacia arriba y dobla la punta.
+0344 Cara: ojos, nariz y bigotes.
+0345 El cuerpo del conejito: un óvalo de pie.
+0346 Cabeza: un círculo arriba.
+0347 Orejas largas: óvalos finos hacia arriba.
+0348 Las patas son óvalos abajo, la cola es un circulito al lado.
+0349 Cara: ojos, nariz, dientes y bigotes.
+0350 El cuerpo del pajarito: un óvalo tumbado, un poco inclinado.
+0351 Cabeza: un círculo arriba a la derecha.
+0352 Ala: un óvalo sobre el cuerpo.
+0353 Un pico triangular y un ojo.
+0354 Cola: picos afilados detrás.
+0355 Las patas se agarran a una rama.
+0356 El cuerpo del pingüino: un óvalo grande de pie.
+0357 Barriguita blanca: un óvalo más pequeño dentro.
+0358 Aletas: óvalos finos a los lados.
+0359 Ojos y pico.
+0360 Patas: óvalos abajo. Y nieve.
+0361 ¡Calentamiento! Dibuja dos cuadrados y rellénalos de palitos: muy juntitos y muy rectos.
+0362 Dibuja la cara: un círculo y dos orejas.
+0363 Raya las orejas: líneas cortas de izquierda a derecha, muy juntas.
+0364 Rayas en la frente: líneas cortas de arriba abajo.
+0365 Boca y bigotes. ¡Ahora colorea el gatito con lápices de colores!
+0366 Un pez grande: un óvalo tumbado.
+0367 Cola y aleta.
+0368 Un ojo y una boca.
+0369 Raya tres franjas anchas con líneas de arriba abajo.
+0370 Burbujas.
+0371 Paredes: un cuadrado.
+0372 Tejado: un triángulo.
+0373 Raya el tejado con líneas inclinadas.
+0374 Una puerta y una ventana con una cruz.
+0375 Raya la puerta de arriba abajo.
+0376 Cara: un círculo y orejas.
+0377 Raya las orejas.
+0378 Rayas en la frente: tres rayas estrechas, ráyalas muy juntas.
+0379 Rayas en las mejillas.
+0380 Boca y bigotes. ¡Grrr!
+0381 ¡Calentamiento! Dibuja círculos: grande, mediano y muy pequeño.
+0382 Dibuja a mamá gata: un círculo grande y orejas.
+0383 La cara de mamá: ojos, nariz, boca.
+0384 A su lado, un gatito. Es pequeño, así que el círculo también es pequeño.
+0385 La cara del gatito. Todo como la de mamá, pero más pequeño.
+0386 Bigotes para mamá y para el gatito.
+0387 Gatito grande: cuerpo y cabeza.
+0388 Orejas, cara, bigotes y cola.
+0389 Ratoncito: un cuerpo ovalado y una cabecita.
+0390 La oreja, el ojo y la cola del ratón.
+0391 Un pez grande.
+0392 Un pez más pequeño.
+0393 Y peces muy pequeñitos.
+0394 Burbujas: grandes y pequeñas.
+0395 Mamá gata es grande: cuerpo y cabeza.
+0396 Las orejas, la cara, los bigotes y la cola de mamá.
+0397 El primer gatito es pequeño: todo igual, pero más pequeño.
+0398 El segundo gatito es todavía más pequeño.
+0399 El suelo y un corazón encima de ellos.
+0400 ¡Calentamiento! Dibuja óvalos tumbados: dos más pequeños y uno largo.
+0401 El gatito pasa delante de nosotros, lo vemos de lado. Cuerpo: un óvalo largo tumbado.
+0402 Cabeza: un círculo delante, un poco más arriba que el cuerpo.
+0403 Orejas en pico arriba.
+0404 Cuatro patas: óvalos finos hacia abajo. Dos detrás y dos delante.
+0405 La cola levantada.
+0406 De lado solo se ve un ojo. Nariz, boca y bigotes delante.
+0407 El gatito camina por el suelo: dibuja una línea bajo las patas.
+0408 Al perrito también lo dibujamos de lado. Cuerpo: un óvalo largo.
+0409 La cabeza es un círculo y delante un hocico ovalado.
+0410 Una oreja caída.
+0411 Nariz, ojo y boca.
+0412 Cuatro patas y una colita.
+0413 El gatito está sentado de lado. Cuerpo: un óvalo de pie.
+0414 Cabeza arriba, un poco hacia delante.
+0415 Orejas y cara de lado: ojo, nariz, bigotes.
+0416 Pata delantera: un óvalo fino hacia abajo.
+0417 La cola rodea las patas.
+0418 El cuerpo del ratón de lado: un óvalo tumbado.
+0419 Cabeza: un óvalo alargado con la nariz puntiaguda.
+0420 Una oreja redonda.
+0421 Ojo, nariz y bigotes.
+0422 Patas y una cola larga.
+0423 ¡Calentamiento! Dibuja arcos: una sonrisa alegre, un arco triste y un circulito.
+0424 Dibuja tres cabecitas de gatito: tres círculos con orejas.
+0425 El primer gatito está alegre: ojos en arco y boca sonriente.
+0426 El segundo gatito está triste: ojos de puntito, cejas preocupadas y boca hacia abajo.
+0427 El tercer gatito está sorprendido: ojos grandes y redondos y boca en forma de O.
+0428 Ponles bigotes a todos. ¿Qué gatito te gusta más?
+0429 Dos cabecitas con orejas.
+0430 Gatito enfadado: cejas hacia la nariz, ojos y boca hacia abajo.
+0431 Gatito dormilón: ojos cerrados y boca pequeña.
+0432 Zigzags de sueño sobre la cabeza.
+0433 Bigotes para los dos.
+0434 Un ojo está abierto y el otro guiña: un arco.
+0435 Nariz y una gran sonrisa con la lengua fuera.
+0436 Bigotes y un corazón al lado.
+0437 Gatito asustado: el pelo erizado, la cabeza en zigzag. Y orejas.
+0438 Ojos grandes con pupilas diminutas. La boca tiembla.
+0439 Gatito enamorado: un círculo y orejas.
+0440 Ojos de corazón y una sonrisa.
+0441 Mejillas rosadas: raya circulitos. Y corazones sobre la cabeza.
+0442 ¡Calentamiento! Dibuja palitos inclinados, como si soplara un viento fuerte.
+0443 ¡El gatito corre! Cuerpo: un óvalo un poco inclinado hacia arriba, como si se lanzara hacia delante.
+0444 La cabeza delante.
+0445 Las patas delanteras estiradas hacia delante y abajo.
+0446 Las patas traseras empujan hacia atrás.
+0447 La cola estirada hacia atrás, como la de un cohete.
+0448 Líneas de velocidad detrás del gatito: palitos cortos. ¡Fiuuu!
+0449 La línea del salto: dibuja muy suave un arco alto.
+0450 El gatito en el punto más alto. Cuerpo: un óvalo estirado.
+0451 Cabeza, orejas y cara.
+0452 Las patas delanteras hacia delante, las traseras hacia atrás.
+0453 Cola.
+0454 El suelo: desde dónde saltó el gatito y dónde aterrizará.
+0455 El camino de la pelota: dibuja suave los botes, cada uno más bajo que el anterior.
+0456 En el aire la pelota es redonda.
+0457 Y cuando choca con el suelo, se aplasta en un óvalo.
+0458 Rayitas del golpe junto al suelo.
+0459 El gatito mira la pelota.
+0460 El gatito caminó por la nieve. Dibuja suave el camino que siguió.
+0461 Huellas de patitas: una almohadilla y cuatro deditos. Izquierda, derecha.
+0462 Más lejos las huellas son más pequeñas, porque se alejan.
+0463 Y aquí está el gatito.
+0464 Copos de nieve.
+0465 ¡Calentamiento! Dibuja nubecitas: abajo una línea recta, arriba bultitos.
+0466 Abajo el suelo: una línea larga por toda la hoja.
+0467 Arriba el cielo. En la esquina, un sol con rayos.
+0468 Las nubes flotan por el cielo.
+0469 Un gatito sentado en el suelo: cuerpo y cabeza.
+0470 Orejas, cara y cola.
+0471 Hierba en zigzag a lo largo del suelo.
+0472 Nubarrones: abajo una línea recta, arriba bultitos.
+0473 Lluvia: palitos cortos inclinados.
+0474 Paraguas: una cúpula en arco y el borde ondulado.
+0475 El mango del paraguas.
+0476 El gatito bajo el paraguas.
+0477 Suelo y un charco.
+0478 Colinas: una línea ondulada. Donde está el gatito, no dibujamos la línea.
+0479 Luna: una media luna con dos arcos.
+0480 Estrellas.
+0481 El gatito está de espaldas y mira la luna.
+0482 Arcoíris: un arco grande.
+0483 Tres arcos más dentro, uno debajo de otro.
+0484 Nubecitas en los extremos del arcoíris.
+0485 El gatito bajo el arcoíris.
+0486 Suelo y sol.
+0487 ¡Calentamiento! Dibuja dos casitas: un cuadrado y encima un tejado triangular.
+0488 Las paredes de la casa: un cuadrado grande.
+0489 Tejado: un triángulo arriba.
+0490 Puerta: un rectángulo alto y un pomo redondo.
+0491 Ventana: un cuadrado.
+0492 ¡Un gatito en la ventana! Solo se ve la cabeza: un círculo hasta el alféizar y las orejas.
+0493 La cara del gatito en la ventana.
+0494 Una chimenea en el tejado y humo.
+0495 La carrocería del coche: un rectángulo largo. Donde están las ruedas, no dibujamos la línea.
+0496 La cabina arriba: un trapecio.
+0497 Ventanas: un palito en medio.
+0498 Ruedas: círculos con circulitos dentro.
+0499 ¡El gatito conduce! Solo se ve la cabeza en la ventana.
+0500 Faro y carretera.
+0501 El casco del barquito: ancho arriba y estrecho abajo.
+0502 Mástil: un palito alto.
+0503 Una vela triangular y una bandera.
+0504 El gatito en la cubierta.
+0505 Ojos de buey y olas.
+0506 La cabina de la locomotora: un rectángulo alto con una ventana.
+0507 El gatito maquinista en la ventana.
+0508 Caldera: un rectángulo tumbado y una chimenea.
+0509 Humo: nubecitas redondas.
+0510 Un vagón y el enganche.
+0511 Ruedas y raíles.
+0512 ¡Calentamiento! Dibuja peces: un óvalo y una cola triangular.
+0513 ¡El gatito pescó un pez! Primero la cabeza.
+0514 Orejas y cara.
+0515 El pez en sus patas: un óvalo y una cola.
+0516 El ojo y las escamas del pez.
+0517 El cuerpo del gatito: un óvalo detrás del pez. Donde está el pez, no dibujamos la línea.
+0518 La cola y los bigotes del gatito.
+0519 Gatito: cuerpo y cabeza.
+0520 Orejas, cara y bigotes.
+0521 Globo: un óvalo de pie y un nudito.
+0522 Un brillo en el globo y un hilo hasta la pata del gatito.
+0523 Gatito: cuerpo y cabeza. Deja espacio para la bufanda.
+0524 Una bufanda en el cuello: dos arcos.
+0525 La punta de la bufanda cuelga, con flecos abajo.
+0526 Rayas en la bufanda.
+0527 Gatito: cuerpo y cabeza. Deja espacio arriba para el gorro de cocinero.
+0528 Gorro de cocinero: una nube esponjosa y una banda.
+0529 Las orejas asoman bajo el gorro.
+0530 Una cuchara grande en la pata.
+0531 ¡Calentamiento! Mariposa: traza muy suave una línea de ayuda, luego un ala a la izquierda y otra igual a la derecha.
+0532 Traza muy suave una línea de ayuda por el centro de la hoja. Luego puedes borrarla.
+0533 La mitad izquierda de la cabeza y la oreja izquierda.
+0534 Ahora la mitad derecha, como en un espejo.
+0535 El ojo izquierdo y los bigotes de la izquierda.
+0536 El ojo derecho y los bigotes de la derecha. ¡Igual que a la izquierda!
+0537 La nariz y la boca justo sobre la línea del centro.
+0538 Una línea de ayuda en el centro, muy suave.
+0539 Cuerpo: un óvalo fino sobre la línea.
+0540 El ala de arriba a la izquierda, luego otra igual a la derecha.
+0541 Las alas de abajo: iguales a la izquierda y a la derecha.
+0542 Dibujos: un circulito a la izquierda y otro igual a la derecha.
+0543 Antenas.
+0544 Una línea de ayuda en el centro.
+0545 La mitad izquierda del búho con una oreja de pluma, luego la derecha.
+0546 Ojos grandes: círculos con círculos más pequeños dentro.
+0547 Un pico triangular en el centro.
+0548 Alas a los lados: arcos.
+0549 Plumitas en el pecho: uves, iguales a la izquierda y a la derecha.
+0550 Patas sobre una rama.
+0551 Espalda: una mitad a la izquierda, luego otra igual a la derecha.
+0552 Cabecita arriba.
+0553 Manchitas: a la izquierda y las mismas a la derecha.
+0554 Patas: tres a la izquierda y tres a la derecha.
+0555 ¡Calentamiento! Dibuja líneas largas y rectas de izquierda a derecha. Sin prisa.
+0556 Traza la línea del horizonte por toda la hoja. Es donde el cielo se junta con la tierra.
+0557 El sol se esconde tras el horizonte: sobre la línea solo se ve la mitad.
+0558 Rayos hacia arriba y a los lados.
+0559 El gatito está de espaldas y mira el atardecer. Cabeza y orejas.
+0560 Espalda: un óvalo grande bajo la cabeza.
+0561 La cola está a su lado, con la punta doblada.
+0562 Pájaros en el cielo: pequeñas uves.
+0563 Horizonte: donde el mar se junta con el cielo.
+0564 El sol está alto en el cielo.
+0565 Un barquito lejano en el horizonte: muy pequeñito.
+0566 Olas: más grandes cerca de nosotros, más pequeñas en el horizonte.
+0567 La orilla abajo. Donde está el gatito, no dibujamos la línea.
+0568 El gatito en la orilla mira el barquito.
+0569 Horizonte.
+0570 Camino: ancho abajo, se estrecha hacia el horizonte.
+0571 Una casita lejos en el horizonte: muy pequeñita.
+0572 Sol.
+0573 Hierba en el campo: alta cerca, pequeña lejos.
+0574 Un gatito en el camino.
+0575 Un sol enorme sobre el horizonte.
+0576 Dunas: suaves olas de arena.
+0577 Un cactus con brazos.
+0578 Un cactus pequeño a lo lejos.
+0579 El gatito mira el sol.
+0580 ¡Calentamiento! Dibuja tres circulitos: uno grande abajo, uno mediano más arriba y uno pequeño casi arriba del todo.
+0581 Traza el horizonte más arriba.
+0582 El gatito que está cerca es grande y se sienta abajo en la hoja.
+0583 Su cara y sus bigotes.
+0584 Un gatito más lejos: más pequeño y más arriba.
+0585 Y este está muy lejos: diminuto, junto al horizonte.
+0586 La hierba también: alta cerca, bajita lejos.
+0587 El abeto cercano: grande, abajo.
+0588 Un abeto más lejos: más pequeño y más arriba.
+0589 Abetos lejanos: diminutos, junto al horizonte.
+0590 El gatito junto al abeto grande.
+0591 La casa cercana: grande, abajo en la hoja.
+0592 Una casa más lejos: más pequeña y más arriba.
+0593 Una casita muy lejana junto al horizonte.
+0594 Ventanas en las casas.
+0595 El gatito junto a la casa cercana.
+0596 El horizonte abajo.
+0597 El globo cercano: grande.
+0598 En el cielo es al revés: cuanto más lejos está el globo, más pequeño es y más cerca del horizonte.
+0599 Un globo muy lejano junto al horizonte.
+0600 Gajos en los globos.
+0601 El gatito en el suelo mira hacia arriba.
+0602 ¡Calentamiento! Dibuja un círculo y otro detrás. El segundo se esconde, así que dibujamos solo la parte que se ve.
+0603 Primero el gatito de delante: un círculo y orejas.
+0604 El segundo gatito está detrás. Su cabeza se esconde tras el primero: dibujamos solo lo que se ve.
+0605 Las orejas del segundo gatito. Donde la oreja se esconde tras su amigo, no dibujamos la línea.
+0606 La cara del segundo gatito. ¡El que está delante se ve entero!
+0607 Un arbusto delante: tres bultos esponjosos.
+0608 La parte de abajo del arbusto es recta: una línea por el suelo.
+0609 Un gatito asoma detrás del arbusto. Dibujamos solo lo que se ve.
+0610 Hojitas en el arbusto: arquitos.
+0611 La pelota de delante: un círculo entero.
+0612 La segunda pelota está detrás: dibujamos solo la parte que se ve.
+0613 La tercera pelota es la más lejana: se esconde tras las dos.
+0614 Rayas en las pelotas, también solo donde se ven.
+0615 Una estrellita en la pelota de delante.
+0616 Una taza delante: arriba un óvalo, los lados y el fondo.
+0617 El asa de la taza y un corazón en ella.
+0618 Las patitas del gatito en el borde de la taza.
+0619 El gatito detrás de la taza: dibujamos solo lo que se ve.
+0620 ¡Calentamiento! Dibuja tres circulitos y raya cada uno solo por un lado: abajo a la derecha.
+0621 Primero el sol en la esquina. La luz viene de él.
+0622 Dibuja un círculo grande. Es la pelota.
+0623 Brillo: un circulito del lado del sol. No lo coloreamos.
+0624 Del otro lado, donde no llega el sol, la pelota está en sombra. Raya el borde abajo a la derecha.
+0625 La pelota proyecta una sombra en el suelo: un óvalo aplastado al lado.
+0626 Raya la sombra más oscura.
+0627 El sol arriba a la izquierda.
+0628 Manzana: dos lados redondos y un hoyito arriba.
+0629 Rabito y hoja.
+0630 Un brillo del lado del sol.
+0631 Sombra propia: raya el lado de abajo a la derecha.
+0632 La sombra en la mesa, a la derecha de la manzana.
+0633 La bola de abajo: un círculo grande. Su parte de arriba se esconde tras la bola del medio.
+0634 La bola del medio.
+0635 La cabeza. Encima tendrá un cubo.
+0636 Ojos, nariz de zanahoria y botones.
+0637 Brazos de ramitas y un cubo en la cabeza.
+0638 Luz desde la izquierda. Raya el lado oscuro de cada bola.
+0639 Sombra en la nieve a la derecha.
+0640 El sol a la izquierda.
+0641 Ovillo: un círculo grande.
+0642 Hilos en el ovillo: óvalos inclinados dentro.
+0643 Un hilo se escapa del ovillo.
+0644 Sombra propia: raya el borde de abajo a la derecha.
+0645 La sombra en el suelo.
+0646 ¡Calentamiento! Dibuja tres cuadrados: grande, mediano y pequeño.
+0647 Dibuja un cuadrado. Es la cara de delante del cubo.
+0648 Desde tres esquinas traza líneas cortas inclinadas hacia arriba y a la derecha. ¡Todas iguales!
+0649 Únelas: la parte de arriba y el lado derecho. ¡Ya tienes un cubo con volumen!
+0650 El sol brilla desde la izquierda, así que el lado derecho está en sombra. Ráyalo.
+0651 El cubo proyecta una sombra a la derecha. Dibújala y ráyala.
+0652 Un gatito sentado al lado mira el cubo.
+0653 Cubo grande: un cuadrado delante.
+0654 Arriba y lado del cubo grande. Deja espacio donde irá el cubo pequeño.
+0655 El cubo pequeño encima: un cuadrado.
+0656 Su parte de arriba y su lado.
+0657 Luz desde la izquierda: raya los lados derechos.
+0658 El gatito sentado en el cubo pequeño.
+0659 Caja cubo: un cuadrado delante.
+0660 Arriba y lado.
+0661 Cinta: franjas delante, arriba y al lado.
+0662 Un lazo arriba: dos lazadas y un nudo.
+0663 Raya el lado oscuro.
+0664 Un gatito al lado espera el regalo.
+0665 Pared de delante: un cuadrado.
+0666 Arriba y lado de la casita.
+0667 Una entrada redonda.
+0668 Dentro está el gatito: solo se ve su carita.
+0669 Dentro está oscuro: raya alrededor del gatito.
+0670 El lado en sombra y la sombra en el suelo.
+0671 ¡Calentamiento! Dibuja un tarrito: un óvalo tumbado, dos palitos hacia abajo y un arco abajo.
+0672 ¡El gatito está sentado en una taza! Primero la cabeza. La parte de abajo está escondida en la taza.
+0673 El borde de la taza: un óvalo tumbado. Donde está el gatito, no dibujamos la línea.
+0674 Los lados y el fondo de la taza: dos palitos hacia abajo y un arco abajo.
+0675 Un asa al lado.
+0676 La luz viene de la izquierda, así que el borde derecho de la taza está en sombra. Ráyalo de arriba abajo.
+0677 La parte de arriba del pastel: un óvalo tumbado.
+0678 Lados y base: dos palitos hacia abajo y un arco.
+0679 La crema chorrea: una línea ondulada por el lado.
+0680 Velas con llamitas.
+0681 Un plato bajo el pastel.
+0682 Luz desde la izquierda: raya el lado derecho del pastel.
+0683 La boca del tarro: un óvalo tumbado.
+0684 Lados y fondo.
+0685 Agua: una línea ondulada.
+0686 Un pez en el agua.
+0687 Luz desde la izquierda: raya el borde derecho del tarro.
+0688 El gatito mira el pez.
+0689 Maceta: un óvalo arriba, los lados se estrechan hacia abajo, el fondo en arco.
+0690 Un tallo y hojitas.
+0691 Flor: el centro y pétalos redondos.
+0692 Luz desde la izquierda: raya el lado derecho de la maceta.
+0693 La sombra en la mesa, y un gatito al lado huele la flor.
+0694 ¡Calentamiento! Sol a la izquierda. Dibuja postes y, de cada uno, una sombra en el suelo hacia el lado contrario al sol.
+0695 El sol en la esquina izquierda.
+0696 Suelo: una línea abajo en la hoja.
+0697 El sol brilla desde la izquierda, así que la sombra cae a la derecha. Dibújala en el suelo.
+0698 Raya la sombra.
+0699 Árbol: tronco y copa.

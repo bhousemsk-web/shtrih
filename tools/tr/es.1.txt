@@ -1,0 +1,330 @@
+0000 Gatito
+0001 Líneas y figuras
+0002 Nivel uno, gatito. Aprendemos a dibujar líneas y figuras.
+0003 Joven artista
+0004 Tamaño, postura, ánimo, historia
+0005 Nivel dos, joven artista. Dibujamos cosas grandes y pequeñas, en movimiento y con emociones.
+0006 Artista
+0007 Horizonte, volumen, luz y sombra
+0008 Nivel tres, artista. Horizonte, volumen, luz y sombra.
+0009 Maestro
+0010 Perspectiva y cuadros
+0011 Nivel cuatro, maestro. Perspectiva, puntos de fuga y cuadros de verdad.
+0012 Pro
+0013 Claroscuro, retratos, texturas, paisajes
+0014 Nivel cinco, pro. Dibujos realistas y complejos: claroscuro, retratos, texturas, perspectiva, bodegones y paisajes.
+0015 Líneas rectas
+0016 Círculos
+0017 Triángulos
+0018 Ondas
+0019 Zigzag
+0020 Espiral
+0021 Óvalos
+0022 Rayado
+0023 Grande y pequeño
+0024 Vista de lado
+0025 Estado de ánimo
+0026 Movimiento
+0027 Tierra y cielo
+0028 Una historia con figuras
+0029 Detalles
+0030 Simetría
+0031 Horizonte
+0032 Cerca y lejos
+0033 Quién está delante
+0034 Luz y sombra
+0035 Volumen: cubo
+0036 Volumen: cilindro
+0037 Sombra proyectada
+0038 Cuadro
+0039 Punto de fuga
+0040 Caja en perspectiva
+0041 Perspectiva: árboles
+0042 Dos puntos de fuga
+0043 Sombra propia
+0044 Tres planos
+0045 Sombras largas
+0046 Cuadro final
+0047 Construcción
+0048 Claroscuro
+0049 Retrato
+0050 Texturas
+0051 Perspectiva
+0052 Bodegón
+0053 Paisaje
+0054 Gran cuadro
+0055 Gatito en una caja
+0056 Gatito detrás de la valla
+0057 Gatito robot
+0058 Gatito cohete
+0059 Gatito redondo
+0060 Gatito y burbujas
+0061 Ratoncita amiga
+0062 Oruga
+0063 Carita con orejas
+0064 Zorrita
+0065 Gatito de fiesta
+0066 Montañas
+0067 Gatito rayado
+0068 Gatito en una barca
+0069 Pez en el mar
+0070 Gatito en la bañera
+0071 Gatito peludo
+0072 Erizo
+0073 Gatito y el árbol de Navidad
+0074 Gatito rey
+0075 Gatito dormilón
+0076 Caracol
+0077 Gatito con piruleta
+0078 Corderito
+0079 El gatito entero
+0080 Conejito
+0081 Pajarito
+0082 Pingüino
+0083 Gatito coloreado
+0084 Pez rayado
+0085 Casita con tejado
+0086 Tigrecito
+0087 Mamá y gatito
+0088 Gatito y ratón
+0089 Peces grandes y pequeños
+0090 Mamá y gatitos
+0091 Gatito de paseo
+0092 Perrito
+0093 Gatito sentado de lado
+0094 Ratón que corre
+0095 Tres estados de ánimo
+0096 Enfadado y dormilón
+0097 Gatito que guiña
+0098 Asustado y enamorado
+0099 Gatito corredor
+0100 Gatito que salta
+0101 Pelota que rebota
+0102 Huellas del gatito
+0103 Gatito al aire libre
+0104 Gatito bajo el paraguas
+0105 Noche
+0106 Arcoíris
+0107 Una casita para el gatito
+0108 Gatito en un coche
+0109 Barquito
+0110 Trenecito
+0111 Gatito pescador
+0112 Gatito con globo
+0113 Gatito con bufanda
+0114 Gatito cocinero
+0115 Gatito espejo
+0116 Mariposa
+0117 Búho
+0118 Mariquita
+0119 Gatito mira el atardecer
+0120 Mar y barquito
+0121 Camino por el campo
+0122 Desierto
+0123 Gatitos en el campo
+0124 Abetos en el bosque
+0125 Casas del pueblo
+0126 Globos aerostáticos
+0127 Dos amigos
+0128 Gatito detrás de un arbusto
+0129 Tres pelotas
+0130 Gatito detrás de una taza
+0131 Una pelota para el gatito
+0132 Manzana
+0133 Muñeco de nieve
+0134 Ovillo de lana
+0135 Gatito y el cubo
+0136 Torre de cubos
+0137 Un regalo para el gatito
+0138 Gatito en una taza
+0139 Pastel
+0140 Pecera
+0141 Flor en una maceta
+0142 Gatito al sol
+0143 Árbol y sombra
+0144 Seta
+0145 Gatito a la sombra del parasol
+0146 Prado
+0147 Estanque
+0148 Patio en invierno
+0149 Parque en otoño
+0150 Camino a lo lejos
+0151 Vías del tren
+0152 Valla a lo lejos
+0153 Río a lo lejos
+0154 Una caja para el gatito
+0155 Dos cajas
+0156 Casita con un punto
+0157 Cofre
+0158 Gatito en la avenida
+0159 Farolas
+0160 Abetos junto al camino
+0161 Puente a lo lejos
+0162 Casa con gatito
+0163 Caja con dos puntos
+0164 Torre
+0165 Caseta
+0166 Gatito con volumen
+0167 Pera
+0168 Gatito tumbado
+0169 Sandía
+0170 Gatito y montañas
+0171 Ciudad: tres planos
+0172 Mar: tres planos
+0173 Bosque: tres planos
+0174 Paseo de tarde
+0175 Mediodía: sombras cortas
+0176 Farola de noche
+0177 Vela
+0178 Camino a casa
+0179 Tarde de invierno
+0180 Playa de verano
+0181 Avenida de otoño
+0182 Gatito que se estira
+0183 Gato sentado
+0184 Gato dormido hecho una bola
+0185 Esfera: claroscuro
+0186 Cubo y cilindro
+0187 Huevo
+0188 Retrato de gato
+0189 Gatito de ojos grandes
+0190 Gato de perfil
+0191 Gato peludo
+0192 Gatito junto a la valla de madera
+0193 Gatito en un muro de ladrillo
+0194 Calle de la ciudad
+0195 La habitación del gatito
+0196 Gatito en el alféizar
+0197 Pasillo
+0198 Jarra y manzana
+0199 Té con galletas
+0200 Jarrón con tulipanes
+0201 Reflejo en el lago
+0202 Sendero del bosque
+0203 Casita de invierno
+0204 Gatito y el charco
+0205 Ciudad de noche
+0206 Gato pintor
+0207 Vuelo en globo
+0208 Gatito con farolillo
+0209 ¡Calentamiento! Dibuja cinco palitos de arriba abajo, como la lluvia.
+0210 Dibuja una caja. Primero la tapa: una línea recta de izquierda a derecha.
+0211 Ahora los lados y el fondo: abajo, a la derecha y arriba.
+0212 ¡Un gatito asoma de la caja! Una línea hacia arriba, una oreja, la cabeza, la otra oreja y hacia abajo.
+0213 Ojos: dos palitos de arriba abajo. Y una naricita en pico.
+0214 ¡Bigotes! Líneas rectas largas hacia los lados.
+0215 Valla: palitos rectos de arriba abajo.
+0216 Travesaños: dos líneas largas de izquierda a derecha.
+0217 Un gatito asoma por encima de la valla: una línea hacia arriba, una oreja, la cabeza, otra oreja y hacia abajo.
+0218 Ojos de palito y una naricita en pico.
+0219 Bigotes hacia los lados.
+0220 Hierba junto a la valla: palitos cortos inclinados.
+0221 Cabeza del robot: un rectángulo.
+0222 Orejas y antena: líneas rectas.
+0223 Los ojos son cuadraditos, la boca es una línea con dientes.
+0224 Cuello y cuerpo: un rectángulo grande.
+0225 Un panel con botones en el cuerpo.
+0226 Brazos y piernas: líneas rectas.
+0227 Cuerpo del cohete: un rectángulo alto.
+0228 Punta del cohete: dos líneas inclinadas hacia arriba, hasta un pico.
+0229 Alas: líneas inclinadas a los lados.
+0230 Una ventana cuadrada con un gatito dentro: una línea hacia arriba, orejas y hacia abajo.
+0231 Fuego abajo: un zigzag puntiagudo.
+0232 Estrellitas en cruz alrededor.
+0233 ¡Calentamiento! Dibuja tres círculos. Empieza arriba, ve hacia la izquierda dando la vuelta y vuelve al inicio.
+0234 Dibuja un círculo grande. Es un gatito redondo.
+0235 Orejas: piquitos arriba. Hacia arriba y hacia abajo.
+0236 Ojos: dos circulitos.
+0237 Nariz: un circulito muy pequeño. Y bigotes a los lados.
+0238 Al lado, un ovillo de lana: un círculo con arcos dentro.
+0239 Cabeza del gatito: un círculo grande y orejas.
+0240 Ojos de circulito y nariz de circulito.
+0241 ¡El gatito hace burbujas! Un círculo grande.
+0242 Más burbujas: una mediana y otras pequeñas.
+0243 En cada burbuja brilla un circulito.
+0244 Bigotes para el gatito.
+0245 Cabeza de la ratoncita: un círculo.
+0246 Orejas: dos círculos grandes arriba. Donde pasan detrás de la cabeza, no dibujamos la línea.
+0247 Círculos más pequeños dentro de las orejas.
+0248 Ojos y una nariz grande y redonda.
+0249 Bigotes y una sonrisa.
+0250 Cabeza de la oruga: un círculo a la derecha.
+0251 Cuerpo: círculos uno tras otro. Cada uno se esconde detrás de su vecino.
+0252 Ojos de circulito y una sonrisa.
+0253 Antenas con bolitas.
+0254 Patitas: palitos cortos bajo cada círculo.
+0255 La ramita por la que trepa la oruga.
+0256 ¡Calentamiento! Dibuja tres triángulos: desde la punta hacia abajo a la izquierda, luego a la derecha y de vuelta a la punta.
+0257 Dibuja un círculo grande. Es la cabeza del gatito.
+0258 Orejas: piquitos triangulares en la cabeza.
+0259 Triángulos más pequeños dentro de las orejas.
+0260 Los ojos son circulitos y la nariz un triángulo pequeño.
+0261 La boca son dos arquitos bajo la nariz. ¡Y bigotes!
+0262 La cara de la zorrita: un triángulo grande con la nariz hacia abajo.
+0263 Orejas: piquitos arriba.
+0264 Piquitos más pequeños dentro de las orejas.
+0265 Ojos y una nariz en la punta.
+0266 Mejillas blancas: dos líneas en ángulo.
+0267 Cara: un círculo y orejas. Deja espacio arriba para el gorro.
+0268 Gorro de fiesta: un triángulo sobre la cabeza y un pompón.
+0269 Ojos y nariz.
+0270 Boca y bigotes.
+0271 Banderitas triangulares en una cuerda.
+0272 La montaña de delante: un triángulo grande.
+0273 La montaña de detrás: solo dibujamos lo que se ve detrás de la primera.
+0274 Nieve en las cumbres: un zigzag.
+0275 El sol y pajaritos.
+0276 Abajo el suelo y un gatito.
+0277 ¡Calentamiento! Dibuja tres olas, como el mar: arriba y abajo, arriba y abajo.
+0278 Dibuja la cara como antes: un círculo y dos orejas.
+0279 ¡Este gatito es rayado! Tres rayas onduladas en la frente, de arriba abajo.
+0280 También rayas onduladas en las mejillas.
+0281 Boca y bigotes. ¡Listo!
+0282 La barca: ancha arriba y estrecha abajo.
+0283 Un gatito en la barca: cabeza y orejas.
+0284 La cara del gatito.
+0285 Olas bajo la barca.
+0286 Olas más pequeñas a lo lejos.
+0287 Un pez grande: un óvalo y una cola.
+0288 Escamas: rayas onduladas.
+0289 Algas: líneas onduladas de abajo arriba.
+0290 Burbujas que suben.
+0291 Olas en la superficie del mar.
+0292 El borde de la bañera: una línea larga.
+0293 La parte de abajo de la bañera: un arco y patitas.
+0294 El gatito está sentado en el agua: se ve la cabeza con orejas.
+0295 Cara y bigotes.
+0296 El agua de la bañera: una línea ondulada.
+0297 Pompas de jabón.
+0298 ¡Calentamiento! Dibuja zigzags: arriba y abajo con picos afilados, como dientecitos.
+0299 ¡Este gatito es peludo! Dibuja la cabeza con un zigzag en círculo: diente, diente, diente.
+0300 Orejas en pico.
+0301 Un zigzag arriba: un mechón peludo.
+0302 La espalda con pinchos del erizo: un zigzag en arco, desde el suelo hacia arriba y abajo.
+0303 Cara: una nariz puntiaguda hacia delante.
+0304 Barriguita: una línea por el suelo.
+0305 Un ojo y una nariz redonda.
+0306 Patitas y una manzana en los pinchos.
+0307 Árbol de Navidad: tres pisos de dientes, de la punta hacia abajo y otra vez arriba.
+0308 Tronco: dos palitos hacia abajo.
+0309 Una estrella en la punta.
+0310 Bolas en las ramas.
+0311 Un gatito al lado.
+0312 El suelo.
+0313 Corona: un zigzag con picos afilados.
+0314 La cabeza bajo la corona. Donde está la corona, no dibujamos la línea.
+0315 Las orejas asoman bajo la corona.
+0316 Piedritas en la corona.
+0317 Boca y bigotes. ¡Su Majestad el gatito!
+0318 ¡Calentamiento! Dibuja dos espirales, como la concha de un caracol: desde el centro dando vueltas, cada vez más anchas.
+0319 ¡El gatito duerme! Dibuja un círculo grande. Es la espalda.
+0320 Al lado, un círculo más pequeño. Es la cabeza.
+0321 Orejas en pico en la cabeza.
+0322 El gatito ha cerrado los ojos: dos arquitos.
+0323 La cola está enroscada en espiral: da vueltas cada vez más pequeñas.
+0324 El gatito ronca. Dibuja zigzags de sueño: ¡z-z-z!
+0325 La concha del caracol: una espiral desde el centro, cada vez más ancha.
+0326 El cuerpo del caracol: una línea larga por el suelo y la cabeza hacia arriba.
+0327 Cuernitos con bolitas en las puntas.
+0328 Un ojo y una sonrisa.
+0329 Hierba alrededor.

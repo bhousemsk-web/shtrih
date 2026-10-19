@@ -1,0 +1,330 @@
+0000 Kitten
+0001 Lines and shapes
+0002 Level one, kitten. We learn to draw lines and shapes.
+0003 Young artist
+0004 Size, pose, mood, story
+0005 Level two, young artist. We draw things big and small, moving and with feelings.
+0006 Artist
+0007 Horizon, volume, light and shadow
+0008 Level three, artist. Horizon, volume, light and shadow.
+0009 Master
+0010 Perspective and pictures
+0011 Level four, master. Perspective, vanishing points and real pictures.
+0012 Pro
+0013 Light and shade, portraits, textures, landscapes
+0014 Level five, pro. Complex realistic drawings: light and shade, portraits, textures, perspective, still lifes and landscapes.
+0015 Straight lines
+0016 Circles
+0017 Triangles
+0018 Waves
+0019 Zigzag
+0020 Spiral
+0021 Ovals
+0022 Hatching
+0023 Big and small
+0024 Side view
+0025 Mood
+0026 Movement
+0027 Ground and sky
+0028 A story from shapes
+0029 Details
+0030 Symmetry
+0031 Horizon
+0032 Near and far
+0033 Who is in front
+0034 Light and shadow
+0035 Volume: cube
+0036 Volume: cylinder
+0037 Cast shadow
+0038 Picture
+0039 Vanishing point
+0040 Box in perspective
+0041 Perspective: trees
+0042 Two vanishing points
+0043 Form shadow
+0044 Three planes
+0045 Long shadows
+0046 Final picture
+0047 Construction
+0048 Light and shade
+0049 Portrait
+0050 Textures
+0051 Perspective
+0052 Still life
+0053 Landscape
+0054 Big picture
+0055 Kitty in a box
+0056 Kitty behind the fence
+0057 Robot kitty
+0058 Rocket kitty
+0059 Round kitty
+0060 Kitty and bubbles
+0061 Mouse friend
+0062 Caterpillar
+0063 Big-eared face
+0064 Little fox
+0065 Party kitty
+0066 Mountains
+0067 Stripy kitty
+0068 Kitty in a boat
+0069 Fish in the sea
+0070 Kitty in the bath
+0071 Fluffy kitty
+0072 Hedgehog
+0073 Kitty and the Christmas tree
+0074 King kitty
+0075 Sleepy kitty
+0076 Snail
+0077 Kitty with a lollipop
+0078 Little lamb
+0079 The whole kitty
+0080 Bunny
+0081 Little bird
+0082 Penguin
+0083 Coloured kitty
+0084 Stripy fish
+0085 House with a roof
+0086 Tiger cub
+0087 Mum and kitten
+0088 Kitty and mouse
+0089 Big and small fish
+0090 Mum and kittens
+0091 Kitty goes for a walk
+0092 Doggy
+0093 Kitty sitting sideways
+0094 Running mouse
+0095 Three moods
+0096 Angry and sleepy
+0097 Winking kitty
+0098 Scared and in love
+0099 Running kitty
+0100 Jumping kitty
+0101 Bouncing ball
+0102 Kitty's footprints
+0103 Kitty outdoors
+0104 Kitty under an umbrella
+0105 Night
+0106 Rainbow
+0107 A house for kitty
+0108 Kitty in a car
+0109 Little ship
+0110 Little train
+0111 Fisher kitty
+0112 Kitty with a balloon
+0113 Kitty in a scarf
+0114 Chef kitty
+0115 Mirror kitty
+0116 Butterfly
+0117 Owl
+0118 Ladybird
+0119 Kitty watches the sunset
+0120 Sea and a little ship
+0121 Path through the field
+0122 Desert
+0123 Kitties in the field
+0124 Fir trees in the forest
+0125 Village houses
+0126 Hot air balloons
+0127 Two friends
+0128 Kitty behind a bush
+0129 Three balls
+0130 Kitty behind a mug
+0131 A ball for kitty
+0132 Apple
+0133 Snowman
+0134 Ball of yarn
+0135 Kitty and the cube
+0136 Tower of blocks
+0137 A present for kitty
+0138 Kitty in a cup
+0139 Cake
+0140 Fish jar
+0141 Flower in a pot
+0142 Kitty in the sun
+0143 Tree and shadow
+0144 Mushroom
+0145 Kitty in the umbrella's shade
+0146 Meadow
+0147 Pond
+0148 Winter yard
+0149 Autumn park
+0150 Road into the distance
+0151 Railway
+0152 Fence into the distance
+0153 River into the distance
+0154 A box for kitty
+0155 Two boxes
+0156 House with one point
+0157 Treasure chest
+0158 Kitty in the alley
+0159 Street lamps
+0160 Fir trees along the path
+0161 Bridge into the distance
+0162 House with kitty
+0163 Crate with two points
+0164 Tower
+0165 Doghouse
+0166 Round kitty with volume
+0167 Pear
+0168 Lying kitty
+0169 Watermelon
+0170 Kitty and mountains
+0171 City: three planes
+0172 Sea: three planes
+0173 Forest: three planes
+0174 Evening walk
+0175 Noon: short shadows
+0176 Night lamp
+0177 Candle
+0178 Road home
+0179 Winter evening
+0180 Summer beach
+0181 Autumn alley
+0182 Kitty stretching
+0183 Sitting cat
+0184 Cat curled up asleep
+0185 Ball: light and shade
+0186 Cube and cylinder
+0187 Egg
+0188 Cat portrait
+0189 Kitten with big eyes
+0190 Cat in profile
+0191 Fluffy cat
+0192 Kitty by the wooden fence
+0193 Kitty on a brick wall
+0194 City street
+0195 Kitty's room
+0196 Kitty on the windowsill
+0197 Corridor
+0198 Jug and apple
+0199 Tea and cookies
+0200 Vase with tulips
+0201 Reflection in the lake
+0202 Forest path
+0203 Winter cottage
+0204 Kitty and the puddle
+0205 Night city
+0206 Artist cat
+0207 Hot air balloon flight
+0208 Kitty with a lantern
+0209 Warm-up! Draw five little sticks from top to bottom, like rain.
+0210 Draw a box. First the lid: a straight line from left to right.
+0211 Now the sides and the bottom: down, right and up.
+0212 A kitty peeks out of the box! A line up, an ear, the top of the head, the second ear and down.
+0213 Eyes: two little sticks from top to bottom. And a pointy nose.
+0214 Whiskers! Long straight lines to the sides.
+0215 Fence: even sticks from top to bottom.
+0216 Crossbars: two long lines from left to right.
+0217 A kitty peeks over the fence: a line up, an ear, the top of the head, an ear and down.
+0218 Stick eyes and a pointy nose.
+0219 Whiskers to the sides.
+0220 Grass by the fence: short slanted sticks.
+0221 Robot head: a rectangle.
+0222 Ears and an antenna: straight lines.
+0223 Eyes are little squares, the mouth is a line with teeth.
+0224 Neck and body: a big rectangle.
+0225 A panel with buttons on the body.
+0226 Arms and legs: straight lines.
+0227 Rocket body: a tall rectangle.
+0228 Rocket nose: two slanted lines up to a sharp tip.
+0229 Wings: slanted lines on the sides.
+0230 A square window with a kitty in it: a line up, ears and down.
+0231 Fire below: a sharp zigzag.
+0232 Little cross stars all around.
+0233 Warm-up! Draw three circles. Start at the top, go left around and come back to the start.
+0234 Draw a big circle. This is a round kitty.
+0235 Ears: little corners on top. Up and down.
+0236 Eyes: two little circles.
+0237 Nose: a tiny little circle. And whiskers to the sides.
+0238 Next to it, a ball of yarn: a circle with arcs inside.
+0239 Kitty's head: a big circle and ears.
+0240 Circle eyes and a circle nose.
+0241 Kitty is blowing bubbles! A big circle.
+0242 More bubbles: a middle one and little ones.
+0243 A little circle shines in every bubble.
+0244 Whiskers for kitty.
+0245 Mouse head: a circle.
+0246 Ears: two big circles on top. Where they go behind the head, we don't draw the line.
+0247 Smaller circles inside the ears.
+0248 Eyes and a big round nose.
+0249 Whiskers and a smile.
+0250 Caterpillar head: a circle on the right.
+0251 Body: circles one after another. Each one hides behind its neighbour.
+0252 Circle eyes and a smile.
+0253 Antennae with little balls.
+0254 Legs: short sticks under each circle.
+0255 The twig the caterpillar is crawling on.
+0256 Warm-up! Draw three triangles: from the top down to the left, then to the right and back to the top.
+0257 Draw a big circle. This is kitty's head.
+0258 Ears: triangle corners on top of the head.
+0259 Smaller triangles inside the ears.
+0260 Eyes are little circles, and the nose is a small triangle.
+0261 The mouth is two little arcs under the nose. And whiskers!
+0262 The fox's face: a big triangle with the nose pointing down.
+0263 Ears: corners on top.
+0264 Smaller corners inside the ears.
+0265 Eyes and a nose on the tip.
+0266 White cheeks: two lines making a corner.
+0267 Face: a circle and ears. Leave space on top for the party hat.
+0268 Party hat: a triangle on top of the head and a pompom.
+0269 Eyes and nose.
+0270 Mouth and whiskers.
+0271 Triangle flags on a string.
+0272 The front mountain: a big triangle.
+0273 The mountain behind: we only draw what we can see behind the first one.
+0274 Snow on the peaks: a zigzag.
+0275 The sun and little birds.
+0276 Ground below and a kitty.
+0277 Warm-up! Draw three waves, like the sea: up and down, up and down.
+0278 Draw the face like before: a circle and two ears.
+0279 This kitty is stripy! Three wavy stripes on the forehead, from top to bottom.
+0280 Wavy stripes on the cheeks too.
+0281 Mouth and whiskers. Done!
+0282 The boat: wide on top, narrow at the bottom.
+0283 A kitty in the boat: head and ears.
+0284 Kitty's face.
+0285 Waves under the boat.
+0286 Smaller waves far away.
+0287 A big fish: an oval and a tail.
+0288 Scales: wavy stripes.
+0289 Seaweed: wavy lines from bottom to top.
+0290 Bubbles rising up.
+0291 Waves on the surface of the sea.
+0292 The edge of the bath: a long line.
+0293 The bottom of the bath: an arc and little legs.
+0294 Kitty is sitting in the water: we see the head with ears.
+0295 Face and whiskers.
+0296 Water in the bath: a wavy line.
+0297 Soap bubbles.
+0298 Warm-up! Draw zigzags: up and down with sharp corners, like little teeth.
+0299 This kitty is fluffy! Draw the head as a zigzag going round: tooth, tooth, tooth.
+0300 Corner ears.
+0301 A zigzag on top: a fluffy tuft of hair.
+0302 The hedgehog's prickly back: a zigzag in an arc, up from the ground and down.
+0303 Face: a pointy nose forward.
+0304 Tummy: a line along the ground.
+0305 An eye and a round nose.
+0306 Paws and an apple on the prickles.
+0307 Christmas tree: three layers of teeth, from the top down and back up.
+0308 Trunk: two sticks down.
+0309 A star on top.
+0310 Baubles on the branches.
+0311 A kitty next to it.
+0312 Ground.
+0313 Crown: a zigzag with sharp points.
+0314 The head under the crown. Where the crown is, we don't draw the line.
+0315 Ears peek out from under the crown.
+0316 Little jewels on the crown.
+0317 Mouth and whiskers. His Majesty the kitty!
+0318 Warm-up! Draw two spirals, like a snail's shell: from the middle going round, wider and wider.
+0319 Kitty is asleep! Draw a big circle. This is the back.
+0320 A smaller circle on the side. This is the head.
+0321 Corner ears on the head.
+0322 Kitty has closed its eyes: two little arcs.
+0323 The tail is curled into a spiral: go round, smaller and smaller.
+0324 Kitty is snoring. Draw sleepy zigzags: z-z-z!
+0325 The snail's shell: a spiral from the middle, wider and wider.
+0326 The snail's body: a long line along the ground and the head going up.
+0327 Feelers with little balls at the ends.
+0328 An eye and a smile.
+0329 Grass all around.

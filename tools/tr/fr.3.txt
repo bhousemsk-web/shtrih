@@ -1,0 +1,227 @@
+0700 L'ombre du tronc tombe à droite, loin du soleil.
+0701 Au bout, l'ombre du feuillage : un ovale sur le sol.
+0702 Hachure les ombres.
+0703 L'ombre propre sur le feuillage : le bord en bas à droite.
+0704 Le soleil à droite.
+0705 Le chapeau du champignon : un dôme et un arc en dessous.
+0706 Le pied : deux petits traits vers le bas.
+0707 Des points sur le chapeau.
+0708 Le soleil est à droite, alors l'ombre est à gauche. Dessine-la et hachure-la.
+0709 L'herbe.
+0710 Le parasol : un dôme, un bord ondulé et un mât.
+0711 L'ombre du parasol tombe à droite. Dessine un grand ovale sur le sol.
+0712 Le chaton se cache à l'ombre.
+0713 Hachure l'ombre. Le chaton y est bien au frais !
+0714 Échauffement ! De l'herbe en zigzag : haute en bas, basse plus haut.
+0715 L'horizon. Laisse de la place là où sera le grand arbre.
+0716 L'arbre proche : grand, en bas.
+0717 L'arbre lointain : petit, juste à l'horizon.
+0718 Un chaton dans la prairie.
+0719 Le soleil est à droite, alors l'ombre du chaton est à gauche. Dessine-la et hachure-la.
+0720 L'herbe : haute près de nous, petite au loin.
+0721 L'étang : un grand ovale couché.
+0722 Des roseaux sur la rive : des petits traits avec des ovales en haut.
+0723 Des petits ronds sur l'eau : un poisson a sauté ici.
+0724 Des arbres au loin, à l'horizon.
+0725 Le chaton sur la rive.
+0726 Le soleil à gauche, l'ombre du chaton à droite.
+0727 Une petite maison et des sapins au loin.
+0728 Le bonhomme de neige : trois boules.
+0729 Le chaton.
+0730 Le soleil à gauche : les ombres à droite.
+0731 L'horizon. Laisse de la place pour le grand arbre.
+0732 Un grand arbre tout près.
+0733 Un petit arbre au loin.
+0734 Les feuilles tombent : comme des petits bateaux.
+0735 Le chaton et une flaque.
+0736 Le soleil à gauche : l'ombre du chaton à droite.
+0737 Échauffement ! Fais un point au milieu et trace jusqu'à lui des lignes droites depuis tous les coins de la feuille, comme des rayons.
+0738 Trace l'horizon et fais un point au milieu. C'est le point de fuite : tout ce qui est loin va vers lui.
+0739 Les bords de la route : deux lignes droites du bas de la feuille jusqu'au point.
+0740 Le marquage au milieu. Près de nous les bandes sont longues, plus loin de plus en plus courtes.
+0741 Des lignes d'aide pour les poteaux. Trace-les très légèrement, elles aussi vers le point de fuite.
+0742 Les poteaux entre les lignes d'aide. Plus c'est loin, plus c'est petit !
+0743 Un chaton est assis au bord de la route et regarde au loin.
+0744 L'horizon et le point de fuite.
+0745 Des lignes d'aide pour les traverses : très légèrement, vers le point.
+0746 Les traverses : des petits traits en travers. Plus c'est loin, plus elles sont courtes et serrées.
+0747 Les rails : deux lignes vers le point de fuite.
+0748 Le chaton est assis près de la voie ferrée.
+0749 L'horizon et un point de fuite à droite.
+0750 Les lignes d'aide : le haut et le bas de la clôture, vers le point.
+0751 Les poteaux : plus c'est loin, plus ils sont petits et serrés.
+0752 Les traverses, elles aussi vers le point de fuite.
+0753 Le chaton est assis sur la clôture.
+0754 De l'herbe près de la clôture.
+0755 Les rives de la rivière : deux lignes vers le point de fuite. Là où est le chaton, on ne dessine pas le trait.
+0756 Les vagues : grandes devant, petites et serrées au loin.
+0757 Des arbres sur la rive : plus c'est loin, plus c'est petit.
+0758 Le chaton sur la rive droite.
+0759 Échauffement ! Dessine un petit carré et un point en haut à droite. Depuis les coins du carré, trace légèrement des lignes vers le point.
+0760 La face avant de la boîte : un carré.
+0761 Depuis trois coins, trace très légèrement des lignes d'aide vers le point de fuite.
+0762 Sur les lignes d'aide, marque la profondeur de la boîte : trois arêtes courtes.
+0763 Les arêtes du fond : relie les bouts. La boîte est en volume !
+0764 Le côté de la boîte est dans l'ombre. Hachure-le.
+0765 Un chaton à côté : il a trouvé une nouvelle boîte !
+0766 L'horizon et un point de fuite au milieu.
+0767 Les faces avant de deux boîtes : des carrés à gauche et à droite.
+0768 Des lignes d'aide depuis les coins vers le point de fuite.
+0769 La boîte de gauche : le dessus et le côté droit.
+0770 La boîte de droite : le dessus et le côté gauche. Les côtés regardent vers le point de fuite.
+0771 Les côtés dans l'ombre : hachure-les.
+0772 Un chaton entre les boîtes.
+0773 Le mur de devant est un carré, le toit un triangle.
+0774 Des lignes d'aide vers le point de fuite depuis les coins de droite et le haut du toit.
+0775 Le mur de côté le long des lignes d'aide.
+0776 Le toit de côté : le faîte part au loin.
+0777 Une porte devant, une fenêtre sur le côté.
+0778 Le mur de côté dans l'ombre.
+0779 La face avant du coffre : un rectangle.
+0780 Des lignes d'aide vers le point de fuite.
+0781 Le dessus et le côté du coffre.
+0782 Le couvercle : une ligne devant et une sur le côté, elles aussi vers le point.
+0783 Des bandes et un petit cadenas.
+0784 Le côté dans l'ombre. Un chaton sur le coffre.
+0785 Échauffement ! Fais un point à droite et dessine des poteaux qui vont vers lui : chacun plus petit que le précédent.
+0786 Des lignes d'aide pour les arbres de gauche : en bas et en haut. Très légèrement.
+0787 Les bords du chemin, eux aussi vers le point.
+0788 Les arbres à gauche entre les lignes d'aide. Plus c'est loin, plus c'est petit.
+0789 Les mêmes arbres à droite, comme dans un miroir.
+0790 Le chaton se promène dans l'allée.
+0791 Des lignes d'aide pour les lampadaires : en bas et en haut.
+0792 Les bords de la route.
+0793 Les lampadaires : plus c'est loin, plus ils sont petits et serrés.
+0794 Un chaton au bord de la route.
+0795 Les lignes d'aide : sous les sapins, à gauche et à droite.
+0796 Le chemin.
+0797 Les sapins : grands devant, petits au loin.
+0798 Un chaton marche sur le sentier.
+0799 Les bords du pont : des lignes vers le point de fuite.
+0800 Les rambardes : les lignes du haut vont aussi vers le point.
+0801 Les poteaux de la rambarde : plus c'est loin, plus ils sont petits et serrés.
+0802 Les planches du pont : des lignes en travers, de plus en plus serrées au loin.
+0803 Un chaton traverse le pont.
+0804 Échauffement ! Un horizon avec deux points aux bouts. Dessine un petit trait et depuis ses bouts trace des lignes vers les deux points.
+0805 L'horizon est bas, avec deux points de fuite aux bords de la feuille. Laisse de la place au milieu pour la maison.
+0806 Le coin proche de la maison : une grande ligne verticale.
+0807 Depuis les bouts de la ligne, trace légèrement des lignes d'aide vers les deux points.
+0808 Là où finissent les murs : deux lignes verticales à gauche et à droite.
+0809 Repasse les murs le long des lignes d'aide : en haut et en bas.
+0810 Une porte et une fenêtre sur le mur de droite. Leurs bords regardent aussi vers le point de fuite.
+0811 Le soleil est à droite. Le mur de gauche est dans l'ombre, hachure-le.
+0812 Un chaton est assis sur le coin du toit !
+0813 L'horizon est haut, avec deux points de fuite aux bords.
+0814 Le coin proche de la caisse.
+0815 Des lignes d'aide depuis les bouts du coin vers les deux points.
+0816 Les bords de la caisse : deux lignes verticales.
+0817 Repasse les côtés et le dessus. On regarde d'en haut, alors on voit le couvercle.
+0818 Les planches sur les côtés : les lignes vont aussi vers les points de fuite.
+0819 Le côté gauche dans l'ombre.
+0820 Un chaton sur la caisse.
+0821 L'horizon est bas, avec deux points aux bords : on regarde la tour d'en bas.
+0822 Le coin proche de la tour : une grande ligne.
+0823 Des lignes d'aide vers les deux points de fuite.
+0824 Les bords des murs et les lignes des murs.
+0825 Un toit pointu et un drapeau.
+0826 Les fenêtres : leurs bords regardent aussi vers les points de fuite.
+0827 Le mur de gauche dans l'ombre.
+0828 Un chaton près de la tour.
+0829 L'horizon est haut, avec deux points de fuite.
+0830 Le coin proche de la niche.
+0831 Des lignes d'aide vers les deux points.
+0832 Les bords des murs et le dessus.
+0833 Une petite porte arrondie sur le mur de droite.
+0834 Dedans il fait sombre, et le mur de gauche est dans l'ombre.
+0835 Échauffement ! Dessine un ovale et un cercle et hachure le côté sombre de chacun. La lumière vient d'en haut à gauche.
+0836 La lumière vient d'en haut à gauche. La tête est ronde, alors en bas à droite elle est plus sombre. Hachure le bord.
+0837 Le corps est rond aussi : on hachure le côté sombre à droite.
+0838 Et une ombre sur le sol à droite. Dessine-la et hachure-la plus fort.
+0839 La poire : un grand cercle en bas, un plus petit en haut. Ne dessine pas les traits à l'intérieur.
+0840 Le reflet.
+0841 L'ombre propre : le côté sombre à droite.
+0842 L'ombre sur la table.
+0843 Le corps : un long ovale couché. Devant, il y a la tête, là on ne dessine pas le trait.
+0844 La tête, les oreilles et une patte.
+0845 La lumière vient d'en haut à droite : le côté sombre est en bas à gauche.
+0846 L'ombre sur le sol à gauche.
+0847 La pastèque : un grand cercle et une petite queue.
+0848 Les rayures : des arcs de haut en bas.
+0849 L'ombre propre : le côté en bas à droite.
+0850 Échauffement ! Dessine trois sapins : un grand en bas, un moyen plus haut et un petit près de la ligne.
+0851 L'arrière-plan : des montagnes. Elles sont sur l'horizon et paraissent petites.
+0852 La neige au sommet : un petit zigzag.
+0853 Le plan du milieu : une petite maison et un arbre, plus petits.
+0854 Le premier plan : le chaton est tout près. Il est si grand qu'il ne rentre même pas !
+0855 La frimousse du grand chaton.
+0856 De grandes herbes devant et des oiseaux dans le ciel.
+0857 L'horizon. Là où seront la petite maison et l'arbre, on ne dessine pas le trait.
+0858 L'arrière-plan : des silhouettes de maisons sur l'horizon. Là où sera la maison proche, on ne dessine pas le trait.
+0859 Le plan du milieu : une petite maison et un arbre.
+0860 Le premier plan : un grand chaton, il ne rentre même pas.
+0861 Des oiseaux dans le ciel.
+0862 L'arrière-plan : une petite île avec un palmier.
+0863 Le plan du milieu : un voilier sur les vagues.
+0864 Le premier plan : le rivage. Là où est le chaton, on ne dessine pas le trait.
+0865 Un grand chaton devant.
+0866 Un coquillage sur le sable : une petite spirale.
+0867 L'arrière-plan : des collines sur l'horizon.
+0868 Le plan du milieu : des sapins plus petits.
+0869 Le premier plan : un grand sapin à gauche, il ne rentre même pas.
+0870 Le chaton est tout près.
+0871 De l'herbe devant.
+0872 Échauffement ! Le soleil est bas à droite. Dessine des petits traits et leurs longues ombres vers la gauche.
+0873 L'horizon. Laisse de la place au milieu pour le feuillage de l'arbre.
+0874 Le soir : le soleil se couche à droite, juste à l'horizon.
+0875 L'arbre.
+0876 Le soir, le soleil est bas et les ombres sont très, très longues. L'ombre de l'arbre s'étire vers la gauche.
+0877 Hachure l'ombre de l'arbre.
+0878 Et la longue ombre du chaton.
+0879 Midi : le soleil est tout en haut.
+0880 Quand le soleil est haut, les ombres sont courtes, juste sous les objets.
+0881 Un lampadaire au milieu : un poteau et un abat-jour.
+0882 Les rayons de lumière : très légèrement, du lampadaire vers le bas.
+0883 Un chaton à gauche, une balle à droite.
+0884 Les ombres s'enfuient loin du lampadaire : celle du chaton à gauche, celle de la balle à droite.
+0885 La lune et les étoiles.
+0886 La table.
+0887 Une bougie au milieu et une petite flamme.
+0888 Une tasse à gauche, une balle à droite.
+0889 La lumière part de la flamme dans toutes les directions : trace légèrement les rayons.
+0890 Les ombres s'enfuient loin de la bougie : celle de la tasse à gauche, celle de la balle à droite.
+0891 La lumière est à gauche de la balle et à droite de la tasse : les côtés sombres sont du côté opposé à la bougie.
+0892 Échauffement ! Souviens-toi du clair-obscur : dessine une balle avec un reflet, une ombre propre et une ombre sur le sol.
+0893 La route va vers le point.
+0894 Des arbres à droite. Plus c'est loin, plus c'est petit.
+0895 Une petite maison au loin près de la route : toute petite.
+0896 Le soleil en haut à gauche.
+0897 Un chaton devant : le corps et la tête.
+0898 La frimousse, les moustaches et la queue.
+0899 L'ombre propre : le côté sombre est à droite de la tête et du corps.
+0900 Et une ombre sur le sol à droite. Tu es un vrai artiste !
+0901 La route part au loin.
+0902 Des petites maisons avec des fenêtres au loin.
+0903 Un bonhomme de neige à droite.
+0904 Un chaton à gauche.
+0905 La lune en haut à droite : les ombres propres à gauche et les ombres sur la neige.
+0906 L'horizon : la mer et le ciel.
+0907 Le soleil et un bateau lointain.
+0908 Les vagues et le rivage.
+0909 Un parasol de plage.
+0910 Une balle et un chaton.
+0911 Le soleil à gauche : les ombres propres à droite et les ombres sur le sable.
+0912 Le sentier part au loin.
+0913 Des arbres à gauche : plus c'est loin, plus c'est petit.
+0914 Un banc à droite.
+0915 Les feuilles tombent.
+0916 Le soleil à gauche : l'ombre propre et l'ombre sur le sol.
+0917 Échauffement ! Trace très légèrement trois ovales d'aide, puis fais le tour avec une ligne sûre, comme si c'était une seule forme.
+0918 Les artistes construisent d'abord la figure avec des formes simples. Très légèrement : un cercle pour la poitrine, un cercle pour les hanches, un cercle pour la tête et la ligne du dos.
+0919 Maintenant avec assurance : la tête et la ligne du dos, en suivant les aides.
+0920 Le ventre en dessous.
+0921 Les pattes de devant tendues loin vers l'avant.
+0922 Les pattes de derrière posées sur le sol.
+0923 La queue vers le haut.
+0924 Les oreilles et la frimousse : l'œil plissé de plaisir.
+0925 Les poils : des traits courts le long du corps, de la tête à la queue.
+0926 La lumière vient d'en haut : le ventre et les pattes sont dans l'ombre. Hachure en croisé près du ventre.

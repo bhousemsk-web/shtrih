@@ -1,0 +1,303 @@
+0927 El suelo y la sombra: lo más oscuro justo debajo del gatito.
+0928 Construcción: muy suave, un círculo para la cabeza, un óvalo para el pecho y un óvalo para la cadera.
+0929 El contorno del gato: de la oreja bajando por la mejilla, el pecho, las patas, la cola, la espalda y la segunda oreja. Dibuja con suavidad.
+0930 La línea de la mejilla separa la cabeza de la espalda. Pelo en las orejas con líneas finas.
+0931 Ojos en forma de almendra sobre una misma línea, con pupilas estrechas.
+0932 Nariz, boca y barbilla.
+0933 Bigotes: arcos finos y largos.
+0934 Patas y cadera: líneas finas dentro del contorno.
+0935 Pelo en el pecho: trazos cortos de arriba abajo.
+0936 Pelo en el cuerpo: trazos que siguen la forma, desde el cuello hacia abajo y hacia atrás.
+0937 Luz desde la izquierda: la espalda y la cadera están en sombra, y también bajo la barbilla.
+0938 La sombra en el suelo a la derecha.
+0939 Construcción: muy suave, un círculo grande para el cuerpo y un círculo para la cabeza.
+0940 La cabeza con una línea segura.
+0941 La espalda siguiendo el círculo de ayuda. Donde están la cabeza y la cola, no dibujamos la línea.
+0942 Orejas y ojos cerrados con pestañas.
+0943 Nariz y bigotes.
+0944 La cola esponjosa abraza al gatito: dos líneas y una punta.
+0945 El pelo va en círculo, como la espiral de un ovillo.
+0946 Luz desde arriba a la izquierda: la espalda está en sombra abajo a la derecha, con luz reflejada en el borde.
+0947 Un cojín bajo el gatito y un z-z-z de sueño.
+0948 ¡Calentamiento! Escala de tonos: cinco cuadraditos del blanco al más oscuro. El primero vacío, y los demás cada vez más rayados.
+0949 La luz viene de arriba a la izquierda. Dibuja una lámpara y el borde de la mesa. Donde irá la bola, no dibujamos la línea.
+0950 Bola: un círculo regular. Primero suave, luego con seguridad.
+0951 Brillo: el punto más claro, el más cercano a la lámpara. Rodéalo suave y no lo rayes.
+0952 Medio tono: rayado suave desde el centro hacia el lado de sombra.
+0953 Sombra propia: rayamos en cruz, más oscuro. Justo en el borde deja una franja más clara: es la luz reflejada, que rebota de la mesa.
+0954 Lo más oscuro de la sombra: una capa más de trazos.
+0955 Sombra proyectada en la mesa: más oscura junto a la bola, más clara lejos.
+0956 Sombrea un poco la mesa alrededor, así la bola parecerá aún más redonda.
+0957 Luz desde la izquierda. Cubo: el cuadrado de delante, la parte de arriba y el lado.
+0958 Cilindro: un óvalo arriba, los lados y el arco de abajo.
+0959 El cubo tiene tres tonos: arriba es lo más claro, lo dejamos. Delante, un rayado suave.
+0960 El lado del cubo está en sombra: rayado en cruz.
+0961 El cilindro es redondo, así que su sombra cambia poco a poco: trazos suaves de arriba abajo desde el centro.
+0962 Más tupido cerca del borde derecho. Y justo en el borde deja una luz reflejada estrecha.
+0963 Sombras proyectadas a la derecha.
+0964 Luz desde arriba a la izquierda. El borde de la mesa. Donde irá el huevo, no dibujamos la línea.
+0965 Huevo: más estrecho arriba y más ancho abajo. Dibuja con suavidad, sin esquinas.
+0966 El brillo arriba a la izquierda: rodéalo suave.
+0967 Medio tono y sombra propia, como en la bola, con luz reflejada en el borde.
+0968 La sombra proyectada a la derecha, más oscura junto al huevo.
+0969 ¡Calentamiento! Ojo de gato: una almendra, dentro un círculo y en él una pupila estrecha como una rendija. Dibuja dos ojos.
+0970 Líneas de ayuda: muy suave, un óvalo para la cabeza, una línea por el centro y una línea para los ojos.
+0971 El contorno de la cabeza: de la oreja bajando por la mejilla, hasta la barbilla y subiendo a la segunda oreja.
+0972 Orejas: triángulos grandes, con el pelo de dentro en líneas finas.
+0973 Ojos sobre la línea de los ojos: almendras y círculos para el iris.
+0974 Pupilas en rendija, líneas finas en el iris y brillos. ¡Deja los brillos en blanco!
+0975 Nariz: el puente desde los ojos y un triángulo.
+0976 Las almohadillas de las mejillas, la barbilla y puntitos para los bigotes.
+0977 Bigotes largos en arcos.
+0978 El pelo crece desde la nariz en todas direcciones. Trazos cortos que siguen la forma de la cabeza.
+0979 Mejillas y pecho esponjosos en zigzag, rayas en la frente.
+0980 Luz desde la izquierda: el lado derecho de la cabeza está en sombra, raya en dos capas. Bajo la barbilla también hay sombra.
+0981 Ayuda: muy suave, un círculo para la cabeza y una línea por el centro.
+0982 Cabeza esponjosa: un zigzag pequeño e irregular alrededor.
+0983 Orejas con pelusa dentro.
+0984 Ojos enormes: círculos grandes.
+0985 Pupilas y dos brillos en cada ojo. Raya la pupila bien tupida, deja los brillos en blanco.
+0986 Una nariz y una boca diminutas.
+0987 Pelo: trazos cortos desde la nariz hacia los bordes.
+0988 Mejillas rosadas: raya ovalitos.
+0989 Un lazo bajo la barbilla.
+0990 Bigotes.
+0991 Ayuda: muy suave, un círculo para la cabeza y la línea del cuello.
+0992 Perfil: la nuca, la oreja, la frente, la nariz, el hocico, la barbilla y el pecho. Dibuja despacio.
+0993 El ojo de lado: una almendra y una pupila.
+0994 Pelo en la oreja y la línea de la mejilla.
+0995 Nariz y boca: líneas finas.
+0996 Los bigotes se estiran hacia delante.
+0997 El pelo va desde la nariz hacia atrás. Los trazos siguen la forma de la cabeza.
+0998 Cuello esponjoso: un zigzag a lo largo de la garganta.
+0999 Luz desde delante: la nuca y el cuello están en sombra. Raya en dos capas.
+1000 ¡Calentamiento! Tres texturas: pelo con trazos cortos, madera con líneas onduladas, ladrillo con dibujo de ladrillos.
+1001 Construcción: un círculo para la cabeza, un óvalo para el pecho y un óvalo para la cadera, muy suave.
+1002 El contorno del gato peludo: dibuja una línea irregular, como si el pelo saliera en mechones.
+1003 Ojos, pupilas y nariz.
+1004 Boca y bigotes largos.
+1005 Pelo largo en el pecho: trazos hacia abajo.
+1006 Pelo por todo el cuerpo: trazos que siguen la forma, desde el cuello hacia abajo y hacia atrás.
+1007 En la cara el pelo es más corto: desde la nariz hacia fuera.
+1008 Sombra: la espalda y la cadera, en dos capas.
+1009 Tablas de la valla con puntas afiladas. Donde está el gatito, no dibujamos la línea.
+1010 Dos travesaños atravesados.
+1011 Las vetas de la madera en las tablas: líneas finas onduladas de arriba abajo.
+1012 Vetas en los travesaños y nudos.
+1013 Clavitos en los travesaños.
+1014 La sombra bajo los travesaños sobre las tablas.
+1015 Un gatito sentado delante de la valla.
+1016 Pelo y sombra en el gatito.
+1017 La parte de arriba del muro: una losa ancha.
+1018 Muro: ladrillos. Cada fila se desplaza medio ladrillo.
+1019 Algunos ladrillos son más oscuros: ráyalos.
+1020 La sombra bajo la losa.
+1021 Un gatito sentado en el muro.
+1022 Pelo y sombra en el gatito, sombra en la losa.
+1023 Cielo: sol y nubes.
+1024 ¡Calentamiento! El punto de fuga está a la derecha. Dibuja una fila de ventanas que vayan hacia él: cada una más estrecha y más baja.
+1025 El horizonte solo se ve al final de la calle. Y el punto de fuga en el medio.
+1026 Líneas de ayuda: los tejados y la base de las casas a la izquierda y a la derecha, hacia el punto.
+1027 La fila de casas de la izquierda: arriba, abajo y la esquina lejana.
+1028 La fila de casas de la derecha, como en un espejo.
+1029 Ventanas a la izquierda: cuanto más lejos, más estrechas. Sus bordes miran al punto de fuga.
+1030 Ventanas a la derecha.
+1031 Marcos de ventana: cruces. La línea vertical sigue vertical, y la horizontal también va hacia el punto de fuga.
+1032 La calzada y las aceras.
+1033 Adoquines: arquitos, cada vez más pequeños a lo lejos.
+1034 A lo lejos, al final de la calle, casitas. Un gatito en la acera.
+1035 Luz desde la izquierda: las casas de la derecha están en sombra, raya en dos capas. Deja las ventanas.
+1036 La pared del fondo: un rectángulo en el medio. Deja espacio abajo para el gatito.
+1037 Las esquinas de la habitación: desde las esquinas de la pared hasta los bordes de la hoja.
+1038 Una ventana en la pared del fondo, con la luna detrás.
+1039 Un cuadro en la pared izquierda y una puerta en la derecha: sus bordes también miran al punto de fuga.
+1040 Tablas del suelo: líneas desde abajo de la hoja hasta el punto de fuga.
+1041 Una lámpara y una alfombra.
+1042 El gatito en la alfombra.
+1043 De la ventana cae al suelo una mancha de luz. Sombrea el resto del suelo con una capa.
+1044 La sombra del gatito en la alfombra.
+1045 Ventana: un marco grande y una cruz.
+1046 El alféizar tiene volumen: la parte de arriba y el borde de delante.
+1047 Tejados al otro lado de la ventana. Donde está el gatito, no dibujamos la línea.
+1048 Media luna y estrellas.
+1049 El gatito está de espaldas y mira por la ventana.
+1050 Una flor en una maceta en el alféizar.
+1051 Cortinas a los lados: pliegues ondulados.
+1052 Cielo nocturno: rayado tupido. Deja la luna, las estrellas y el gatito.
+1053 El gatito a contraluz: ráyalo oscuro. Y el borde de delante del alféizar está en sombra.
+1054 La pared del fondo: un rectángulo en el medio y el punto de fuga en el centro.
+1055 Las esquinas del pasillo: desde las esquinas de la pared hasta las esquinas de la hoja.
+1056 Puertas en la pared izquierda: su parte de arriba y de abajo miran al punto de fuga.
+1057 Puertas en la pared derecha.
+1058 Baldosas del suelo: líneas hacia el punto y líneas atravesadas, cada vez más juntas a lo lejos.
+1059 Lámparas en el techo: cuanto más lejos, más pequeñas.
+1060 Un gatito al final del pasillo.
+1061 Luz desde delante: la pared derecha está en sombra.
+1062 ¡Calentamiento! Un óvalo tumbado arriba, un arco abajo y los lados. Así se construye cualquier jarra o jarrón.
+1063 El borde de la mesa y su parte de delante.
+1064 El cuello de la jarra: un óvalo y dos líneas hacia abajo.
+1065 El cuerpo redondo de la jarra.
+1066 El pico y el asa.
+1067 Una manzana a la derecha: rabito y hoja.
+1068 Pliegues de tela al fondo.
+1069 Luz desde la izquierda. En la jarra: medio tono y sombra propia con luz reflejada en el borde.
+1070 El cuello y el asa también están en sombra a la derecha.
+1071 Luz y sombra en la manzana, y brillos.
+1072 Sombras en la mesa a la derecha, más oscuras junto a los objetos. Y sombra en la parte de delante de la mesa.
+1073 El borde de la mesa.
+1074 Taza: un óvalo arriba, los lados se estrechan hacia abajo, un arco abajo.
+1075 Té dentro y un asa.
+1076 Platillo: un óvalo ancho bajo la taza.
+1077 Vapor sobre el té: líneas onduladas hacia arriba.
+1078 Galletas: redondas, la segunda se esconde detrás de la primera. Puntitos de migas.
+1079 Luz desde la izquierda: la sombra de la taza se oscurece poco a poco hacia la derecha.
+1080 La sombra de la taza en el platillo y la sombra de las galletas.
+1081 Sombras en la mesa a la derecha.
+1082 El borde de la mesa. Donde está el jarrón, no dibujamos la línea.
+1083 Jarrón: un cuello ovalado y un cuerpo redondo.
+1084 Tallos de tulipán desde el cuello.
+1085 Flores de tulipán: copitas de pétalos.
+1086 Hojas largas.
+1087 Un dibujo en el jarrón: rayas que siguen la forma, se curvan con el jarrón.
+1088 Luz desde la izquierda: luz y sombra en el jarrón con luz reflejada.
+1089 Sombra dentro de las flores y en las hojas a la derecha.
+1090 La sombra en la mesa a la derecha.
+1091 ¡Calentamiento! Dibuja un abeto sobre una línea y bajo la línea el mismo al revés, con líneas finas. Eso es un reflejo.
+1092 Orilla: la línea del agua por toda la hoja.
+1093 Abetos en la orilla a la izquierda.
+1094 Una casita a la derecha.
+1095 Montañas lejanas detrás de los abetos y la casa. Donde se esconden, no dibujamos la línea.
+1096 Nieve en las cimas y sombra en las montañas: las laderas de la derecha son más oscuras.
+1097 Luna.
+1098 En el agua todo se refleja al revés. Dibuja el reflejo de los abetos y la casa con líneas finas.
+1099 El reflejo de las montañas, muy suave.
+1100 Camino de luna: rayitas cortas en el agua.
+1101 Ondas en el agua: líneas onduladas sobre los reflejos.
+1102 El camino se va a lo lejos: ancho abajo y estrecho a lo lejos.
+1103 El árbol cercano a la izquierda: un tronco grueso con corteza.
+1104 Su copa: bultos esponjosos.
+1105 Un árbol más pequeño a la derecha.
+1106 Los árboles lejanos son muy pequeños.
+1107 Los rayos del sol atraviesan las hojas: traza suave rayos inclinados.
+1108 Sombras de los árboles atravesando el camino.
+1109 El gatito en el camino.
+1110 Hojas en sombra: rayado en la parte de abajo de la copa.
+1111 Hierba junto al camino.
+1112 Casita: la pared de delante es un rectángulo.
+1113 La pared lateral se va a lo lejos.
+1114 Tejado: un triángulo delante y una pendiente al lado.
+1115 Nieve en el tejado: un gorro ondulado y esponjoso.
+1116 Ventanas encendidas, una puerta y una chimenea con humo.
+1117 Abetos nevados.
+1118 Montones de nieve, huellas y el gatito.
+1119 Luz de luna desde la izquierda: la pared lateral está en sombra, y hay sombra bajo el tejado.
+1120 Cae la nieve: copos.
+1121 El suelo y un charco: un óvalo grande tumbado.
+1122 El gatito sentado al borde del charco.
+1123 El gatito se refleja al revés en el charco. Líneas finas.
+1124 Caen gotas: palitos cortos.
+1125 Círculos de las gotas en el agua.
+1126 Ondas sobre el reflejo.
+1127 ¡Calentamiento! La noche se dibuja con rayado: raya tupido un cuadrado y deja un círculo blanco en el medio, es la luna.
+1128 Tejados: una línea quebrada por toda la hoja.
+1129 Paredes de las casas: líneas hacia abajo.
+1130 Chimeneas en los tejados y una antena.
+1131 La luna con cráteres.
+1132 Un gatito sentado en la cumbre del tejado.
+1133 Ventanas: cuadraditos. Unas encendidas, otras oscuras, raya esas.
+1134 Cielo nocturno: rayado tupido. Deja blanco alrededor de la luna y las estrellas.
+1135 Las paredes de las casas también son oscuras: raya una segunda capa, deja claro alrededor de las ventanas encendidas.
+1136 El suelo: la línea donde la pared se junta con el suelo.
+1137 Caballete: dos patas delante y una detrás.
+1138 Un lienzo en el caballete y una repisita.
+1139 Un cuadro en el lienzo: horizonte, sol, una colina y una casita.
+1140 El gato pintor mira el lienzo. El contorno del gato, deja espacio arriba para la boina.
+1141 La boina del pintor.
+1142 Cara: ojos, nariz, boca y bigotes.
+1143 Una pata con un pincel se estira hacia el lienzo.
+1144 Una paleta con pinturas en un taburete.
+1145 Pelo y luz: la ventana a la izquierda, sombras a la derecha.
+1146 Globo aerostático: una cúpula grande que se estrecha abajo.
+1147 Gajos en el globo: arcos de arriba abajo.
+1148 Cuerdas y una cesta.
+1149 El tejido de la cesta.
+1150 Un gatito asoma de la cesta.
+1151 Nubes cerca.
+1152 La tierra muy abajo: horizonte, campos, un río y casitas diminutas.
+1153 Luz desde la izquierda: medio tono y sombra propia en el globo.
+1154 Pájaros junto al globo.
+1155 Un farolillo en la pata: una cajita, una tapa y un asa.
+1156 Una llamita dentro del farolillo.
+1157 Juguetes alrededor: una pelota y un ovillo.
+1158 Oscuridad: raya tupido todo alrededor de la luz. Empieza por arriba.
+1159 Oscuridad a la izquierda.
+1160 Oscuridad a la derecha. ¿Ves cómo brilla el farolillo?
+1161 ¡Hurra! ¡Qué dibujo! Enséñaselo a mamá o a papá.
+1162 ¡Muy bien! Te ha quedado precioso. ¡Pulsa Listo y recibe una pegatina!
+1163 ¡Miau! ¡Es el mejor dibujo del mundo! Pulsa Listo.
+1164 Calentamiento
+1165 Apoyar al desarrollador
+1166 Sobre la app
+1167 Con cariño, {0}
+1168 Gatito Trazo
+1169 ¡Has terminado todos los niveles! Eres un verdadero artista. Dibuja otros dibujos con cualquier técnica.
+1170 ¡Hola! Soy Trazo. ¡Toca el gatito y vamos a dibujar!
+1171 Hoy aprendemos: «{0}». ¡Tócalo y elige un dibujo!
+1172 Dibujos: {0}
+1173 El nivel {0} se abrirá cuando termines el nivel {1}.
+1174 ¡Primero dibuja cualquier dibujo con la técnica «{0}»!
+1175 {0}. Elige qué vamos a dibujar.
+1176 Quedan por dibujar: {0}.
+1177 ¡Listo!
+1178 Siguiente
+1179 Prepara una hoja de papel y un lápiz.
+1180 ¡Otra vez «{0}»!
+1181 ¡La pegatina «{0}» es tuya!
+1182 ¡Una pegatina más! ¡Te ha quedado genial!
+1183 ¡La pegatina es tuya! Ya está en el álbum.
+1184 ¡Hurra! Se ha abierto un nivel nuevo: ¡{0}!
+1185 ¡El nivel {0} está abierto!
+1186 La siguiente lección está abierta.
+1187 {0} de {1}
+1188 ¡Aquí están tus pegatinas!
+1189 Aquí estarán tus pegatinas. ¡Dibuja tu primer gatito!
+1190 ¿Cuánto es {0} + {1}?
+1191 Incorrecto, inténtalo otra vez
+1192 Copiar
+1193 ¡Copiado!
+1194 Está activada la voz neuronal de los archivos de la app.
+1195 Se usa la voz del teléfono. Puedes elegir la mejor voz en los ajustes del teléfono: Android — «Salida de texto a voz», iPhone — «Accesibilidad» → «Contenido leído» → «Voces».
+1196 Este navegador no puede hablar. Abre la página en Chrome o Safari.
+1197 Escuchar
+1198 Las voces marcadas como Natural, Neural, Enhanced o Google suelen sonar más vivas.
+1199 No se ha encontrado una voz para este idioma. Instala los datos de voz en los ajustes del teléfono: Android — «Salida de texto a voz» → Google, iPhone — «Accesibilidad» → «Contenido leído» → «Voces».
+1200 ¡Hola! Soy Trazo. ¡Vamos a dibujar!
+1201 Sí
+1202 No
+1203 Borrar progreso y pegatinas
+1204 ¿Seguro que quieres borrar? Toca otra vez
+1205 Progreso borrado
+1206 Gatito Trazo. Para adultos: mantén pulsado 2 segundos
+1207 Álbum de pegatinas
+1208 Inicio
+1209 Repetir
+1210 Mostrar otra vez
+1211 Atrás
+1212 Cerrar
+1213 ¡Al álbum!
+1214 Esta app es gratuita
+1215 Gatito Trazo es totalmente gratuito y no tiene anuncios. Lo hice con amor para mi hija, para que aprendiera a dibujar. ¡Espero que también alegre a tus hijos!
+1216 Si quieres apoyar el proyecto, te lo agradeceré mucho. Es opcional: todo seguirá siendo gratuito igualmente.
+1217 Empezar a dibujar
+1218 Solo para adultos
+1219 Resuelve esto para continuar:
+1220 ¡Gracias por querer ayudar! Cualquier cantidad importa. La app seguirá siendo gratuita y sin anuncios igualmente.
+1221 Para adultos
+1222 Idioma
+1223 La voz de Trazo
+1224 Hablar más despacio
+1225 ¿Qué voz te gusta más?
+1226 Abrir todas las lecciones
+1227 Los niveles 1–2 son para unos 5–6 años, los niveles 3–4 para 6–9 y «Pro» a partir de 9. Sin prisas: cualquier lección se puede repetir todas las veces que quieras. Las líneas discontinuas de las lecciones son líneas de ayuda: se trazan suave y luego se borran.
+1228 Transferencia desde una tarjeta rusa
+1229 La app no recopila ningún dato: todo se guarda solo en este dispositivo.

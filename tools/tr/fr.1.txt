@@ -1,0 +1,330 @@
+0000 Chaton
+0001 Lignes et formes
+0002 Niveau un, chaton. On apprend à dessiner des lignes et des formes.
+0003 Jeune artiste
+0004 Taille, pose, humeur, histoire
+0005 Niveau deux, jeune artiste. On dessine des choses grandes et petites, qui bougent et qui ont des émotions.
+0006 Artiste
+0007 Horizon, volume, lumière et ombre
+0008 Niveau trois, artiste. Horizon, volume, lumière et ombre.
+0009 Maître
+0010 Perspective et tableaux
+0011 Niveau quatre, maître. Perspective, points de fuite et vrais tableaux.
+0012 Pro
+0013 Clair-obscur, portraits, textures, paysages
+0014 Niveau cinq, pro. Des dessins réalistes et complexes : clair-obscur, portraits, textures, perspective, natures mortes et paysages.
+0015 Lignes droites
+0016 Cercles
+0017 Triangles
+0018 Vagues
+0019 Zigzag
+0020 Spirale
+0021 Ovales
+0022 Hachures
+0023 Grand et petit
+0024 De profil
+0025 Humeur
+0026 Mouvement
+0027 Sol et ciel
+0028 Une histoire en formes
+0029 Détails
+0030 Symétrie
+0031 Horizon
+0032 Près et loin
+0033 Qui est devant
+0034 Lumière et ombre
+0035 Volume : le cube
+0036 Volume : le cylindre
+0037 Ombre portée
+0038 Tableau
+0039 Point de fuite
+0040 Boîte en perspective
+0041 Perspective : les arbres
+0042 Deux points de fuite
+0043 Ombre propre
+0044 Trois plans
+0045 Ombres longues
+0046 Tableau final
+0047 Construction
+0048 Clair-obscur
+0049 Portrait
+0050 Textures
+0051 Perspective
+0052 Nature morte
+0053 Paysage
+0054 Grand tableau
+0055 Chaton dans une boîte
+0056 Chaton derrière la clôture
+0057 Chaton robot
+0058 Chaton dans la fusée
+0059 Chaton tout rond
+0060 Chaton et bulles
+0061 Ami souris
+0062 Chenille
+0063 Frimousse aux grandes oreilles
+0064 Petit renard
+0065 Chaton à la fête
+0066 Montagnes
+0067 Chaton rayé
+0068 Chaton en bateau
+0069 Poisson dans la mer
+0070 Chaton dans le bain
+0071 Chaton tout doux
+0072 Hérisson
+0073 Chaton et le sapin de Noël
+0074 Chaton roi
+0075 Chaton qui dort
+0076 Escargot
+0077 Chaton à la sucette
+0078 Petit agneau
+0079 Le chaton en entier
+0080 Lapin
+0081 Petit oiseau
+0082 Pingouin
+0083 Chaton en couleurs
+0084 Poisson rayé
+0085 Maison avec un toit
+0086 Bébé tigre
+0087 Maman et chaton
+0088 Chaton et souris
+0089 Grands et petits poissons
+0090 Maman et chatons
+0091 Chaton en promenade
+0092 Petit chien
+0093 Chaton assis de profil
+0094 Souris qui court
+0095 Trois humeurs
+0096 Fâché et endormi
+0097 Chaton qui fait un clin d'œil
+0098 Effrayé et amoureux
+0099 Chaton qui court
+0100 Chaton qui saute
+0101 Balle qui rebondit
+0102 Traces du chaton
+0103 Chaton dehors
+0104 Chaton sous le parapluie
+0105 Nuit
+0106 Arc-en-ciel
+0107 Une maison pour le chaton
+0108 Chaton en voiture
+0109 Petit bateau
+0110 Petit train
+0111 Chaton pêcheur
+0112 Chaton au ballon
+0113 Chaton à l'écharpe
+0114 Chaton cuisinier
+0115 Chaton dans le miroir
+0116 Papillon
+0117 Hibou
+0118 Coccinelle
+0119 Chaton au coucher du soleil
+0120 La mer et un petit bateau
+0121 Chemin dans les champs
+0122 Désert
+0123 Chatons dans les champs
+0124 Sapins dans la forêt
+0125 Maisons du village
+0126 Montgolfières
+0127 Deux amis
+0128 Chaton derrière un buisson
+0129 Trois balles
+0130 Chaton derrière une tasse
+0131 Une balle pour le chaton
+0132 Pomme
+0133 Bonhomme de neige
+0134 Pelote de laine
+0135 Chaton et le cube
+0136 Tour de cubes
+0137 Un cadeau pour le chaton
+0138 Chaton dans une tasse
+0139 Gâteau
+0140 Bocal à poisson
+0141 Fleur en pot
+0142 Chaton au soleil
+0143 Arbre et ombre
+0144 Champignon
+0145 Chaton à l'ombre du parasol
+0146 Prairie
+0147 Étang
+0148 Cour en hiver
+0149 Parc en automne
+0150 Route au loin
+0151 Chemin de fer
+0152 Clôture au loin
+0153 Rivière au loin
+0154 Une boîte pour le chaton
+0155 Deux boîtes
+0156 Maison à un point
+0157 Coffre au trésor
+0158 Chaton dans l'allée
+0159 Lampadaires
+0160 Sapins le long du chemin
+0161 Pont au loin
+0162 Maison avec chaton
+0163 Caisse à deux points
+0164 Tour
+0165 Niche
+0166 Chaton rond en volume
+0167 Poire
+0168 Chaton couché
+0169 Pastèque
+0170 Chaton et montagnes
+0171 Ville : trois plans
+0172 Mer : trois plans
+0173 Forêt : trois plans
+0174 Promenade du soir
+0175 Midi : ombres courtes
+0176 Lampadaire la nuit
+0177 Bougie
+0178 Le chemin de la maison
+0179 Soir d'hiver
+0180 Plage en été
+0181 Allée en automne
+0182 Chaton qui s'étire
+0183 Chat assis
+0184 Chat endormi en boule
+0185 Balle : clair-obscur
+0186 Cube et cylindre
+0187 Œuf
+0188 Portrait de chat
+0189 Chaton aux grands yeux
+0190 Chat de profil
+0191 Chat à poils longs
+0192 Chaton près de la clôture en bois
+0193 Chaton sur un mur de briques
+0194 Rue de la ville
+0195 La chambre du chaton
+0196 Chaton à la fenêtre
+0197 Couloir
+0198 Cruche et pomme
+0199 Thé et biscuits
+0200 Vase de tulipes
+0201 Reflet dans le lac
+0202 Sentier en forêt
+0203 Maisonnette en hiver
+0204 Chaton et la flaque
+0205 Ville la nuit
+0206 Chat peintre
+0207 Vol en montgolfière
+0208 Chaton à la lanterne
+0209 Échauffement ! Dessine cinq petits traits de haut en bas, comme la pluie.
+0210 Dessine une boîte. D'abord le couvercle : une ligne droite de gauche à droite.
+0211 Maintenant les côtés et le fond : en bas, à droite et en haut.
+0212 Un chaton sort la tête de la boîte ! Une ligne vers le haut, une oreille, le haut de la tête, la deuxième oreille et vers le bas.
+0213 Les yeux : deux petits traits de haut en bas. Et un petit nez pointu.
+0214 Les moustaches ! De longues lignes droites sur les côtés.
+0215 Clôture : des petits traits bien réguliers de haut en bas.
+0216 Les traverses : deux longues lignes de gauche à droite.
+0217 Un chaton regarde par-dessus la clôture : une ligne vers le haut, une oreille, le haut de la tête, une oreille et vers le bas.
+0218 Des yeux en petits traits et un nez pointu.
+0219 Les moustaches sur les côtés.
+0220 De l'herbe près de la clôture : des petits traits penchés.
+0221 La tête du robot : un rectangle.
+0222 Les oreilles et une antenne : des lignes droites.
+0223 Les yeux sont des petits carrés, la bouche est une ligne avec des dents.
+0224 Le cou et le corps : un grand rectangle.
+0225 Un tableau de bord avec des boutons sur le corps.
+0226 Les bras et les jambes : des lignes droites.
+0227 Le corps de la fusée : un grand rectangle debout.
+0228 Le nez de la fusée : deux lignes penchées jusqu'à une pointe.
+0229 Les ailes : des lignes penchées sur les côtés.
+0230 Un hublot carré avec un chaton dedans : une ligne vers le haut, les oreilles et vers le bas.
+0231 Le feu en bas : un zigzag pointu.
+0232 Des petites étoiles en croix tout autour.
+0233 Échauffement ! Dessine trois cercles. Commence en haut, fais le tour par la gauche et reviens au début.
+0234 Dessine un grand cercle. C'est un chaton tout rond.
+0235 Les oreilles : des petits coins en haut. On monte et on descend.
+0236 Les yeux : deux petits cercles.
+0237 Le nez : un tout petit cercle. Et les moustaches sur les côtés.
+0238 À côté, une pelote : un cercle avec des arcs dedans.
+0239 La tête du chaton : un grand cercle et des oreilles.
+0240 Des yeux en cercle et un nez en cercle.
+0241 Le chaton fait des bulles ! Un grand cercle.
+0242 Encore des bulles : une moyenne et des petites.
+0243 Dans chaque bulle brille un petit cercle.
+0244 Des moustaches pour le chaton.
+0245 La tête de la souris : un cercle.
+0246 Les oreilles : deux grands cercles en haut. Là où elles passent derrière la tête, on ne dessine pas le trait.
+0247 Des cercles plus petits dans les oreilles.
+0248 Les yeux et un gros nez rond.
+0249 Les moustaches et un sourire.
+0250 La tête de la chenille : un cercle à droite.
+0251 Le corps : des cercles les uns après les autres. Chacun se cache derrière son voisin.
+0252 Des yeux en cercle et un sourire.
+0253 Des antennes avec des petites boules.
+0254 Les pattes : des petits traits sous chaque cercle.
+0255 La branche sur laquelle rampe la chenille.
+0256 Échauffement ! Dessine trois triangles : du sommet vers le bas à gauche, puis à droite et retour au sommet.
+0257 Dessine un grand cercle. C'est la tête du chaton.
+0258 Les oreilles : des coins en triangle sur la tête.
+0259 Des triangles plus petits dans les oreilles.
+0260 Les yeux sont des petits cercles, et le nez un petit triangle.
+0261 La bouche : deux petits arcs sous le nez. Et les moustaches !
+0262 La frimousse du renard : un grand triangle avec le nez vers le bas.
+0263 Les oreilles : des coins en haut.
+0264 Des coins plus petits dans les oreilles.
+0265 Les yeux et un nez au bout.
+0266 Les joues blanches : deux lignes qui font un coin.
+0267 La frimousse : un cercle et des oreilles. Laisse de la place en haut pour le chapeau de fête.
+0268 Le chapeau de fête : un triangle sur la tête et un pompon.
+0269 Les yeux et le nez.
+0270 La bouche et les moustaches.
+0271 Des petits drapeaux en triangle sur une ficelle.
+0272 La montagne de devant : un grand triangle.
+0273 La montagne de derrière : on dessine seulement ce qu'on voit derrière la première.
+0274 La neige sur les sommets : un zigzag.
+0275 Le soleil et des petits oiseaux.
+0276 Le sol en bas et un chaton.
+0277 Échauffement ! Dessine trois vagues, comme la mer : en haut et en bas, en haut et en bas.
+0278 Dessine la frimousse comme avant : un cercle et deux oreilles.
+0279 Ce chaton est rayé ! Trois rayures ondulées sur le front, de haut en bas.
+0280 Des rayures ondulées sur les joues aussi.
+0281 La bouche et les moustaches. C'est fini !
+0282 Le bateau : large en haut, étroit en bas.
+0283 Un chaton dans le bateau : la tête et les oreilles.
+0284 La frimousse du chaton.
+0285 Des vagues sous le bateau.
+0286 Des vagues plus petites au loin.
+0287 Un gros poisson : un ovale et une queue.
+0288 Les écailles : des rayures ondulées.
+0289 Les algues : des lignes ondulées de bas en haut.
+0290 Des bulles qui montent.
+0291 Des vagues à la surface de la mer.
+0292 Le bord de la baignoire : une longue ligne.
+0293 Le fond de la baignoire : un arc et des petits pieds.
+0294 Le chaton est assis dans l'eau : on voit la tête avec les oreilles.
+0295 La frimousse et les moustaches.
+0296 L'eau dans la baignoire : une ligne ondulée.
+0297 Des bulles de savon.
+0298 Échauffement ! Dessine des zigzags : en haut et en bas avec des coins pointus, comme des petites dents.
+0299 Ce chaton est tout doux ! Dessine la tête avec un zigzag tout autour : dent, dent, dent.
+0300 Des oreilles en coin.
+0301 Un zigzag en haut : une petite houppette.
+0302 Le dos piquant du hérisson : un zigzag en arc, qui monte du sol et redescend.
+0303 Le museau : un nez pointu vers l'avant.
+0304 Le ventre : une ligne le long du sol.
+0305 Un œil et un nez rond.
+0306 Les pattes et une pomme sur les piquants.
+0307 Le sapin : trois étages de dents, du haut vers le bas et retour en haut.
+0308 Le tronc : deux petits traits vers le bas.
+0309 Une étoile au sommet.
+0310 Des boules sur les branches.
+0311 Un chaton à côté.
+0312 Le sol.
+0313 La couronne : un zigzag avec des pointes.
+0314 La tête sous la couronne. Là où est la couronne, on ne dessine pas le trait.
+0315 Les oreilles dépassent sous la couronne.
+0316 Des petites pierres précieuses sur la couronne.
+0317 La bouche et les moustaches. Sa Majesté le chaton !
+0318 Échauffement ! Dessine deux spirales, comme la coquille d'un escargot : du milieu, en tournant, de plus en plus large.
+0319 Le chaton dort ! Dessine un grand cercle. C'est le dos.
+0320 Un cercle plus petit sur le côté. C'est la tête.
+0321 Des oreilles en coin sur la tête.
+0322 Le chaton a fermé les yeux : deux petits arcs.
+0323 La queue est enroulée en spirale : on tourne, de plus en plus petit.
+0324 Le chaton ronfle. Dessine des zigzags de sommeil : z-z-z !
+0325 La coquille de l'escargot : une spirale depuis le milieu, de plus en plus large.
+0326 Le corps de l'escargot : une longue ligne le long du sol et la tête vers le haut.
+0327 Des antennes avec des petites boules au bout.
+0328 Un œil et un sourire.
+0329 De l'herbe tout autour.

@@ -1,0 +1,4 @@
+/* Шрифты из папки приложения (работают без интернета и без запросов к Google).
+   Файлы скачивает tools/get_fonts.sh; если их нет — браузер просто возьмёт запасные шрифты. */
+@font-face{font-family:"Neucha";src:url("Neucha.woff2") format("woff2"),url("Neucha.ttf") format("truetype");font-display:swap}
+@font-face{font-family:"Nunito";src:url("Nunito.woff2") format("woff2"),url("Nunito.ttf") format("truetype");font-weight:200 1000;font-display:swap}

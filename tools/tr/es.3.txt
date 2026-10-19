@@ -1,0 +1,227 @@
+0700 La sombra del tronco cae a la derecha, lejos del sol.
+0701 Al final, la sombra de la copa: un óvalo en el suelo.
+0702 Raya las sombras.
+0703 Sombra propia en la copa: el borde de abajo a la derecha.
+0704 El sol a la derecha.
+0705 El sombrero de la seta: una cúpula y un arco debajo.
+0706 Pie: dos palitos hacia abajo.
+0707 Manchitas en el sombrero.
+0708 El sol está a la derecha, así que la sombra está a la izquierda. Dibújala y ráyala.
+0709 Hierba.
+0710 Sombrilla: una cúpula, el borde ondulado y un palo.
+0711 La sombra de la sombrilla cae a la derecha. Dibuja un óvalo grande en el suelo.
+0712 El gatito se esconde en la sombra.
+0713 Raya la sombra. ¡Allí el gatito está fresquito!
+0714 ¡Calentamiento! Hierba en zigzag: alta abajo, bajita más arriba.
+0715 Horizonte. Deja espacio donde irá el árbol grande.
+0716 El árbol cercano: grande y abajo.
+0717 El árbol lejano: pequeño, junto al horizonte.
+0718 Un gatito en el prado.
+0719 El sol está a la derecha, así que la sombra del gatito está a la izquierda. Dibújala y ráyala.
+0720 Hierba: alta cerca, pequeña lejos.
+0721 Estanque: un óvalo grande tumbado.
+0722 Juncos en la orilla: palitos con óvalos arriba.
+0723 Circulitos en el agua: aquí ha saltado un pez.
+0724 Árboles lejos, junto al horizonte.
+0725 El gatito en la orilla.
+0726 Sol a la izquierda, la sombra del gatito a la derecha.
+0727 Una casita y abetos a lo lejos.
+0728 Muñeco de nieve: tres bolas.
+0729 Gatito.
+0730 Sol a la izquierda: sombras a la derecha.
+0731 Horizonte. Deja espacio para el árbol grande.
+0732 Un árbol grande cerca.
+0733 Un árbol pequeño lejos.
+0734 Caen hojas: como barquitos.
+0735 El gatito y un charco.
+0736 Sol a la izquierda: la sombra del gatito a la derecha.
+0737 ¡Calentamiento! Pon un punto en el centro y traza hasta él líneas rectas desde todas las esquinas de la hoja, como rayos.
+0738 Traza el horizonte y pon un punto en el medio. Es el punto de fuga: todo lo que está lejos va hacia él.
+0739 Los bordes de la carretera: dos líneas rectas desde abajo de la hoja hasta el punto.
+0740 Las marcas en el centro. Cerca las rayas son largas, más lejos cada vez más cortas.
+0741 Líneas de ayuda para los postes. Trázalas muy suave, también hacia el punto de fuga.
+0742 Postes entre las líneas de ayuda. ¡Cuanto más lejos, más bajos!
+0743 Un gatito está sentado junto a la carretera y mira a lo lejos.
+0744 Horizonte y punto de fuga.
+0745 Líneas de ayuda para las traviesas: muy suave, hacia el punto.
+0746 Traviesas: palitos atravesados. Cuanto más lejos, más cortos y más juntos.
+0747 Raíles: dos líneas hacia el punto de fuga.
+0748 El gatito junto a la vía del tren.
+0749 Horizonte y un punto de fuga a la derecha.
+0750 Líneas de ayuda: la parte de arriba y de abajo de la valla, hacia el punto.
+0751 Postes: cuanto más lejos, más bajos y más juntos.
+0752 Travesaños, también hacia el punto de fuga.
+0753 El gatito sentado en la valla.
+0754 Hierba junto a la valla.
+0755 Las orillas del río: dos líneas hacia el punto de fuga. Donde está el gatito, no dibujamos la línea.
+0756 Olas: grandes delante, pequeñas y juntas a lo lejos.
+0757 Árboles en la orilla: cuanto más lejos, más pequeños.
+0758 El gatito en la orilla derecha.
+0759 ¡Calentamiento! Dibuja un cuadradito y un punto arriba a la derecha. Desde las esquinas del cuadrado traza suave líneas hasta el punto.
+0760 La cara de delante de la caja: un cuadrado.
+0761 Desde tres esquinas traza muy suave líneas de ayuda hasta el punto de fuga.
+0762 Sobre las líneas de ayuda marca la profundidad de la caja: tres aristas cortas.
+0763 Las aristas de atrás: une los extremos. ¡La caja ya tiene volumen!
+0764 El lado de la caja está en sombra. Ráyalo.
+0765 Un gatito al lado: ¡ha encontrado una caja nueva!
+0766 Horizonte y un punto de fuga en el medio.
+0767 Las caras de delante de dos cajas: cuadrados a la izquierda y a la derecha.
+0768 Líneas de ayuda desde las esquinas hasta el punto de fuga.
+0769 La caja de la izquierda: arriba y el lado derecho.
+0770 La caja de la derecha: arriba y el lado izquierdo. Los lados miran hacia el punto de fuga.
+0771 Los lados en sombra: ráyalos.
+0772 Un gatito entre las cajas.
+0773 La pared de delante es un cuadrado y el tejado un triángulo.
+0774 Líneas de ayuda hacia el punto de fuga desde las esquinas derechas y la punta del tejado.
+0775 La pared lateral sobre las líneas de ayuda.
+0776 El tejado de lado: la cumbrera se va a lo lejos.
+0777 Una puerta delante y una ventana al lado.
+0778 La pared lateral en sombra.
+0779 La cara de delante del cofre: un rectángulo.
+0780 Líneas de ayuda hacia el punto de fuga.
+0781 La parte de arriba y el lado del cofre.
+0782 Tapa: una línea delante y otra al lado, también hacia el punto.
+0783 Bandas y un candadito.
+0784 El lado en sombra. Un gatito sobre el cofre.
+0785 ¡Calentamiento! Pon un punto a la derecha y dibuja postes que vayan hacia él: cada uno más bajo que el anterior.
+0786 Líneas de ayuda para los árboles de la izquierda: por abajo y por arriba. Muy suave.
+0787 Los bordes del camino, también hacia el punto.
+0788 Árboles a la izquierda entre las líneas de ayuda. Cuanto más lejos, más pequeños.
+0789 Los mismos árboles a la derecha, como en un espejo.
+0790 El gatito pasea por la alameda.
+0791 Líneas de ayuda para las farolas: por abajo y por arriba.
+0792 Los bordes de la carretera.
+0793 Farolas: cuanto más lejos, más bajas y más juntas.
+0794 Un gatito junto a la carretera.
+0795 Líneas de ayuda: por debajo de los abetos, a la izquierda y a la derecha.
+0796 Camino.
+0797 Abetos: grandes delante, pequeños a lo lejos.
+0798 Un gatito camina por el sendero.
+0799 Los bordes del puente: líneas hacia el punto de fuga.
+0800 Barandillas: las líneas de arriba también van hacia el punto.
+0801 Los postes de la barandilla: cuanto más lejos, más bajos y más juntos.
+0802 Tablas en el puente: líneas atravesadas, cada vez más juntas a lo lejos.
+0803 Un gatito cruza el puente.
+0804 ¡Calentamiento! Un horizonte con dos puntos en los extremos. Dibuja un palito y desde sus extremos traza líneas a los dos puntos.
+0805 El horizonte está bajo y hay dos puntos de fuga en los bordes de la hoja. Deja espacio en el medio para la casa.
+0806 La esquina cercana de la casa: una línea vertical alta.
+0807 Desde los extremos de la línea traza suave líneas de ayuda hacia los dos puntos.
+0808 Donde terminan las paredes: dos líneas verticales a la izquierda y a la derecha.
+0809 Repasa las paredes sobre las líneas de ayuda: arriba y abajo.
+0810 Una puerta y una ventana en la pared derecha. Sus bordes también miran al punto de fuga.
+0811 El sol está a la derecha. La pared izquierda está en sombra, ráyala.
+0812 ¡Un gatito sentado en la esquina del tejado!
+0813 El horizonte está alto y hay dos puntos de fuga en los bordes.
+0814 La esquina cercana del cajón.
+0815 Líneas de ayuda desde los extremos de la esquina a los dos puntos.
+0816 Los bordes del cajón: dos líneas verticales.
+0817 Repasa los lados y la parte de arriba. Miramos desde arriba, así que se ve la tapa.
+0818 Tablas en los lados: las líneas también van hacia los puntos de fuga.
+0819 El lado izquierdo en sombra.
+0820 Un gatito sobre el cajón.
+0821 El horizonte está bajo, con dos puntos en los bordes: miramos la torre desde abajo.
+0822 La esquina cercana de la torre: una línea alta.
+0823 Líneas de ayuda hacia los dos puntos de fuga.
+0824 Los bordes de las paredes y las líneas de las paredes.
+0825 Un tejado puntiagudo y una bandera.
+0826 Ventanas: sus bordes también miran a los puntos de fuga.
+0827 La pared izquierda en sombra.
+0828 Un gatito junto a la torre.
+0829 El horizonte está alto, con dos puntos de fuga.
+0830 La esquina cercana de la caseta del perro.
+0831 Líneas de ayuda hacia los dos puntos.
+0832 Los bordes de las paredes y la parte de arriba.
+0833 Una puertecita redonda arriba en la pared derecha.
+0834 Dentro está oscuro y la pared izquierda está en sombra.
+0835 ¡Calentamiento! Dibuja un óvalo y un círculo y raya el lado oscuro de cada uno. Luz desde arriba a la izquierda.
+0836 Luz desde arriba a la izquierda. La cabeza es redonda, así que abajo a la derecha está más oscura. Raya el borde.
+0837 El cuerpo también es redondo: rayamos el lado oscuro a la derecha.
+0838 Y una sombra en el suelo a la derecha. Dibújala y ráyala más fuerte.
+0839 Pera: un círculo grande abajo y uno más pequeño arriba. No dibujes las líneas de dentro.
+0840 Brillo.
+0841 Sombra propia: el lado oscuro a la derecha.
+0842 La sombra en la mesa.
+0843 Cuerpo: un óvalo largo tumbado. Delante está la cabeza, ahí no dibujamos la línea.
+0844 Cabeza, orejas y pata.
+0845 Luz desde arriba a la derecha: el lado oscuro está abajo a la izquierda.
+0846 La sombra en el suelo a la izquierda.
+0847 Sandía: un círculo grande y un rabito.
+0848 Rayas: arcos de arriba abajo.
+0849 Sombra propia: el lado de abajo a la derecha.
+0850 ¡Calentamiento! Dibuja tres abetos: uno grande abajo, uno mediano más arriba y uno pequeño junto a la línea.
+0851 Fondo: montañas. Están en el horizonte y parecen pequeñas.
+0852 Nieve en la cima: un pequeño zigzag.
+0853 Plano medio: una casita y un árbol, más pequeños.
+0854 Primer plano: el gatito está muy cerca. ¡Es tan grande que ni siquiera cabe!
+0855 La cara del gatito grande.
+0856 Hierba grande delante y pájaros en el cielo.
+0857 Horizonte. Donde irán la casita y el árbol, no dibujamos la línea.
+0858 Fondo: siluetas de casas en el horizonte. Donde irá la casa cercana, no dibujamos la línea.
+0859 Plano medio: una casita y un árbol.
+0860 Primer plano: un gatito grande, ni siquiera cabe.
+0861 Pájaros en el cielo.
+0862 Fondo: una islita con una palmera.
+0863 Plano medio: un velero sobre las olas.
+0864 Primer plano: la orilla. Donde está el gatito, no dibujamos la línea.
+0865 Un gatito grande delante.
+0866 Una concha en la arena: una pequeña espiral.
+0867 Fondo: colinas en el horizonte.
+0868 Plano medio: abetos más pequeños.
+0869 Primer plano: un abeto grande a la izquierda, ni siquiera cabe.
+0870 El gatito está muy cerca.
+0871 Hierba delante.
+0872 ¡Calentamiento! El sol está bajo a la derecha. Dibuja palitos y sus sombras largas hacia la izquierda.
+0873 Horizonte. Deja espacio en el medio para la copa del árbol.
+0874 Atardecer: el sol se pone a la derecha, junto al horizonte.
+0875 Árbol.
+0876 Al atardecer el sol está bajo y las sombras son larguísimas. La sombra del árbol se estira a la izquierda.
+0877 Raya la sombra del árbol.
+0878 Y la sombra larga del gatito.
+0879 Mediodía: el sol está alto, arriba del todo.
+0880 Cuando el sol está alto, las sombras son cortas y quedan justo debajo de las cosas.
+0881 Una farola en el medio: un poste y una pantalla.
+0882 Rayos de luz: muy suave, desde la farola hacia abajo.
+0883 Un gatito a la izquierda y una pelota a la derecha.
+0884 Las sombras huyen de la farola: la del gatito a la izquierda, la de la pelota a la derecha.
+0885 Luna y estrellas.
+0886 Mesa.
+0887 Una vela en el medio y una llamita.
+0888 Una taza a la izquierda y una pelota a la derecha.
+0889 La luz sale de la llama en todas direcciones: traza suave los rayos.
+0890 Las sombras huyen de la vela: la de la taza a la izquierda, la de la pelota a la derecha.
+0891 La luz está a la izquierda de la pelota y a la derecha de la taza: los lados oscuros miran lejos de la vela.
+0892 ¡Calentamiento! Recuerda el claroscuro: dibuja una pelota con brillo, sombra propia y sombra en el suelo.
+0893 La carretera va hacia el punto.
+0894 Árboles a la derecha. Cuanto más lejos, más pequeños.
+0895 Una casita lejos junto a la carretera: muy pequeñita.
+0896 El sol arriba a la izquierda.
+0897 Un gatito delante: cuerpo y cabeza.
+0898 Cara, bigotes y cola.
+0899 Sombra propia: el lado oscuro está a la derecha de la cabeza y del cuerpo.
+0900 Y una sombra en el suelo a la derecha. ¡Eres un verdadero artista!
+0901 La carretera se va a lo lejos.
+0902 Casitas con ventanas a lo lejos.
+0903 Un muñeco de nieve a la derecha.
+0904 Un gatito a la izquierda.
+0905 La luna arriba a la derecha: sombras propias a la izquierda y sombras en la nieve.
+0906 Horizonte: mar y cielo.
+0907 El sol y un barco lejano.
+0908 Olas y orilla.
+0909 Una sombrilla de playa.
+0910 Una pelota y un gatito.
+0911 Sol a la izquierda: sombras propias a la derecha y sombras en la arena.
+0912 El camino se va a lo lejos.
+0913 Árboles a la izquierda: cuanto más lejos, más pequeños.
+0914 Un banco a la derecha.
+0915 Caen hojas.
+0916 Sol a la izquierda: sombra propia y sombra en el suelo.
+0917 ¡Calentamiento! Traza muy suave tres óvalos de ayuda y luego repásalos con una línea segura, como si fueran una sola figura.
+0918 Los artistas primero construyen la figura con formas simples. Muy suave: un círculo para el pecho, un círculo para la cadera, un círculo para la cabeza y la línea de la espalda.
+0919 Ahora con seguridad: la cabeza y la línea de la espalda, siguiendo la ayuda.
+0920 La barriguita abajo.
+0921 Las patas delanteras estiradas muy hacia delante.
+0922 Las patas traseras apoyadas en el suelo.
+0923 La cola hacia arriba.
+0924 Orejas y cara: el ojo entornado de gusto.
+0925 Pelo: trazos cortos a lo largo del cuerpo, de la cabeza a la cola.
+0926 Luz desde arriba: la barriga y las patas están en sombra. Raya en cruz junto a la barriga.

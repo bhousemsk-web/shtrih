@@ -1,0 +1,303 @@
+0927 Floor and shadow: darkest right under kitty.
+0928 Construction: very lightly, a circle for the head, an oval for the chest and an oval for the hips.
+0929 The cat's outline: from the ear down the cheek, chest, paws, tail, back and the second ear. Draw smoothly.
+0930 The cheek line separates the head from the back. Fur in the ears with thin lines.
+0931 Almond-shaped eyes on one line, with narrow pupils.
+0932 Nose, mouth and chin.
+0933 Whiskers as thin long arcs.
+0934 Legs and hip: thin lines inside the outline.
+0935 Fur on the chest: short strokes from top to bottom.
+0936 Fur on the body: strokes following the form, from the neck down and back.
+0937 Light from the left: the back and hip are in shadow, and under the chin too.
+0938 The shadow on the floor to the right.
+0939 Construction: very lightly, a big circle for the body and a circle for the head.
+0940 The head with a confident line.
+0941 The back along the helper circle. Where the head and tail are, we don't draw the line.
+0942 Ears and closed eyes with eyelashes.
+0943 Nose and whiskers.
+0944 The fluffy tail hugs kitty: two lines and a tip.
+0945 The fur goes round, like the spiral of a ball of yarn.
+0946 Light from the top left: the back is in shadow at the bottom right, with reflected light at the edge.
+0947 A cushion under kitty and a sleepy z-z-z.
+0948 Warm-up! Value scale: five little squares from white to the darkest. The first is empty, then hatch each one thicker.
+0949 The light falls from the top left. Draw a lamp and the edge of the table. Where the ball will be, we don't draw the line.
+0950 Ball: an even circle. First lightly, then confidently.
+0951 Highlight: the lightest spot, closest to the lamp. Outline it lightly and don't hatch it.
+0952 Halftone: light hatching from the middle towards the shadow side.
+0953 Form shadow: we cross-hatch, darker. Right at the edge leave a lighter strip: that's reflected light, light bouncing off the table.
+0954 The darkest part of the shadow: one more layer of strokes.
+0955 Cast shadow on the table: darkest right next to the ball, lighter further away.
+0956 Shade the table around it a little, so the ball looks even rounder.
+0957 Light from the left. Cube: the front square, the top and the side.
+0958 Cylinder: an oval on top, the sides and the arc of the bottom.
+0959 The cube has three tones: the top is the lightest, we leave it. The front gets light hatching.
+0960 The side of the cube is in shadow: cross-hatching.
+0961 The cylinder is round, so its shadow changes smoothly: light vertical strokes from the middle.
+0962 Thicker closer to the right edge. And right at the edge leave a narrow reflected light.
+0963 Cast shadows to the right.
+0964 Light from the top left. The edge of the table. Where the egg will be, we don't draw the line.
+0965 Egg: narrower at the top, wider at the bottom. Draw smoothly, without corners.
+0966 Highlight at the top left: outline it lightly.
+0967 Halftone and form shadow, like on the ball, with reflected light at the edge.
+0968 The cast shadow to the right, darker near the egg.
+0969 Warm-up! A cat's eye: an almond, a circle inside, and a narrow slit pupil in it. Draw two eyes.
+0970 Helper lines: very lightly, an oval for the head, a line down the middle and a line for the eyes.
+0971 Head outline: from the ear down the cheek, to the chin and up to the second ear.
+0972 Ears: big triangles, with fur inside drawn in thin lines.
+0973 Eyes on the eye line: almonds and circles for the irises.
+0974 Slit pupils, thin lines on the iris and highlights. Leave the highlights white!
+0975 Nose: the bridge from the eyes and a triangle.
+0976 Cheek pads, chin and dots for the whiskers.
+0977 Long whiskers in arcs.
+0978 Fur grows from the nose in all directions. Short strokes following the shape of the head.
+0979 Fluffy cheeks and chest in zigzags, stripes on the forehead.
+0980 Light from the left: the right side of the head is in shadow, hatch in two layers. There's shadow under the chin too.
+0981 Helpers: very lightly, a circle for the head and a line down the middle.
+0982 Fluffy head: a small uneven zigzag going round.
+0983 Ears with fluff inside.
+0984 Huge eyes: big circles.
+0985 Pupils and two highlights in each eye. Hatch the pupil thickly, leave the highlights white.
+0986 A tiny nose and mouth.
+0987 Fur: short strokes from the nose to the edges.
+0988 Rosy cheeks: hatch little ovals.
+0989 A bow under the chin.
+0990 Whiskers.
+0991 Helpers: very lightly, a circle for the head and the line of the neck.
+0992 Profile: back of the head, ear, forehead, nose, muzzle, chin and chest. Draw slowly.
+0993 The eye from the side: an almond and a pupil.
+0994 Fur in the ear and the cheek line.
+0995 Nose and mouth: thin lines.
+0996 The whiskers reach forward.
+0997 The fur goes back from the nose. Strokes follow the shape of the head.
+0998 Fluffy neck: a zigzag along the throat.
+0999 Light from the front: the back of the head and the neck are in shadow. Hatch in two layers.
+1000 Warm-up! Three textures: fur with short strokes, wood with wavy lines, brick with a brick pattern.
+1001 Construction: a circle for the head, an oval for the chest and an oval for the hips, lightly.
+1002 The fluffy cat's outline: draw an uneven line, as if the fur sticks out in tufts.
+1003 Eyes, pupils and nose.
+1004 Mouth and long whiskers.
+1005 Long fur on the chest: strokes going down.
+1006 Fur all over the body: strokes following the form, from the neck down and back.
+1007 On the face the fur is shorter: from the nose outwards.
+1008 Shadow: the back and the hip, in two layers.
+1009 Fence boards with pointed tops. Where kitty sits, we don't draw the line.
+1010 Two crossbars across.
+1011 Wood grain on the boards: thin wavy lines from top to bottom.
+1012 Grain on the crossbars and knots.
+1013 Little nails in the crossbars.
+1014 Shadow under the crossbars on the boards.
+1015 A kitty sits in front of the fence.
+1016 Fur and shadow on kitty.
+1017 The top of the wall: a wide slab.
+1018 Wall: brickwork. Each row is shifted by half a brick.
+1019 Some bricks are darker: hatch them.
+1020 Shadow under the slab.
+1021 A kitty sits on the wall.
+1022 Fur and shadow on kitty, shadow on the slab.
+1023 Sky: sun and clouds.
+1024 Warm-up! The vanishing point is on the right. Draw a row of windows going towards it: each one narrower and shorter.
+1025 The horizon is only visible at the end of the street. And the vanishing point in the middle.
+1026 Helper lines: the roofs and bottoms of the houses on the left and right, to the dot.
+1027 The left row of houses: top, bottom and the far corner.
+1028 The right row of houses, like in a mirror.
+1029 Windows on the left: the further away, the narrower. Their edges point to the vanishing point.
+1030 Windows on the right.
+1031 Window frames: crosses. The vertical line stays vertical, and the horizontal one also goes to the vanishing point.
+1032 Road and pavements.
+1033 Cobblestones: little arcs, smaller and smaller far away.
+1034 Far away, at the end of the street, little houses. A kitty on the pavement.
+1035 Light from the left: the houses on the right are in shadow, hatch in two layers. Leave the windows.
+1036 The back wall: a rectangle in the middle. Leave space at the bottom for kitty.
+1037 The corners of the room: from the corners of the wall to the edges of the page.
+1038 A window on the back wall, with the moon behind it.
+1039 A picture on the left wall and a door on the right: their edges point to the vanishing point too.
+1040 Floorboards: lines from the bottom of the page to the vanishing point.
+1041 A lamp and a rug.
+1042 Kitty on the rug.
+1043 A patch of light falls from the window onto the floor. Shade the rest of the floor with one layer.
+1044 Kitty's shadow on the rug.
+1045 Window: a big frame and a cross.
+1046 The windowsill is solid: the top and the front edge.
+1047 Rooftops outside the window. Where kitty is, we don't draw the line.
+1048 Crescent moon and stars.
+1049 Kitty sits with its back to us and looks out of the window.
+1050 A flower in a pot on the windowsill.
+1051 Curtains on the sides: wavy folds.
+1052 Night sky: thick hatching. Leave the moon, the stars and kitty.
+1053 Kitty against the light: hatch it dark. And the front of the windowsill is in shadow.
+1054 The back wall: a rectangle in the middle and the vanishing point in the centre.
+1055 The corners of the corridor: from the corners of the wall to the corners of the page.
+1056 Doors on the left wall: their top and bottom point to the vanishing point.
+1057 Doors on the right wall.
+1058 Floor tiles: lines to the dot and crosswise lines, closer and closer far away.
+1059 Lamps on the ceiling: the further away, the smaller.
+1060 A kitty at the end of the corridor.
+1061 Light from the front: the right wall is in shadow.
+1062 Warm-up! A lying oval on top, an arc at the bottom and the sides. This is how any jug or vase is built.
+1063 The edge of the table and its front side.
+1064 The neck of the jug: an oval and two lines down.
+1065 The round body of the jug.
+1066 Spout and handle.
+1067 An apple on the right: stalk and leaf.
+1068 Folds of cloth in the background.
+1069 Light from the left. On the jug: halftone and form shadow with reflected light at the edge.
+1070 The neck and handle are also in shadow on the right.
+1071 Light and shade on the apple, and highlights.
+1072 Shadows on the table to the right, darker near the objects. And shadow on the front of the table.
+1073 The edge of the table.
+1074 Cup: an oval top, sides narrowing down, an arc at the bottom.
+1075 Tea inside and a handle.
+1076 Saucer: a wide oval under the cup.
+1077 Steam above the tea: wavy lines going up.
+1078 Cookies: round, the second one hiding behind the first. Little crumb dots.
+1079 Light from the left: the shadow on the cup gets smoothly darker to the right.
+1080 The cup's shadow on the saucer and the cookies' shadow.
+1081 Shadows on the table to the right.
+1082 The edge of the table. Where the vase is, we don't draw the line.
+1083 Vase: an oval neck and a round body.
+1084 Tulip stems from the neck.
+1085 Tulip flowers: little cups of petals.
+1086 Long leaves.
+1087 A pattern on the vase: stripes following the form, they curve with the vase.
+1088 Light from the left: light and shade on the vase with reflected light.
+1089 Shadow inside the flowers and leaves on the right.
+1090 The shadow on the table to the right.
+1091 Warm-up! Draw a fir tree above a line, and under the line the same one upside down, with thin lines. That's a reflection.
+1092 Shore: the waterline across the whole page.
+1093 Fir trees on the shore on the left.
+1094 A little house on the right.
+1095 Mountains far away behind the fir trees and the house. Where they hide, we don't draw the line.
+1096 Snow on the peaks and shadow on the mountains: the right slopes are darker.
+1097 Moon.
+1098 Everything is reflected upside down in the water. Draw the reflection of the fir trees and the house with thin lines.
+1099 The reflection of the mountains, very light.
+1100 Moonlight path: short dashes on the water.
+1101 Ripples on the water: wavy lines over the reflections.
+1102 The path goes into the distance: wide at the bottom and narrow far away.
+1103 The near tree on the left: a thick trunk with bark.
+1104 Its crown: fluffy bumps.
+1105 A smaller tree on the right.
+1106 The trees far away are really small.
+1107 Sunbeams break through the leaves: lightly draw slanted rays.
+1108 Tree shadows across the path.
+1109 Kitty on the path.
+1110 Leaves in shadow: hatching at the bottom of the crown.
+1111 Grass along the path.
+1112 Little house: the front wall is a rectangle.
+1113 The side wall goes back into the distance.
+1114 Roof: a triangle in front and a slope on the side.
+1115 Snow on the roof: a puffy wavy cap.
+1116 Glowing windows, a door and a chimney with smoke.
+1117 Snowy fir trees.
+1118 Snowdrifts, footprints and kitty.
+1119 Moonlight from the left: the side wall is in shadow, there's shadow under the roof.
+1120 Snow is falling: snowflakes.
+1121 Ground and a puddle: a big lying oval.
+1122 Kitty sits at the edge of the puddle.
+1123 Kitty is reflected upside down in the puddle. Thin lines.
+1124 Raindrops are falling: short sticks.
+1125 Rings from the drops on the water.
+1126 Ripples over the reflection.
+1127 Warm-up! We draw night with hatching: hatch a square thickly, and leave a white circle in the middle, that's the moon.
+1128 Rooftops: a broken line across the whole page.
+1129 House walls: lines going down.
+1130 Chimneys on the roofs and an aerial.
+1131 The moon with craters.
+1132 A kitty sits on the roof ridge.
+1133 Windows: little squares. Some are lit, others are dark, hatch those.
+1134 Night sky: thick hatching. Leave white around the moon and stars.
+1135 The house walls are dark too: hatch with a second layer, leave light around the lit windows.
+1136 Floor: the line where the wall meets the floor.
+1137 Easel: two legs in front and one at the back.
+1138 A canvas on the easel and a little shelf.
+1139 A picture on the canvas: horizon, sun, a hill and a little house.
+1140 The artist cat looks at the canvas. The cat's outline, leave space on top for the beret.
+1141 The artist's beret.
+1142 Face: eyes, nose, mouth and whiskers.
+1143 A paw with a brush reaches for the canvas.
+1144 A palette with paints on a stool.
+1145 Fur and light: window on the left, shadows to the right.
+1146 Hot air balloon: a big dome, narrowing at the bottom.
+1147 Segments on the balloon: arcs from top to bottom.
+1148 Ropes and a basket.
+1149 The basket's weave.
+1150 A kitty peeks out of the basket.
+1151 Clouds nearby.
+1152 The ground far below: horizon, fields, a river and tiny houses.
+1153 Light from the left: halftone and form shadow on the balloon.
+1154 Birds near the balloon.
+1155 A lantern in its paw: a little box, a lid and a handle.
+1156 A little flame inside the lantern.
+1157 Toys around: a ball and a ball of yarn.
+1158 Darkness: thickly hatch everything around the light. Start at the top.
+1159 Darkness on the left.
+1160 Darkness on the right. See how the lantern shines?
+1161 Hooray! What a drawing! Show it to mum or dad.
+1162 Well done! It came out beautifully. Press Done and get a sticker!
+1163 Meow! This is the best drawing in the world! Press Done.
+1164 Warm-up
+1165 Support the developer
+1166 About the app
+1167 With love, {0}
+1168 Sketch the Cat
+1169 You've finished all the levels! You're a real artist. Draw other pictures in any technique.
+1170 Hi! I'm Sketch. Tap the kitty and let's draw!
+1171 Today we're learning: “{0}”. Tap it and choose a drawing!
+1172 Drawings: {0}
+1173 Level {0} will open when you finish level {1}.
+1174 First draw any picture in the “{0}” technique!
+1175 {0}. Choose what we'll draw.
+1176 Left to draw: {0}.
+1177 Done!
+1178 Next
+1179 Get a sheet of paper and a pencil.
+1180 “{0}” again!
+1181 The “{0}” sticker is yours!
+1182 One more sticker! That came out great!
+1183 The sticker is yours! It's already in the album.
+1184 Hooray! A new level is open: {0}!
+1185 Level {0} is open!
+1186 The next lesson is open.
+1187 {0} of {1}
+1188 Here are your stickers!
+1189 Your stickers will be here. Draw your first kitty!
+1190 What is {0} + {1}?
+1191 Wrong, please try again
+1192 Copy
+1193 Copied!
+1194 Neural voice-over from the app's files is on.
+1195 The phone's voice is used. You can choose the best voice in the phone settings: Android — “Text-to-speech output”, iPhone — “Accessibility” → “Spoken Content” → “Voices”.
+1196 This browser can't speak. Open the page in Chrome or Safari.
+1197 Listen
+1198 Voices marked Natural, Neural, Enhanced or Google usually sound the most lively.
+1199 No voice was found for this language. Install voice data in your phone settings: Android — “Text-to-speech output” → Google, iPhone — “Accessibility” → “Spoken Content” → “Voices”.
+1200 Hi! I'm Sketch. Let's draw!
+1201 On
+1202 Off
+1203 Reset progress and stickers
+1204 Really reset? Tap again
+1205 Progress has been reset
+1206 Sketch the Cat. For grown-ups: hold for 2 seconds
+1207 Sticker album
+1208 Home
+1209 Say it again
+1210 Show it again
+1211 Back
+1212 Close
+1213 To the album!
+1214 This app is free
+1215 Sketch the Cat is completely free and has no ads. I made it with love for my daughter, so she could learn to draw. I hope it brings joy to your children too!
+1216 If you'd like to support the project, I'd be very grateful. It's optional: everything will stay free anyway.
+1217 Start drawing
+1218 For grown-ups only
+1219 Solve this to continue:
+1220 Thank you for wanting to help! Any amount matters. The app will stay free and ad-free anyway.
+1221 For grown-ups
+1222 Language
+1223 Sketch's voice
+1224 Speak more slowly
+1225 Which voice do you like best?
+1226 Open all lessons
+1227 Levels 1–2 are for about 5–6 years old, levels 3–4 for 6–9, and “Pro” for 9 and up. Don't rush: any lesson can be repeated as many times as you like. Dashed lines in the lessons are helper lines: they are drawn lightly and rubbed out later.
+1228 Transfer from a Russian card
+1229 The app collects no data at all: everything stays on this device.

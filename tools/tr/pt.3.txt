@@ -1,0 +1,227 @@
+0700 A sombra do tronco cai para a direita, longe do sol.
+0701 No final, a sombra da copa: um oval no chão.
+0702 Hachure as sombras.
+0703 Sombra própria na copa: a borda de baixo à direita.
+0704 Sol à direita.
+0705 O chapéu do cogumelo: uma cúpula e um arco embaixo.
+0706 Pé: dois tracinhos para baixo.
+0707 Pintinhas no chapéu.
+0708 O sol está à direita, então a sombra fica à esquerda. Desenhe e hachure.
+0709 Grama.
+0710 Guarda-sol: uma cúpula, a borda ondulada e um pau.
+0711 A sombra do guarda-sol cai para a direita. Desenhe um oval grande no chão.
+0712 O gatinho se esconde na sombra.
+0713 Hachure a sombra. Lá o gatinho fica fresquinho!
+0714 Aquecimento! Grama em zigue-zague: alta embaixo, baixinha mais acima.
+0715 Horizonte. Deixe espaço onde vai ficar a árvore grande.
+0716 A árvore perto: grande e embaixo.
+0717 A árvore longe: pequena, junto ao horizonte.
+0718 Um gatinho no prado.
+0719 O sol está à direita, então a sombra do gatinho fica à esquerda. Desenhe e hachure.
+0720 Grama: alta perto, pequena longe.
+0721 Lago: um oval grande deitado.
+0722 Juncos na margem: tracinhos com ovais em cima.
+0723 Rodinhas na água: um peixe pulou aqui.
+0724 Árvores longe, junto ao horizonte.
+0725 O gatinho na margem.
+0726 Sol à esquerda, a sombra do gatinho à direita.
+0727 Uma casinha e pinheiros ao longe.
+0728 Boneco de neve: três bolas.
+0729 Gatinho.
+0730 Sol à esquerda: sombras à direita.
+0731 Horizonte. Deixe espaço para a árvore grande.
+0732 Uma árvore grande perto.
+0733 Uma árvore pequena longe.
+0734 Folhas caindo: como barquinhos.
+0735 O gatinho e uma poça.
+0736 Sol à esquerda: a sombra do gatinho à direita.
+0737 Aquecimento! Faça um ponto no meio e trace até ele linhas retas de todos os cantos da folha, como raios.
+0738 Desenhe o horizonte e faça um ponto no meio dele. É o ponto de fuga: tudo o que está longe vai até ele.
+0739 As beiradas da estrada: duas linhas retas de baixo da folha até o ponto.
+0740 As faixas no meio. Perto as listras são compridas, mais longe cada vez mais curtas.
+0741 Linhas de apoio para os postes. Desenhe bem de leve, também até o ponto de fuga.
+0742 Postes entre as linhas de apoio. Quanto mais longe, mais baixos!
+0743 Um gatinho sentado perto da estrada olha para longe.
+0744 Horizonte e ponto de fuga.
+0745 Linhas de apoio para os dormentes: bem de leve, até o ponto.
+0746 Dormentes: tracinhos atravessados. Quanto mais longe, mais curtos e mais juntos.
+0747 Trilhos: duas linhas até o ponto de fuga.
+0748 O gatinho perto da ferrovia.
+0749 Horizonte e um ponto de fuga à direita.
+0750 Linhas de apoio: a parte de cima e de baixo da cerca, até o ponto.
+0751 Postes: quanto mais longe, mais baixos e mais juntos.
+0752 Travessas, também até o ponto de fuga.
+0753 O gatinho sentado na cerca.
+0754 Grama perto da cerca.
+0755 As margens do rio: duas linhas até o ponto de fuga. Onde o gatinho está, não desenhamos a linha.
+0756 Ondas: grandes na frente, pequenas e juntinhas longe.
+0757 Árvores na margem: quanto mais longe, menores.
+0758 O gatinho na margem direita.
+0759 Aquecimento! Desenhe um quadradinho e um ponto em cima à direita. Dos cantos do quadrado, trace de leve linhas até o ponto.
+0760 A frente da caixa: um quadrado.
+0761 De três cantos, trace bem de leve linhas de apoio até o ponto de fuga.
+0762 Nas linhas de apoio marque a profundidade da caixa: três arestas curtas.
+0763 As arestas de trás: ligue as pontas. A caixa ganhou volume!
+0764 O lado da caixa está na sombra. Hachure.
+0765 Um gatinho ao lado: ele achou uma caixa nova!
+0766 Horizonte e um ponto de fuga no meio.
+0767 A frente de duas caixas: quadrados à esquerda e à direita.
+0768 Linhas de apoio dos cantos até o ponto de fuga.
+0769 A caixa da esquerda: a parte de cima e o lado direito.
+0770 A caixa da direita: a parte de cima e o lado esquerdo. Os lados olham para o ponto de fuga.
+0771 Os lados na sombra: hachure.
+0772 Um gatinho entre as caixas.
+0773 A parede da frente é um quadrado, o telhado é um triângulo.
+0774 Linhas de apoio até o ponto de fuga dos cantos direitos e da ponta do telhado.
+0775 A parede do lado pelas linhas de apoio.
+0776 O telhado de lado: a cumeeira vai para longe.
+0777 Uma porta na frente e uma janela do lado.
+0778 A parede do lado na sombra.
+0779 A frente do baú: um retângulo.
+0780 Linhas de apoio até o ponto de fuga.
+0781 A parte de cima e o lado do baú.
+0782 Tampa: uma linha na frente e outra do lado, também até o ponto.
+0783 Faixas e um cadeadinho.
+0784 O lado na sombra. Um gatinho em cima do baú.
+0785 Aquecimento! Faça um ponto à direita e desenhe postes indo até ele: cada um mais baixo que o anterior.
+0786 Linhas de apoio para as árvores da esquerda: por baixo e por cima. Bem de leve.
+0787 As beiradas do caminho, também até o ponto.
+0788 Árvores à esquerda entre as linhas de apoio. Quanto mais longe, menores.
+0789 As mesmas árvores à direita, como num espelho.
+0790 O gatinho passeia pela alameda.
+0791 Linhas de apoio para os postes de luz: por baixo e por cima.
+0792 As beiradas da estrada.
+0793 Postes de luz: quanto mais longe, mais baixos e mais juntos.
+0794 Um gatinho perto da estrada.
+0795 Linhas de apoio: por baixo dos pinheiros, à esquerda e à direita.
+0796 Caminho.
+0797 Pinheiros: grandes na frente, pequenos ao longe.
+0798 Um gatinho anda pela trilha.
+0799 As beiradas da ponte: linhas até o ponto de fuga.
+0800 Corrimãos: as linhas de cima também vão até o ponto.
+0801 Os postes do corrimão: quanto mais longe, mais baixos e mais juntos.
+0802 Tábuas na ponte: linhas atravessadas, cada vez mais juntas ao longe.
+0803 Um gatinho atravessa a ponte.
+0804 Aquecimento! Um horizonte com dois pontos nas pontas. Desenhe um tracinho e das pontas dele trace linhas até os dois pontos.
+0805 O horizonte está baixo, com dois pontos de fuga nas beiradas da folha. Deixe espaço no meio para a casa.
+0806 A quina mais perto da casa: uma linha vertical alta.
+0807 Das pontas da linha, trace de leve linhas de apoio até os dois pontos.
+0808 Onde terminam as paredes: duas linhas verticais à esquerda e à direita.
+0809 Contorne as paredes pelas linhas de apoio: em cima e embaixo.
+0810 Uma porta e uma janela na parede direita. As beiradas delas também olham para o ponto de fuga.
+0811 O sol está à direita. A parede esquerda está na sombra, hachure.
+0812 Um gatinho sentado na quina do telhado!
+0813 O horizonte está alto, com dois pontos de fuga nas beiradas.
+0814 A quina mais perto do caixote.
+0815 Linhas de apoio das pontas da quina até os dois pontos.
+0816 As beiradas do caixote: duas linhas verticais.
+0817 Contorne os lados e a parte de cima. Olhamos de cima, então vemos a tampa.
+0818 Tábuas nos lados: as linhas também vão até os pontos de fuga.
+0819 O lado esquerdo na sombra.
+0820 Um gatinho em cima do caixote.
+0821 O horizonte está baixo, com dois pontos nas beiradas: olhamos a torre de baixo.
+0822 A quina mais perto da torre: uma linha alta.
+0823 Linhas de apoio até os dois pontos de fuga.
+0824 As beiradas das paredes e as linhas das paredes.
+0825 Um telhado pontudo e uma bandeira.
+0826 Janelas: as beiradas delas também olham para os pontos de fuga.
+0827 A parede esquerda na sombra.
+0828 Um gatinho perto da torre.
+0829 O horizonte está alto, com dois pontos de fuga.
+0830 A quina mais perto da casinha de cachorro.
+0831 Linhas de apoio até os dois pontos.
+0832 As beiradas das paredes e a parte de cima.
+0833 Uma portinha arredondada em cima na parede direita.
+0834 Dentro está escuro, e a parede esquerda está na sombra.
+0835 Aquecimento! Desenhe um oval e um círculo e hachure o lado escuro de cada um. Luz de cima à esquerda.
+0836 Luz de cima à esquerda. A cabeça é redonda, então embaixo à direita ela é mais escura. Hachure a borda.
+0837 O corpo também é redondo: hachuramos o lado escuro à direita.
+0838 E uma sombra no chão à direita. Desenhe e hachure mais forte.
+0839 Pera: um círculo grande embaixo, um menor em cima. Não desenhe as linhas de dentro.
+0840 Brilho.
+0841 Sombra própria: o lado escuro à direita.
+0842 A sombra na mesa.
+0843 Corpo: um oval comprido deitado. Na frente está a cabeça, ali não desenhamos a linha.
+0844 Cabeça, orelhas e pata.
+0845 Luz de cima à direita: o lado escuro fica embaixo à esquerda.
+0846 A sombra no chão à esquerda.
+0847 Melancia: um círculo grande e um cabinho.
+0848 Listras: arcos de cima para baixo.
+0849 Sombra própria: o lado de baixo à direita.
+0850 Aquecimento! Desenhe três pinheiros: um grande embaixo, um médio mais acima e um pequeno junto à linha.
+0851 Fundo: montanhas. Elas estão no horizonte e parecem pequenas.
+0852 Neve no pico: um zigue-zague pequeno.
+0853 Plano do meio: uma casinha e uma árvore, menores.
+0854 Primeiro plano: o gatinho está bem perto. Ele é tão grande que nem cabe!
+0855 A carinha do gatinho grande.
+0856 Grama grande na frente e pássaros no céu.
+0857 Horizonte. Onde vão ficar a casinha e a árvore, não desenhamos a linha.
+0858 Fundo: silhuetas de casas no horizonte. Onde vai ficar a casa perto, não desenhamos a linha.
+0859 Plano do meio: uma casinha e uma árvore.
+0860 Primeiro plano: um gatinho grande, nem cabe.
+0861 Pássaros no céu.
+0862 Fundo: uma ilhazinha com uma palmeira.
+0863 Plano do meio: um veleiro nas ondas.
+0864 Primeiro plano: a praia. Onde o gatinho está, não desenhamos a linha.
+0865 Um gatinho grande na frente.
+0866 Uma concha na areia: uma espiral pequena.
+0867 Fundo: colinas no horizonte.
+0868 Plano do meio: pinheiros menores.
+0869 Primeiro plano: um pinheiro grande à esquerda, nem cabe.
+0870 O gatinho está bem perto.
+0871 Grama na frente.
+0872 Aquecimento! O sol está baixo à direita. Desenhe tracinhos e as sombras compridas deles para a esquerda.
+0873 Horizonte. Deixe espaço no meio para a copa da árvore.
+0874 Fim de tarde: o sol se põe à direita, junto ao horizonte.
+0875 Árvore.
+0876 No fim da tarde o sol está baixo e as sombras ficam compridas, compridas. A sombra da árvore se estica para a esquerda.
+0877 Hachure a sombra da árvore.
+0878 E a sombra comprida do gatinho.
+0879 Meio-dia: o sol está bem lá no alto.
+0880 Quando o sol está alto, as sombras são curtas e ficam bem embaixo das coisas.
+0881 Um poste no meio: um pau e uma cúpula.
+0882 Raios de luz: bem de leve, do poste para baixo.
+0883 Um gatinho à esquerda e uma bola à direita.
+0884 As sombras fogem do poste: a do gatinho para a esquerda, a da bola para a direita.
+0885 Lua e estrelas.
+0886 Mesa.
+0887 Uma vela no meio e uma chaminha.
+0888 Uma xícara à esquerda e uma bola à direita.
+0889 A luz sai da chama para todos os lados: trace de leve os raios.
+0890 As sombras fogem da vela: a da xícara para a esquerda, a da bola para a direita.
+0891 A luz está à esquerda da bola e à direita da xícara: os lados escuros ficam longe da vela.
+0892 Aquecimento! Lembre o claro-escuro: desenhe uma bola com brilho, sombra própria e sombra no chão.
+0893 A estrada vai até o ponto.
+0894 Árvores à direita. Quanto mais longe, menores.
+0895 Uma casinha longe perto da estrada: bem pequenininha.
+0896 Sol em cima à esquerda.
+0897 Um gatinho na frente: corpo e cabeça.
+0898 Carinha, bigodes e rabo.
+0899 Sombra própria: o lado escuro fica à direita da cabeça e do corpo.
+0900 E uma sombra no chão à direita. Você é um artista de verdade!
+0901 A estrada vai para longe.
+0902 Casinhas com janelas ao longe.
+0903 Um boneco de neve à direita.
+0904 Um gatinho à esquerda.
+0905 A lua em cima à direita: sombras próprias à esquerda e sombras na neve.
+0906 Horizonte: mar e céu.
+0907 O sol e um navio distante.
+0908 Ondas e praia.
+0909 Um guarda-sol de praia.
+0910 Uma bola e um gatinho.
+0911 Sol à esquerda: sombras próprias à direita e sombras na areia.
+0912 A trilha vai para longe.
+0913 Árvores à esquerda: quanto mais longe, menores.
+0914 Um banco à direita.
+0915 Folhas caindo.
+0916 Sol à esquerda: sombra própria e sombra no chão.
+0917 Aquecimento! Desenhe bem de leve três ovais de apoio e depois contorne com uma linha firme, como se fossem uma forma só.
+0918 Os artistas primeiro constroem a figura com formas simples. Bem de leve: um círculo para o peito, um círculo para o quadril, um círculo para a cabeça e a linha das costas.
+0919 Agora com firmeza: a cabeça e a linha das costas, seguindo o apoio.
+0920 A barriguinha embaixo.
+0921 As patas da frente bem esticadas para frente.
+0922 As patas de trás apoiadas no chão.
+0923 O rabo para cima.
+0924 Orelhas e carinha: o olho fechadinho de prazer.
+0925 Pelo: traços curtos ao longo do corpo, da cabeça até o rabo.
+0926 Luz de cima: a barriga e as patas estão na sombra. Hachure cruzado perto da barriga.

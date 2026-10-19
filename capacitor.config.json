@@ -1,0 +1,12 @@
+{
+  "appId": "com.kotikshtrih.app",
+  "appName": "Котик Штрих",
+  "webDir": "dist/app",
+  "backgroundColor": "#D9E9F4",
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "never"
+  }
+}
