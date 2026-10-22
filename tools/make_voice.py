@@ -3,8 +3,9 @@
 Приложение само найдёт эти файлы и будет говорить живым голосом вместо голоса телефона
 (если файла для фразы нет — спокойно говорит голосом телефона).
 
-ВНИМАНИЕ: в среде, где писался скрипт, интернет был закрыт, поэтому он не прогонялся
-на настоящих сервисах. Сначала попробуйте на одном языке: --langs ru --limit 5.
+Проверено на edge-tts (все 10 языков). Azure и Яндекс на настоящих ключах не прогонялись —
+сначала попробуйте на одном языке: --langs ru --limit 5.
+Если установлен ffmpeg, каждый файл обрезается от тишины и пережимается в 32 кбит/с (--bitrate).
 
 Шаги:
   1) node tools/export_phrases.js          (обновить список фраз, если меняли уроки)
@@ -25,9 +26,10 @@
      pip install edge-tts
      python3 tools/make_voice.py --engine edge --langs ru
 
-Опции: --voice ru=ru-RU-SvetlanaNeural  --rate -6%  --force  --limit N  --delay сек  --dry-run
+Опции: --voice ru=ru-RU-SvetlanaNeural  --rate -6%  --bitrate 32k  --force  --limit N  --delay сек  --dry-run
+За корпоративным прокси со своим сертификатом: SSL_CERT_FILE=/путь/к/ca.crt
 """
-import argparse, asyncio, json, os, sys, time, urllib.parse, urllib.request
+import argparse, asyncio, json, os, shutil, subprocess, sys, time, urllib.parse, urllib.request
 from xml.sax.saxutils import escape
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -85,10 +87,22 @@ def edge(text, lang, voice, rate, out):
         import edge_tts
     except ImportError:
         sys.exit('Установите: pip install edge-tts')
+    ca = os.environ.get('SSL_CERT_FILE')
+    if ca:   # корпоративный прокси со своим сертификатом: edge-tts по умолчанию берёт только certifi
+        import ssl, edge_tts.communicate
+        edge_tts.communicate._SSL_CTX = ssl.create_default_context(cafile=ca)
     asyncio.run(edge_tts.Communicate(text, voice, rate=rate, pitch='+3Hz').save(out))
 
 
 ENGINES = {'azure': azure, 'yandex': yandex, 'edge': edge}
+
+
+def compress(src, out, bitrate):
+    """Обрезает тишину по краям и пережимает в mono 22 кГц: файлы становятся в 2–2,5 раза легче."""
+    trim = 'silenceremove=start_periods=1:start_threshold=-45dB'
+    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', src, '-af',
+                    f'{trim},areverse,{trim},areverse,adelay=60,apad=pad_dur=0.12',
+                    '-ac', '1', '-ar', '22050', '-b:a', bitrate, '-f', 'mp3', out], check=True)
 
 
 def main():
@@ -101,9 +115,13 @@ def main():
     ap.add_argument('--limit', type=int, help='сделать только N фраз (для пробы)')
     ap.add_argument('--force', action='store_true', help='перезаписать готовые файлы')
     ap.add_argument('--dry-run', action='store_true', help='только посчитать фразы и символы')
+    ap.add_argument('--bitrate', default='32k', help='битрейт после сжатия (нужен ffmpeg); 0 — не сжимать')
     a = ap.parse_args()
     voices = dict(VOICES[a.engine]); voices.update(dict(v.split('=', 1) for v in a.voice))
     delay = DELAY[a.engine] if a.delay is None else a.delay
+    squeeze = a.bitrate != '0' and shutil.which('ffmpeg')
+    if a.bitrate != '0' and not squeeze:
+        print('ffmpeg не найден — файлы не будут сжаты (будут примерно вдвое тяжелее)')
     total = 0
     for lang in a.langs:
         src = os.path.join(PHRASES, lang + '.json')
@@ -127,7 +145,11 @@ def main():
                     ENGINES[a.engine](r['text'], lang, voices[lang], a.rate, out + '.part')
                     if os.path.getsize(out + '.part') < 500:
                         raise RuntimeError('слишком короткий ответ')
-                    os.replace(out + '.part', out); done += 1; break
+                    if squeeze:
+                        compress(out + '.part', out, a.bitrate); os.remove(out + '.part')
+                    else:
+                        os.replace(out + '.part', out)
+                    done += 1; break
                 except SystemExit:
                     raise
                 except Exception as e:

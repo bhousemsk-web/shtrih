@@ -6,7 +6,7 @@
   "scripts": {
     "build": "python3 tools/build.py",
     "icons": "python3 tools/make_icons.py",
-    "app:rustore": "python3 tools/build.py app:rustore && npx cap sync android",
+    "app:rustore": "python3 tools/build.py app:rustore --audio ru,en && npx cap sync android",
     "assets": "npx @capacitor/assets generate --iconBackgroundColor '#D9E9F4' --splashBackgroundColor '#D9E9F4'",
     "android": "npx cap open android",
     "rustore": "python3 tools/build.py rustore"
