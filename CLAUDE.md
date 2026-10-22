@@ -20,7 +20,16 @@
     Новая фраза интерфейса = новая строка в ru.txt и во всех 9 языках.
 - `tools/build.py` — сборка в `dist/` (web, telegram, rustore, preview; `app:rustore` → `dist/app` для Capacitor).
 - `tools/export_phrases.js` + `tools/make_voice.py` — нейро-озвучка в `www/audio/<lang>/` (Azure / Яндекс / edge-tts).
-- `tools/capacitor_setup.sh`, `tools/patch_native.py` — Android-проект; `tools/make_icons.py` — иконки и картинки для магазинов.
+  Сейчас озвучено edge-tts (все 10 языков), файлы сжаты ffmpeg до 32 кбит/с. В APK кладём только ru,en (`--audio ru,en`),
+  остальные языки приложение берёт с сайта (`audioRemote` в config.js), без интернета — голос телефона.
+  После правки текстов: `node tools/export_phrases.js` → `SSL_CERT_FILE=/root/.ccr/ca-bundle.crt python3 tools/make_voice.py --engine edge`
+  (готовые файлы пропускаются; устаревшие mp3 можно удалить).
+- `tools/capacitor_setup.sh`, `tools/patch_native.py` — Android-проект (`android/` в репозитории); `tools/make_icons.py` — иконки и картинки для магазинов.
+- Сборка APK без Android Studio: Android SDK в `/opt/android`, `cd android && ./gradlew assembleRelease`, затем zipalign + apksigner
+  ключом `kotik-shtrih.jks` (alias `shtrih`). Ключ и пароль — у пользователя, в git их нет (папка `release/` в .gitignore).
+  Перед новой версией поднять versionCode/versionName в `android/app/build.gradle`.
+- `.github/workflows/pages.yml` — при пуше в main сайт + `tg/` выкладываются на https://bhousemsk-web.github.io/shtrih/.
+- Telegram-бот @Cat_Strih_bot: кнопка меню «🎨 Рисовать» → `.../shtrih/tg/` (настроено через Bot API, токен у пользователя).
 - `store/listing.md` — тексты карточек.
 
 ## Проверка после изменений
@@ -28,10 +37,7 @@
 - `python3 tools/build.py` без ошибок; открыть `dist/web/index.html` через `python3 -m http.server -d dist/web 8000`.
 - Рисунки проверять глазами (рендер в PNG), особенно перекрытия линий.
 
-## Что дальше
-1. Вписать реквизиты и почту в `www/config.js`.
-2. Выложить `dist/web` и `dist/telegram` (как папку `tg/`) на GitHub Pages.
-3. Создать бота в @BotFather → /newapp с адресом `.../tg/`.
-4. Собрать подписанный APK (`bash tools/capacitor_setup.sh`, Android Studio), опубликовать в RuStore.
-5. По желанию — нейро-озвучка.
+## Что сделано / дальше
+- Готово: реквизиты (ЮMoney, Bybit UID) и почта, сайт и Telegram на GitHub Pages, бот, подписанный APK, нейро-озвучка.
+- Дальше: пользователь публикует APK в RuStore (инструкция была в чате; тексты в `store/listing.md`, скриншоты делались Playwright 1080×1920).
 Подробная инструкция: документ «Котик Штрих: как выложить…» в claude.ai.

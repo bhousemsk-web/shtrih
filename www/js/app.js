@@ -55,7 +55,11 @@ function voiceScore(v){const n=v.name||'';let s=0;
 function voicesFor(l){return allVoices.filter(v=>(v.lang||'').toLowerCase().replace('_','-').startsWith(l)).sort((a,b)=>voiceScore(b)-voiceScore(a));}
 function currentVoice(){const list=voicesFor(state.lang),saved=state.voices[state.lang];return list.find(v=>v.name===saved)||list[0]||null;}
 const packs={};
-async function loadPack(l){if(packs[l]!==undefined)return packs[l];packs[l]=null;try{const r=await fetch(CFG.audioBase+l+'/index.json');if(r.ok){const j=await r.json();packs[l]=new Set(j.files||[]);}}catch(e){}return packs[l];}
+/* сначала озвучка внутри приложения, потом (если есть интернет) с сайта: в APK кладём не все языки */
+const packBase={};
+async function loadPack(l){if(packs[l]!==undefined)return packs[l];packs[l]=null;
+  for(const base of [CFG.audioBase,CFG.audioRemote].filter(Boolean)){try{const r=await fetch(base+l+'/index.json');if(r.ok){const j=await r.json();packs[l]=new Set(j.files||[]);packBase[l]=base;break;}}catch(e){}}
+  return packs[l];}
 let sayTok=0,curAudio=null;
 function playFile(url,tk){return new Promise(res=>{if(tk!==sayTok)return res();const a=new Audio(url);curAudio=a;a.playbackRate=state.slow?.88:1;a.onended=a.onerror=()=>res();a.play().catch(()=>res());});}
 function hush(){sayTok++;if(curAudio){try{curAudio.pause();}catch(e){}curAudio=null;}if(WEB_TTS)try{speechSynthesis.cancel();}catch(e){}if(NATIVE_TTS)try{NATIVE_TTS.stop();}catch(e){}}
@@ -63,7 +67,7 @@ async function say(text,force){
   if(!state.voice&&!force)return;hush();const tk=sayTok;
   const parts=splitSentences(forSpeech(text));if(!parts.length)return;
   const pack=packs[state.lang];
-  if(pack&&parts.every(p=>pack.has(phraseHash(p)))){for(const p of parts){if(tk!==sayTok)return;await playFile(CFG.audioBase+state.lang+'/'+phraseHash(p)+'.mp3',tk);}return;}
+  if(pack&&parts.every(p=>pack.has(phraseHash(p)))){for(const p of parts){if(tk!==sayTok)return;await playFile(packBase[state.lang]+state.lang+'/'+phraseHash(p)+'.mp3',tk);}return;}
   if(NATIVE_TTS){for(const p of parts){if(tk!==sayTok)return;try{await NATIVE_TTS.speak({text:p,lang:SPEECH[state.lang],rate:state.slow?.8:.95,pitch:1.05,category:'playback'});}catch(e){break;}}return;}
   if(WEB_TTS){const v=currentVoice();parts.forEach(p=>{const u=new SpeechSynthesisUtterance(p);u.lang=SPEECH[state.lang];if(v)u.voice=v;u.rate=state.slow?.8:.95;u.pitch=1.05;try{speechSynthesis.speak(u);}catch(e){}});}
 }

@@ -23,6 +23,8 @@ window.SHTRIH_CONFIG={
   /* Нейро-озвучка: папка или адрес, где лежат audio/<язык>/index.json и mp3 (см. tools/make_voice.py).
      Если файлов нет, Штрих говорит голосом устройства. */
   audioBase:'audio/',
+  /* Запасной адрес озвучки: языки, которых нет внутри приложения, подгружаются отсюда (нужен интернет) */
+  audioRemote:'https://bhousemsk-web.github.io/shtrih/audio/',
 
   /* Страница политики конфиденциальности (нужна магазинам) */
   privacyUrl:'privacy.html',

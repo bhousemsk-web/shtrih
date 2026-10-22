@@ -7,7 +7,7 @@ cd "$(dirname "$0")/.."
 
 python3 tools/make_icons.py
 bash tools/get_fonts.sh || echo "⚠ шрифты не скачались — приложение возьмёт системные, это не страшно"
-python3 tools/build.py app:rustore
+python3 tools/build.py app:rustore --audio ru,en
 
 npm install @capacitor/core @capacitor/cli @capacitor/android @capacitor-community/text-to-speech
 npm install -D @capacitor/assets
