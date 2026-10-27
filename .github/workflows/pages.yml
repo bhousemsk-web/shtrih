@@ -39,6 +39,8 @@ jobs:
           # озвучка одна на сайт и Telegram-версию, чтобы не выкладывать её дважды
           rm -rf site/tg/audio
           sed -i "s#audioBase:'audio/'#audioBase:'../audio/'#" site/tg/config.js
+          node tools/make_site.js
+          cp -r dist/site/. site/
           touch site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
